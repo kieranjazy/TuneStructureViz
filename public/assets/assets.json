@@ -1,0 +1,27 @@
+[
+  {
+    "name": "test1", 
+    "structure": ["a", "b", "a1", "c", "a", "b", "d", "e"]
+  }, 
+  {
+    "name": "test2",
+    "structure": ["a", "b", "a", "c", "a", "b", "a1", "e"]
+  }, 
+  {
+    "name": "test3",
+    "structure": ["a", "b", "c", "d", "a", "b", "d", "e"]
+  }, 
+  {
+    "name": "test4", 
+    "structure": ["a", "b", "c", "d", "a", "b1", "e", "f"]
+  }, 
+  {
+    "name": "test5", 
+    "structure": ["a", "a1", "a", "a2", "a", "a3", "b", "a1"]
+  },
+  {
+    "name": "test6", 
+    "structure": ["a", "a1", "a", "a2", "a", "a3", "b", "a1"]
+  }
+]
+    

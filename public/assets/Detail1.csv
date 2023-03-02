@@ -1,0 +1,2390 @@
+﻿Classification,Tune,Part,Structure,1,2,3,4,Melodic Structure,Number of Parts,Tune Scheme,Unique LC letters,Internal Repetition,External Repetition,Total Repetition
+Double Jig,1,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HHP,5,3,0,3
+Double Jig,1,A1,"ab, a1c; ab, de1.",ab,a1c,ab,de1,H,,,5,3,0,3
+Double Jig,1,B,"ab, cd; ab, AdAe1.",ab,cd,ab,AdAe1,P,,,4,2,2,4
+Double Jig,2,A,"ab, ac; ab, a1e.",ab,ac,ab,a1e,D,2,DS,5,3,0,3
+Double Jig,2,B,"ab, a1b1; cd, eAe.",ab,a1b1,cd,eAe,S,,,4,3,1,4
+Double Jig,3,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Double Jig,3,B,"aAc, a1b; a2Ac, Ad1Ae.",aAc,a1b,a2Ac,Ad1Ae,H,,,2,3,3,6
+Double Jig,4,A,"ab, cd; ec1, fg.",ab,cd,ec1,fg,N,3,NHN,7,1,0,1
+Double Jig,4,B,"ab, a1c; ad, AfAg.",ab,a1c,ad,AfAg,H,,,4,2,2,4
+Double Jig,4,C,"ab, cAd1; AeAc1, AfAg.",ab,cAd1,AeAc1,AfAg,N,,,3,1,4,5
+Double Jig,5,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,4,PSSS,5,3,0,3
+Double Jig,5,B,"ab, a1b1; cd, Ac1Ae.",ab,a1b1,cd,Ac1Ae,S,,,4,2,2,4
+Double Jig,5,C,"aAc2, a1b1; cAb, Ac1Ae.",aAc2,a1b1,cAb,Ac1Ae,S,,,3,2,3,5
+Double Jig,5,D,"aBb2, a1Bb3; bc, Ac1Ae.",aBb2,a1Bb3,bc,Ac1Ae,S,,,4,2,2,4
+Double Jig,6,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,5,PPPPH,4,4,0,4
+Double Jig,6,B,"ab, Ac1Ad; ab, Ac1Ae.",ab,Ac1Ad,ab,Ac1Ae,P,,,2,2,4,6
+Double Jig,6,C,"ab, cd; ab, c1d1.",ab,cd,ab,c1d1,P,,,4,4,0,4
+Double Jig,6,D,"ab, cAd1; ab, Ac1Ae.",ab,cAd1,ab,Ac1Ae,P,,,4,2,2,4
+Double Jig,6,E,"aBb1, aAd1; aBb1, AcAe.",aBb1,aAd1,aBb1,AcAe,H,,,2,3,3,6
+Double Jig,7,A,"ab, ac; ab, de.",ab,ac,ab,de,H,3,HPS,5,3,0,3
+Double Jig,7,B,"ab, cAc; ab, cAe.",ab,cAc,ab,cAe,P,,,3,3,2,5
+Double Jig,7,C,"ab, aAc; BaBb, BcAe.",ab,aAc,BaBb,BcAe,S,,,2,1,5,6
+Double Jig,8,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Double Jig,8,B,"aa, bAd1; cd, AcAe.",aa,bAd1,cd,AcAe,N,,,5,1,2,3
+Double Jig,9,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,3,PPH,6,2,0,2
+Double Jig,9,B,"ab, AcAd1; ab1, AeAf.",ab,AcAd1,ab1,AeAf,P,,,3,2,3,5
+Double Jig,9,C,"ab, ab1; ac, AeAf.",ab,ab1,ac,AeAf,H,,,3,3,2,5
+Double Jig,10,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PP,6,2,0,2
+Double Jig,10,B,"ab, cd; ab, AeAf.",ab,cd,ab,AeAf,P,,,4,1,3,4
+Double Jig,11,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,3,PPP,7,1,0,1
+Double Jig,11,B,"aa1, AcAd; aAb2, AeAf.",aa1,AcAd,aAb2,AeAf,P,,,2,2,4,6
+Double Jig,11,C,"ab, cAd; ab, c1Af.",ab,cAd,ab,c1Af,P,,,3,3,2,5
+Double Jig,12,A,"aa1, aa2; aa3, ba1.",aa1,aa2,aa3,ba1,H,7,HHDHSPP,2,6,0,6
+Double Jig,12,B,"aAa1, aAa2; aAa3, AbAa1.",aAa1,aAa2,aAa3,AbAa1,H,,,1,2,5,7
+Double Jig,12,C,"ab, a1b1; ab, a1Aa1.",ab,a1b1,ab,a1Aa1,D,,,4,3,1,4
+Double Jig,12,D,"aa, aAa1; aa, bAa1.",aa,aAa1,aa,bAa1,H,,,2,4,2,6
+Double Jig,12,E,"aAa1, bAa2; bb, AbAa1.",aAa1,bAa2,bb,AbAa1,S,,,2,2,4,6
+Double Jig,12,F,"ab, cAa2; ab, cAa1.",ab,cAa2,ab,cAa1,P,,,3,3,2,5
+Double Jig,12,G,"ab, FcAa2; ab, FcAa1.",ab,FcAa2,ab,FcAa1,P,,,2,2,4,6
+Double Jig,13,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PNN,4,4,0,4
+Double Jig,13,B,"aa1, bc; AaAb, Ac1Ae.",aa1,bc,AaAb,Ac1Ae,N,,,3,1,4,5
+Double Jig,13,B1,"aa1, bc; de, Ac2Ae.",aa1,bc,de,Ac2Ae,N,,,5,1,2,3
+Double Jig,14,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,2,PS,7,1,0,1
+Double Jig,14,B,"aa, a1b; cAe, AfAg.",aa,a1b,cAe,AfAg,S,,,3,2,3,5
+Double Jig,15,A,"ab, ab1; ac, de.",ab,ab1,ac,de,H,2,HH,5,3,0,3
+Double Jig,15,B,"aAb, aAb1; a1Ac1, AdAe.",aAb,aAb1,a1Ac1,AdAe,H,,,1,2,5,7
+Double Jig,16,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HS,5,3,0,3
+Double Jig,16,B,"ab, a1b1; AaAb, AdAe.",ab,a1b1,AaAb,AdAe,S,,,2,2,4,6
+Double Jig,17,A,"aa1, a2b; aa1, a2c.",aa1,a2b,aa1,a2c,P,2,PN,3,5,0,5
+Double Jig,17,B,"ab, Aa2Ab1; cc1, Aa2Ac.",ab,Aa2Ab1,cc1,Aa2Ac,N,,,3,1,4,5
+Double Jig,18,A,"ab, ac; ad, ef.",ab,ac,ad,ef,H,2,HH,6,2,0,2
+Double Jig,18,B,"ab, ac; aAd, AeAf.",ab,ac,aAd,AeAf,H,,,3,2,3,5
+Double Jig,19,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Double Jig,19,B,"ab, a1c; a2d, AdAe.",ab,a1c,a2d,AdAe,H,,,4,2,2,4
+Double Jig,20,A,"ab, ac; ab, ad.",ab,ac,ab,ad,D,2,DH,4,4,0,4
+Double Jig,20,B,"ab, ac; a2d, AdAe.",ab,ac,a2d,AdAe,H,,,4,2,2,4
+Double Jig,21,A,"ab, a1b1; a2b, cd.",ab,a1b1,a2b,cd,H,2,HH,4,4,0,4
+Double Jig,21,B,"ab, ac; ad, Ac1Ad.",ab,ac,ad,Ac1Ad,H,,,4,2,2,4
+Double Jig,22,A,"ab, cd; ab1, ce.",ab,cd,ab1,ce,P,2,PP,5,3,0,3
+Double Jig,22,B,"ab, cd; ae, AcAe.",ab,cd,ae,AcAe,P,,,5,1,2,3
+Double Jig,23,A,"ab, a1b1; ab, cd.",ab,a1b1,ab,cd,H,2,HH,4,4,0,4
+Double Jig,23,B,"ab, a1b1; ab, AcAd.",ab,a1b1,ab,AcAd,H,,,2,4,2,6
+Double Jig,24,A,"ab, cd; ab1, ce.",ab,cd,ab1,ce,P,2,PP,5,3,0,3
+Double Jig,24,B,"ab, AcAd1; ab, AcAe.",ab,AcAd1,ab,AcAe,P,,,2,2,4,6
+Double Jig,25,A,"ab, cd; ac1, ef.",ab,cd,ac1,ef,P,2,PP,6,2,0,2
+Double Jig,25,B,"ab, cAd1; ad, AeAf.",ab,cAd1,ad,AeAf,P,,,4,1,3,4
+Double Jig,26,A,"ab, cd; a1b, ce.",ab,cd,a1b,ce,P,2,PN,5,3,0,3
+Double Jig,26,B,"ab, cd; AaAb, AcAe.",ab,cd,AaAb,AcAe,N,,,4,0,4,4
+Double Jig,27,A,"ab, ac; ab, de.",ab,ac,ab,de,H,3,HDP,5,3,0,3
+Double Jig,27,B,"ab, a1c; ab, a1d.",ab,a1c,ab,a1d,D,,,4,4,0,4
+Double Jig,27,C,"ab, cc1; ab, c2Bd.",ab,cc1,ab,c2Bd,P,,,4,3,1,4
+Double Jig,28,A,"ab, a1c; de, fg.",ab,a1c,de,fg,S,3,SHS,7,1,0,1
+Double Jig,28,B,"aAb1, a1Ab2; ab, cAg.",aAb1,a1Ab2,ab,cAg,H,,,3,2,3,5
+Double Jig,28,C,"ab, a1b1; cd, BcAg.",ab,a1b1,cd,BcAg,S,,,4,2,2,4
+Double Jig,29,A,"ab, a1c; ab1, de.",ab,a1c,ab1,de,H,6,HPNNNS,5,3,0,3
+Double Jig,29,B,"ab, Aa1Ac; ab, AdAe.",ab,Aa1Ac,ab,AdAe,P,,,2,2,4,6
+Double Jig,29,C,"BaBb, Aa1Ac; ab, cAe.",BaBb,Aa1Ac,ab,cAe,N,,,3,0,5,5
+Double Jig,29,D,"ab, cd; ef, gh.",ab,cd,ef,gh,N,,,8,0,0,0
+Double Jig,29,E,"ab, a1Dd; DeDf, Dg1Dh.",ab,a1Dd,DeDf,Dg1Dh,N,,,2,1,5,6
+Double Jig,29,F,"ab, aDh; ca1, Dg1Dh.",ab,aDh,ca1,Dg1Dh,S,,,3,2,3,5
+Double Jig,30,A,"ab, cd; a1e, fg.",ab,cd,a1e,fg,P,2,PH,7,1,0,1
+Double Jig,30,B,"ab, a1c; ab, dAg.",ab,a1c,ab,dAg,H,,,4,3,1,4
+Double Jig,31,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HN,5,3,0,3
+Double Jig,31,B,"ab, cb1; de, fAe.",ab,cb1,de,fAe,N,,,6,1,1,2
+Double Jig,32,A,"ab, a1c; a2b, dc1.",ab,a1c,a2b,dc1,H,2,HH,4,4,0,4
+Double Jig,32,B,"ab, a1c; a1b, AdAc.",ab,a1c,a1b,AdAc,H,,,3,3,2,5
+Double Jig,33,A,"ab, cd; eb, c1f.",ab,cd,eb,c1f,P,2,PH,6,2,0,2
+Double Jig,33,B,"aAc2, ab; cd, Ac1Af.",aAc2,ab,cd,Ac1Af,H,,,4,1,3,4
+Double Jig,34,A,"ab, ac; ab, de.",ab,ac,ab,de,H,5,HSSHSSH,5,3,0,3
+Double Jig,34,B,"ab, a1b1; cd, AdAe.",ab,a1b1,cd,AdAe,S,,,4,2,2,4
+Double Jig,34,B1,"ab, a1b1; cd, AdAe1.",ab,a1b1,cd,AdAe1,S,,,4,2,2,4
+Double Jig,34,C,"ab, ac; a1b1, dc.",ab,ac,a1b1,dc,H,,,4,4,0,4
+Double Jig,34,D,"ab, a1b1; BcBd, AdAe.",ab,a1b1,BcBd,AdAe,S,,,2,2,4,6
+Double Jig,34,D1,"ab, a1b1; BcBd, AdAe1.",ab,a1b1,BcBd,AdAe1,S,,,2,2,4,6
+Double Jig,34,E,"ab, a1Ac; ab1, AdAe.",ab,a1Ac,ab1,AdAe,H,,,2,3,3,6
+Double Jig,35,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HS,5,3,0,3
+Double Jig,35,B,"ab, ac; de, fAe.",ab,ac,de,fAe,S,,,6,1,1,2
+Double Jig,36,A,"ab, ab1; ab, cd.",ab,ab1,ab,cd,H,2,HH,4,4,0,4
+Double Jig,36,B,"ab, ac; aAc, dAd.",ab,ac,aAc,dAd,H,,,4,2,2,4
+Double Jig,37,A,"ab, b1c; ab, b1d.",ab,b1c,ab,b1d,P,2,PP,4,4,0,4
+Double Jig,37,B,"ab, cd; a1b, Ab1Ad.",ab,cd,a1b,Ab1Ad,P,,,4,2,2,4
+Double Jig,38,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HP,5,3,0,3
+Double Jig,38,B,"ab, cd; ab, AdAe.",ab,cd,ab,AdAe,P,,,4,2,2,4
+Double Jig,39,A,"ab, cd; ab, de.",ab,cd,ab,de,P,2,PP,5,3,0,3
+Double Jig,39,B,"ab, AcAd1; ab, AdAe.",ab,AcAd1,ab,AdAe,P,,,2,2,4,6
+Double Jig,40,A,"ab, cd; ab, c1d.",ab,cd,ab,c1d,P,2,PH,4,4,0,4
+Double Jig,40,B,"ab, ac; ab, dAd.",ab,ac,ab,dAd,H,,,4,3,1,4
+Double Jig,41,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PHS,6,2,0,2
+Double Jig,41,B,"ab, a1b1; ab2, AeAf.",ab,a1b1,ab2,AeAf,H,,,2,4,2,6
+Double Jig,41,B1,"ab, a1b1; cd, AeAf.",ab,a1b1,cd,AeAf,S,,,4,2,2,4
+Double Jig,42,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PH,6,2,0,2
+Double Jig,42,B,"ab, ab1; ab, AeAf.",ab,ab1,ab,AeAf,H,,,2,4,2,6
+Double Jig,43,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NHS,8,0,0,0
+Double Jig,43,B,"ab, a1c; ab, AgAh.",ab,a1c,ab,AgAh,H,,,3,3,2,5
+Double Jig,43,B1,"ab, a1c; AeAf, AgAh.",ab,a1c,AeAf,AgAh,S,,,3,1,4,5
+Double Jig,44,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Double Jig,44,B,"ab, cAd; AaAb, AcAe.",ab,cAd,AaAb,AcAe,N,,,3,0,5,5
+Double Jig,45,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,3,PHP,5,3,0,3
+Double Jig,45,B,"aa, ab; ac, de.",aa,ab,ac,de,H,,,5,3,0,3
+Double Jig,45,C,"aa, bc; a1a, BdAe.",aa,bc,a1a,BdAe,P,,,3,3,2,5
+Double Jig,46,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,3,PNN,5,3,0,3
+Double Jig,46,B,"ab, b1c; AaAb, AcAe.",ab,b1c,AaAb,AcAe,N,,,3,1,4,5
+Double Jig,46,C,"ab, cd; ef, gAe.",ab,cd,ef,gAe,N,,,7,0,1,1
+Double Jig,47,A,"aa1, ab; ac, de.",aa1,ab,ac,de,H,2,HS,5,3,0,3
+Double Jig,47,B,"aa1, ab; cd, eAe1.",aa1,ab,cd,eAe1,S,,,5,2,1,3
+Double Jig,48,A,"ab, cd; ef, c1g.",ab,cd,ef,c1g,N,2,NP,7,1,0,1
+Double Jig,48,B,"AeAF, Ac1Ad; AeAf, Ac1Ag.",AeAF,Ac1Ad,AeAf,Ac1Ag,P,,,0,0,8,8
+Double Jig,49,A,"aa, bc; aa, b1d.",aa,bc,aa,b1d,P,3,PPP,4,4,0,4
+Double Jig,49,B,"ab, AbAc; ab, Ab1Ad.",ab,AbAc,ab,Ab1Ad,P,,,2,2,4,6
+Double Jig,49,C,"ab, AbAc; aAb2, cd.",ab,AbAc,aAb2,cd,P,,,4,1,3,4
+Double Jig,50,A,"aa1, ab; aa2, cd.",aa1,ab,aa2,cd,H,3,HHHP,4,4,0,4
+Double Jig,50,B,"ab, ac; ab, dc.",ab,ac,ab,dc,H,,,4,4,0,4
+Double Jig,50,B1,"ab, ac; ab, eAd.",ab,ac,ab,eAd,H,,,5,2,1,3
+Double Jig,50,C,"ab, cd; ab, BeAd.",ab,cd,ab,BeAd,P,,,4,2,2,4
+Double Jig,51,A,"ab, a1c; a2b, cd.",ab,a1c,a2b,cd,H,2,HN,4,4,0,4
+Double Jig,51,B,"ab, cc1; dAb, AcAd.",ab,cc1,dAb,AcAd,N,,,4,1,3,4
+Double Jig,52,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PN,6,2,0,2
+Double Jig,52,B,"ab, AcAd; AaAb1, AeAf.",ab,AcAd,AaAb1,AeAf,N,,,2,0,6,6
+Double Jig,53,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,3,PPNN,6,2,0,2
+Double Jig,53,B,"ab, cd; ab, eAf.",ab,cd,ab,eAf,P,,,5,2,1,3
+Double Jig,53,B1,"ab, cd; fg, e1Af.",ab,cd,fg,e1Af,N,,,7,0,1,1
+Double Jig,53,C,"ab, AaAb; AcAe, Be1Af.",ab,AaAb,AcAe,Be1Af,N,,,2,0,6,6
+Double Jig,54,A,"ab, cd; eb, cf.",ab,cd,eb,cf,P,2,PDS,6,2,0,2
+Double Jig,54,B,"ab, a1Ad; ab, a1Af.",ab,a1Ad,ab,a1Af,D,,,2,4,2,6
+Double Jig,54,B1,"ab, a1Ad; AeAb, AcAf.",ab,a1Ad,AeAb,AcAf,S,,,2,1,5,6
+Double Jig,55,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PS,5,3,0,3
+Double Jig,55,B,"ab, a1c; AaAb, AcAe.",ab,a1c,AaAb,AcAe,S,,,3,1,4,5
+Double Jig,56,A,"aa, bc; aa, de.",aa,bc,aa,de,P,2,PP,5,3,0,3
+Double Jig,56,B,"aAc, AbAc; aAc, AdAe.",aAc,AbAc,aAc,AdAe,P,,,1,1,6,7
+Double Jig,57,A,"ab, a1c; ad, ef.",ab,a1c,ad,ef,H,2,HH,6,2,0,2
+Double Jig,57,B,"ab, a1c; ad, AeAf.",ab,a1c,ad,AeAf,H,,,4,2,2,4
+Double Jig,58,A,"ab, ac; bd, ef.",ab,ac,bd,ef,S,2,SSHS,6,2,0,2
+Double Jig,58,A1,"ab, ac; bd, ef1.",ab,ac,bd,ef1,S,,,6,2,0,2
+Double Jig,58,B,"ab, aAf1; ab, cd.",ab,aAf1,ab,cd,H,,,4,3,1,4
+Double Jig,58,B1,"ab, aAf1; ec, fAf2.",ab,aAf1,ec,fAf2,S,,,6,0,2,2
+Double Jig,59,A,"ab, ac; ab1, de.",ab,ac,ab1,de,H,2,HH,5,3,0,3
+Double Jig,59,B,"aAb, aAc; aAb1, AdAe.",aAb,aAc,aAb1,AdAe,H,,,1,1,6,7
+Double Jig,60,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PP,5,3,0,3
+Double Jig,60,B,"ab, cd; ad, AcAe.",ab,cd,ad,AcAe,P,,,4,2,2,4
+Double Jig,61,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PH,6,2,0,2
+Double Jig,61,B,"ab, a1Ad1; ab, dAf.",ab,a1Ad1,ab,dAf,H,,,4,2,2,4
+Double Jig,62,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Double Jig,62,B,"aa1, a2Ac1; aa3, AdAe.",aa1,a2Ac1,aa3,AdAe,H,,,1,4,3,7
+Double Jig,63,A,"ab, cd; ab, de.",ab,cd,ab,de,P,2,PP,5,3,0,3
+Double Jig,63,B,"ab, cd; ab, eAe.",ab,cd,ab,eAe,P,,,5,2,1,3
+Double Jig,64,A,"ab, cd; a1b, ce.",ab,cd,a1b,ce,P,2,PP,5,3,0,3
+Double Jig,64,B,"aa, bc; ad, Ac1Ae.",aa,bc,ad,Ac1Ae,P,,,4,2,2,4
+Double Jig,65,A,"ab, cc1; a1d, ef.",ab,cc1,a1d,ef,P,2,PP,6,2,0,2
+Double Jig,65,B,"ab, cc1; ad, ef.",ab,cc1,ad,ef,P,,,6,2,0,2
+Double Jig,66,A,"aa1, bc; aa1, b1d.",aa1,bc,aa1,b1d,P,2,PH,4,4,0,4
+Double Jig,66,B,"ab, ac; ad, eAd.",ab,ac,ad,eAd,H,,,5,2,1,3
+Double Jig,67,A,"ab, cc1; ab, de.",ab,cc1,ab,de,P,2,PPN,5,3,0,3
+Double Jig,67,B,"aa1, bc; ad, AdAe.",aa1,bc,ad,AdAe,P,,,4,2,2,4
+Double Jig,67,B1,"aa1, bc; ed, AdAe.",aa1,bc,ed,AdAe,N,,,5,1,2,3
+Double Jig,68,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,6,2,0,2
+Double Jig,68,B,"ab, cd; ef, AcAe.",ab,cd,ef,AcAe,N,,,6,0,2,2
+Double Jig,69,A,"ab, cd; a1b1, ef.",ab,cd,a1b1,ef,P,2,PP,6,2,0,2
+Double Jig,69,B,"ab, cd; ab, AeAf.",ab,cd,ab,AeAf,P,,,4,2,2,4
+Double Jig,70,A,"ab, a1c; a1d, ef.",ab,a1c,a1d,ef,H,2,HP,6,2,0,2
+Double Jig,70,B,"ab, AaAb1; ab1, AeAf.",ab,AaAb1,ab1,AeAf,P,,,2,3,3,6
+Double Jig,71,A,"ab, ac; a1a2, de.",ab,ac,a1a2,de,H,2,HHH,5,3,0,3
+Double Jig,71,A1,"ab, ac; a1a2, fg.",ab,ac,a1a2,fg,H,,,7,1,0,1
+Double Jig,71,B,"aAb, a1Ac1; a2b, cAe1.",aAb,a1Ac1,a2b,cAe1,H,,,3,2,3,5
+Double Jig,72,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PPN,6,2,0,2
+Double Jig,72,B,"ab, b1c; ab, Ae1Af.",ab,b1c,ab,Ae1Af,P,,,2,4,2,6
+Double Jig,72,B1,"ab, b1c; de, Ae2Af.",ab,b1c,de,Ae2Af,N,,,5,1,2,3
+Double Jig,73,A,"ab, a1c; ab1, de.",ab,a1c,ab1,de,H,2,HP,5,3,0,3
+Double Jig,73,B,"ab, cd; aAb2, AdAe.",ab,cd,aAb2,AdAe,P,,,4,1,3,4
+Double Jig,74,A,"aa1, bc; aa1, b1d.",aa1,bc,aa1,b1d,P,2,PP,4,4,0,4
+Double Jig,74,B,"ab, cd; ab, ef.",ab,cd,ab,ef,P,,,6,2,0,2
+Double Jig,75,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,2,PPN,7,1,0,1
+Double Jig,75,B,"aa1, AcAd; aa1, Af1Ag1.",aa1,AcAd,aa1,Af1Ag1,P,,,1,3,4,7
+Double Jig,75,B1,"aa1, Ac1Ad; AaAe, AfAg.",aa1,Ac1Ad,AaAe,AfAg,N,,,1,1,6,7
+Double Jig,76,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PPN,6,2,0,2
+Double Jig,76,B,"ab, cAd; aAb1, Ae1Af.",ab,cAd,aAb1,Ae1Af,P,,,3,1,4,5
+Double Jig,76,B1,"ab, cAd; dAb2, AeAf.",ab,cAd,dAb2,AeAf,N,,,4,0,4,4
+Double Jig,77,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NHH,8,0,0,0
+Double Jig,77,B,"Af1Af, Af2Af3; Af1Af2, AgAh.",Af1Af,Af2Af3,Af1Af2,AgAh,H,,,0,0,8,8
+Double Jig,77,B1,"Af1Af, Af2Af3; aa1, AgAh.",Af1Af,Af2Af3,aa1,AgAh,H,,,1,0,7,7
+Double Jig,78,A,"ab, cc1; de, fg.",ab,cc1,de,fg,N,2,NPP,7,1,0,1
+Double Jig,78,B,"aAc2, bc; a1d, AdAe.",aAc2,bc,a1d,AdAe,P,,,4,1,3,4
+Double Jig,78,B1,"aAc2, bc; a1d, ef.",aAc2,bc,a1d,ef,P,,,6,1,1,2
+Double Jig,79,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PPN,5,3,0,3
+Double Jig,79,B,"ab, cc1; ab, AcAe.",ab,cc1,ab,AcAe,P,,,3,3,2,5
+Double Jig,79,B1,"ab, cc1; dd1, AcAe.",ab,cc1,dd1,AcAe,N,,,4,2,2,4
+Double Jig,80,A,"ab, cc1; ab, c2c3.",ab,cc1,ab,c2c3,P,2,PPN,3,5,0,5
+Double Jig,80,B,"ab, AcAc; ab, Ac2Ac3.",ab,AcAc,ab,Ac2Ac3,P,,,2,2,4,6
+Double Jig,80,B1,"ab, AcAc; cc1, Ac2Ac3.",ab,AcAc,cc1,Ac2Ac3,N,,,3,1,4,5
+Double Jig,81,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HP,5,3,0,3
+Double Jig,81,B,"ab, cc1; a1Ab, AdAe.",ab,cc1,a1Ab,AdAe,P,,,3,2,3,5
+Double Jig,82,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HS,5,3,0,3
+Double Jig,82,B,"ab, ac; dd1, AdAe.",ab,ac,dd1,AdAe,S,,,4,2,2,4
+Double Jig,83,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Double Jig,83,B,"ab, cd; ab, AeAf.",ab,cd,ab,AeAf,P,,,4,2,2,4
+Double Jig,84,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PN,5,3,0,3
+Double Jig,84,B,"ab, cAd; Aa1Aa2, Ac1Ae.",ab,cAd,Aa1Aa2,Ac1Ae,N,,,3,0,5,5
+Double Jig,85,A,"ab, a1c; a2b1, de.",ab,a1c,a2b1,de,H,2,HP,5,3,0,3
+Double Jig,85,B,"ab, Aa2Ab; ab, cAe.",ab,Aa2Ab,ab,cAe,P,,,3,3,2,5
+Double Jig,86,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Double Jig,86,B,"ab, cAb1; dAb, AcAe.",ab,cAb1,dAb,AcAe,N,,,4,0,4,4
+Double Jig,87,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PH,6,2,0,2
+Double Jig,87,B,"ab, a1c; ab1, Ae1Af.",ab,a1c,ab1,Ae1Af,H,,,3,3,2,5
+Double Jig,88,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HP,5,3,0,3
+Double Jig,88,B,"ab, cd; ab, AdAe.",ab,cd,ab,AdAe,P,,,4,2,2,4
+Double Jig,89,A,"ab, ab1; ab2, b3c.",ab,ab1,ab2,b3c,H,2,HHH,3,5,0,5
+Double Jig,89,B,"ab, ab1; ab2, Ab3Ac.",ab,ab1,ab2,Ab3Ac,H,,,2,4,2,6
+Double Jig,89,B1,"ab, ab1; a1c, Ab3Ac.",ab,ab1,a1c,Ab3Ac,H,,,3,3,2,5
+Double Jig,90,A,"ab, ac; ad, ec1.",ab,ac,ad,ec1,H,2,HHP,5,3,0,3
+Double Jig,90,A1,"ab, ac; ad, ec2.",ab,ac,ad,ec2,H,,,5,3,0,3
+Double Jig,90,B,"ab, cd; a1b, Ab1Ad.",ab,cd,a1b,Ab1Ad,P,,,4,2,2,4
+Double Jig,91,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PPSS,6,2,0,2
+Double Jig,91,A1,"ab, cd; ab1, ef1.",ab,cd,ab1,ef1,P,,,6,2,0,2
+Double Jig,91,B,"ab, a1c; de, AeAf.",ab,a1c,de,AeAf,S,,,5,1,2,3
+Double Jig,91,B1,"ab, a1c; de, AeAf1.",ab,a1c,de,AeAf1,S,,,5,1,2,3
+Double Jig,92,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HP,5,3,0,3
+Double Jig,92,B,"ab, cd; a1b1, AdAe.",ab,cd,a1b1,AdAe,P,,,4,2,2,4
+Double Jig,93,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NS,8,0,0,0
+Double Jig,93,B,"aa1, a2b; cAf, AgAh.",aa1,a2b,cAf,AgAh,S,,,3,2,3,5
+Double Jig,94,A,"ab, cd; a1b1, ef.",ab,cd,a1b1,ef,P,2,PH,6,2,0,2
+Double Jig,94,B,"ab, ac; ab, AeAf.",ab,ac,ab,AeAf,H,,,2,4,2,6
+Double Jig,95,A,"ab, cc; ab1, dd.",ab,cc,ab1,dd,P,2,PPPP,4,4,0,4
+Double Jig,95,A1,"ab, c1c1; a1b, de.",ab,c1c1,a1b,de,P,,,5,3,0,3
+Double Jig,95,B,"ab, AcAc; ab1, AdAd.",ab,AcAc,ab1,AdAd,P,,,2,2,4,6
+Double Jig,95,B1,"ab, AcAc; cb1, AdAd.",ab,AcAc,cb1,AdAd,P,,,3,1,4,5
+Double Jig,96,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PS,5,3,0,3
+Double Jig,96,B,"ab, ac; de, Ac1f.",ab,ac,de,Ac1f,S,,,6,1,1,2
+Double Jig,97,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HH,5,3,0,3
+Double Jig,97,B,"aa, a1a1; aa2, AdAe.",aa,a1a1,aa2,AdAe,H,,,1,5,2,7
+Double Jig,98,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,3,PSP,6,2,0,2
+Double Jig,98,B,"ab, ac; de, fg.",ab,ac,de,fg,S,,,7,1,0,1
+Double Jig,98,C,"aBb, cd; aBb, BfBg.",aBb,cd,aBb,BfBg,P,,,4,0,4,4
+Double Jig,99,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PP,5,3,0,3
+Double Jig,99,B,"ab, cAb1; ab1, c1d.",ab,cAb1,ab1,c1d,P,,,4,3,1,4
+Double Jig,100,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PP,5,3,0,3
+Double Jig,100,B,"ab, cd; ab, Ac1Ae.",ab,cd,ab,Ac1Ae,P,,,4,2,2,4
+Double Jig,101,A,"aa1, bc; aa1, bd.",aa1,bc,aa1,bd,P,2,PS,4,4,0,4
+Double Jig,101,B,"ab, ac; AaAa1, AbAd.",ab,ac,AaAa1,AbAd,S,,,3,1,4,5
+Double Jig,102,A,"ab, a1b1; cd, ef.",ab,a1b1,cd,ef,S,2,SN,6,2,0,2
+Double Jig,102,B,"aAb, bAb1; AcAd, AeAf.",aAb,bAb1,AcAd,AeAf,N,,,2,0,6,6
+Double Jig,103,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HN,5,3,0,3
+Double Jig,103,B,"ab, cd; ef, AdAe.",ab,cd,ef,AdAe,N,,,6,0,2,2
+Double Jig,104,A,"ab, cc; ab, de.",ab,cc,ab,de,P,2,PP,5,3,0,3
+Double Jig,104,B,"ab, AcAc; ab, AdAe.",ab,AcAc,ab,AdAe,P,,,2,2,4,6
+Double Jig,105,A,"ab, cd; ae, fg.",ab,cd,ae,fg,N,2,NP,7,1,0,1
+Double Jig,105,B,"ab, cAd1; ad, AgAh.",ab,cAd1,ad,AgAh,P,,,4,1,3,4
+Double Jig,106,A,"ab, cd; be, fg.",ab,cd,be,fg,N,2,NS,7,1,0,1
+Double Jig,106,B,"ab, a1b1; b2b, AfAg.",ab,a1b1,b2b,AfAg,S,,,2,4,2,6
+Double Jig,107,A,"ab, cd; eb, c1e.",ab,cd,eb,c1e,N,2,NS,5,3,0,3
+Double Jig,107,B,"ab, a1c; db, Ac1Ae.",ab,a1c,db,Ac1Ae,S,,,4,2,2,4
+Double Jig,108,A,"ab, cd; a1b, ef.",ab,cd,a1b,ef,P,2,PP,6,2,0,2
+Double Jig,108,B,"ab, AcAd; ab, AeAf.",ab,AcAd,ab,AeAf,P,,,2,2,4,6
+Double Jig,109,A,"ab, a1c; ab1, de.",ab,a1c,ab1,de,H,2,HH,5,3,0,3
+Double Jig,109,B,"aa1, ab; aAb2, AdAe.",aa1,ab,aAb2,AdAe,H,,,2,3,3,6
+Double Jig,110,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,2,PP,7,1,0,1
+Double Jig,110,B,"ab, cd; ab, AfAg.",ab,cd,ab,AfAg,P,,,4,2,2,4
+Double Jig,111,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,5,3,0,3
+Double Jig,111,B,"aa1, bc; dd1, ef.",aa1,bc,dd1,ef,N,,,6,2,0,2
+Double Jig,112,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PP,4,4,0,4
+Double Jig,112,B,"ab, cd; ab, Ac1Ae.",ab,cd,ab,Ac1Ae,P,,,4,2,2,4
+Double Jig,113,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HS,5,3,0,3
+Double Jig,113,B,"ab, ac; de, AdAe.",ab,ac,de,AdAe,S,,,5,1,2,3
+Double Jig,114,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PS,5,3,0,3
+Double Jig,114,B,"aa1, a2b; cAa, AbAe.",aa1,a2b,cAa,AbAe,S,,,3,3,2,5
+Double Jig,115,A,"ab, ac; ad, ef.",ab,ac,ad,ef,H,2,HH,6,2,0,2
+Double Jig,115,B,"aAb, ab; aAd, AeAf.",aAb,ab,aAd,AeAf,H,,,2,2,4,6
+Double Jig,116,A,"ab, cd; ab1, de.",ab,cd,ab1,de,P,2,PPP,5,3,0,3
+Double Jig,116,B,"ab, cd; ab, ce.",ab,cd,ab,ce,P,,,5,3,0,3
+Double Jig,116,B1,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,,,4,4,0,4
+Double Jig,117,A,"ab, ac; de, fg.",ab,ac,de,fg,S,2,SH,7,1,0,1
+Double Jig,117,B,"ab, a1Ac; a2b, cAg.",ab,a1Ac,a2b,cAg,H,,,3,3,2,5
+Double Jig,118,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PH,6,2,0,2
+Double Jig,118,B,"ab, ac; ab, AeAf.",ab,ac,ab,AeAf,H,,,3,3,2,5
+Double Jig,119,A,"ab, a1c; ad, ef.",ab,a1c,ad,ef,H,2,HPP,6,2,0,2
+Double Jig,119,B,"ab, cd; a1b1, ef.",ab,cd,a1b1,ef,P,,,6,2,0,2
+Double Jig,119,B1,"ab, cd; gh, if.",ab,cd,gh,if,P,,,8,0,0,0
+Double Jig,120,A,"ab, a1c; ab1, de.",ab,a1c,ab1,de,H,2,HP,5,3,0,3
+Double Jig,120,B,"ab, A2Ac; ab, AdAe.",ab,A2Ac,ab,AdAe,P,,,2,2,4,6
+Double Jig,121,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PP,4,4,0,4
+Double Jig,121,B,"ab, cc1; ab, cAd1.",ab,cc1,ab,cAd1,P,,,3,4,1,5
+Double Jig,122,A,"ab, a1c; ab, ad1.",ab,a1c,ab,ad1,D,2,DH,4,4,0,4
+Double Jig,122,B,"ab, a1c; ab1, AaAd1.",ab,a1c,ab1,AaAd1,H,,,3,3,2,5
+Double Jig,123,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PH,6,2,0,2
+Double Jig,123,B,"aa, a1b; ac, dAf1.",aa,a1b,ac,dAf1,H,,,4,3,1,4
+Double Jig,124,A,"aa, bc; aa, b1d.",aa,bc,aa,b1d,P,2,PH,4,4,0,4
+Double Jig,124,B,"ab, ac; ab1, de.",ab,ac,ab1,de,H,,,5,3,0,3
+Double Jig,125,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Double Jig,125,B,"ab, ac; ad, ef.",ab,ac,ad,ef,H,,,6,2,0,2
+Double Jig,126,A,"ab, ac; ad, ef.",ab,ac,ad,ef,H,6,HHHHPH,6,2,0,2
+Double Jig,126,B,"aAb, aAf; aAd, AeAf.",aAb,aAf,aAd,AeAf,H,,,1,2,5,7
+Double Jig,126,C,"ab, a1c; ab, AeAf.",ab,a1c,ab,AeAf,H,,,3,3,2,5
+Double Jig,126,D,"ab, aAf; ab, cAf.",ab,aAf,ab,cAf,H,,,3,3,2,5
+Double Jig,126,E,"Dca, Ac1Af; Dca1, bAf.",Dca,Ac1Af,Dca1,bAf,P,,,2,1,5,6
+Double Jig,126,F,"ab, aAf; ab1, CcAf.",ab,aAf,ab1,CcAf,H,,,2,3,3,6
+Double Jig,127,A,"ab, ab1; ac, de.",ab,ab1,ac,de,H,2,HH,5,3,0,3
+Double Jig,127,B,"aAb2, aAb3; aAb, AdAe.",aAb2,aAb3,aAb,AdAe,H,,,1,2,5,7
+Double Jig,128,A,"ab, cd; ac, ce.",ab,cd,ac,ce,P,2,PSS,5,3,0,3
+Double Jig,128,B,"ab, a1c; dAb, AcAe.",ab,a1c,dAb,AcAe,S,,,4,1,3,4
+Double Jig,128,B1,"ab, a1c; dAb1, AcAe.",ab,a1c,dAb1,AcAe,S,,,4,1,3,4
+Double Jig,129,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PS,6,2,0,2
+Double Jig,129,B,"ab, a1b1; cd, eAf.",ab,a1b1,cd,eAf,S,,,5,2,1,3
+Double Jig,130,A,"aa1, a2b; ca1, de.",aa1,a2b,ca1,de,S,2,SS,5,3,0,3
+Double Jig,130,B,"ab, ac; de, Ad1Ae.",ab,ac,de,Ad1Ae,S,,,5,1,2,3
+Double Jig,131,A,"ab, a1c; ad, ef.",ab,a1c,ad,ef,H,2,HN,6,2,0,2
+Double Jig,131,B,"ab, cd; ef, AeAf.",ab,cd,ef,AeAf,N,,,6,0,2,2
+Double Jig,132,A,"ab, cd; ab, c1d.",ab,cd,ab,c1d,P,2,PP,4,4,0,4
+Double Jig,132,B,"ab, cd; ab, Ac1Ad.",ab,cd,ab,Ac1Ad,P,,,4,3,1,4
+Double Jig,133,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HPN,5,3,0,3
+Double Jig,133,B,"ab, Aa1Ac1; ab, AdAe.",ab,Aa1Ac1,ab,AdAe,P,,,2,2,4,6
+Double Jig,133,B1,"ab, Aa1Ac1; cd, AdAe.",ab,Aa1Ac1,cd,AdAe,N,,,4,0,4,4
+Double Jig,134,A,"ab, cd; ab, c1d.",ab,cd,ab,c1d,P,2,PP,4,4,0,4
+Double Jig,134,B,"ab, cd; ab, AeAf.",ab,cd,ab,AeAf,P,,,4,2,2,4
+Double Jig,135,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Double Jig,135,B,"ab, cd; ab, AeAf.",ab,cd,ab,AeAf,P,,,4,2,2,4
+Double Jig,136,A,"ab, cd; a1b1, ce.",ab,cd,a1b1,ce,P,2,PNN,5,3,0,3
+Double Jig,136,B,"aa1, bb1; Aa1Ab1, AcAe.",aa1,bb1,Aa1Ab1,AcAe,N,,,2,2,4,6
+Double Jig,136,B1,"aa1, cb1; Aa1Ab1, AcAe.",aa1,cb1,Aa1Ab1,AcAe,N,,,3,1,4,5
+Double Jig,137,A,"aa1, a2b; aa1, cd.",aa1,a2b,aa1,cd,H,2,HP,4,4,0,4
+Double Jig,137,B,"ab, cd; ab1, dAd.",ab,cd,ab1,dAd,P,,,4,3,1,4
+Double Jig,138,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,3,PHH,6,2,0,2
+Double Jig,138,B,"ab, ac; ab1, AeAf.",ab,ac,ab1,AeAf,H,,,3,3,2,5
+Double Jig,138,C,"ab, ac; ad, AeAf.",ab,ac,ad,AeAf,H,,,4,2,2,4
+Double Jig,139,A,"ab, a1c; a1b1, de.",ab,a1c,a1b1,de,H,3,HPP,5,3,0,3
+Double Jig,139,B,"ab, cd; ab1, AdAe.",ab,cd,ab1,AdAe,P,,,4,2,2,4
+Double Jig,139,C,"ab, cd; ab, Ad1Ae.",ab,cd,ab,Ad1Ae,P,,,4,2,2,4
+Double Jig,140,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HHS,5,3,0,3
+Double Jig,140,B,"ab, a1c; a1b1, de.",ab,a1c,a1b1,de,H,,,5,3,0,3
+Double Jig,140,B1,"ab, a1c; fg, f1h.",ab,a1c,fg,f1h,S,,,6,2,0,2
+Double Jig,141,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,3,PPP,5,3,0,3
+Double Jig,141,B,"ab, AcAd; ab, AcAe.",ab,AcAd,ab,AcAe,P,,,2,2,4,6
+Double Jig,141,C,"aa, AcAd; aa, AcAe.",aa,AcAd,aa,AcAe,P,,,1,3,4,7
+Double Jig,142,A,"ab, a1c; ab1, de.",ab,a1c,ab1,de,H,2,HPP,5,3,0,3
+Double Jig,142,B,"ab, cd; ab, Ade.",ab,cd,ab,Ade,P,,,4,3,1,4
+Double Jig,142,B1,"ab, cd; ab, de.",ab,cd,ab,de,P,,,5,3,0,3
+Double Jig,143,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Double Jig,143,B,"ab, cd; ef, AcAe.",ab,cd,ef,AcAe,N,,,6,0,2,2
+Double Jig,144,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PH,6,2,0,2
+Double Jig,144,B,"ab, ac; ab, Ae1Af.",ab,ac,ab,Ae1Af,H,,,3,3,2,5
+Double Jig,145,A,"ab, ac; ad, ef.",ab,ac,ad,ef,H,2,HP,6,2,0,2
+Double Jig,145,B,"ab, cd; ab, AeAf.",ab,cd,ab,AeAf,P,,,4,2,2,4
+Double Jig,146,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,4,PPPNH,5,3,0,3
+Double Jig,146,B,"ab, cd; ab, cAe.",ab,cd,ab,cAe,P,,,4,3,1,4
+Double Jig,146,C,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,,,5,3,0,3
+Double Jig,146,C1,"ab, cd; fg, Ac1e.",ab,cd,fg,Ac1e,N,,,7,0,1,1
+Double Jig,146,D,"Baa, BaCd; Baa, Ba1Ae.",Baa,BaCd,Baa,Ba1Ae,H,,,1,2,5,7
+Double Jig,147,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HP,5,3,0,3
+Double Jig,147,B,"ab, cd; ab, cAe.",ab,cd,ab,cAe,P,,,3,5,0,5
+Double Jig,148,A,"ab, ac; ab1, de.",ab,ac,ab1,de,H,3,HHH,5,3,0,3
+Double Jig,148,B,"ab, ac; ab1, AdAe.",ab,ac,ab1,AdAe,H,,,3,5,0,5
+Double Jig,148,C,"aAb, aAc; aAb1, AdAe.",aAb,aAc,aAb1,AdAe,H,,,1,2,5,7
+Double Jig,149,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,3,NHSN,8,0,0,0
+Double Jig,149,B,"ab, a1b1; a1Af, AgAh.",ab,a1b1,a1Af,AgAh,H,,,2,3,3,6
+Double Jig,149,B1,"ab, a1b1; cd, AgAh.",ab,a1b1,cd,AgAh,S,,,4,2,2,4
+Double Jig,149,C,"ab, cd; ef, AgAh.",ab,cd,ef,AgAh,N,,,6,0,2,2
+Double Jig,150,A,"aa1, bc; ad, ef.",aa1,bc,ad,ef,P,3,PHSN,6,2,0,2
+Double Jig,150,B,"aa1, a2b; aa1, cAf.",aa1,a2b,aa1,cAf,H,,,3,4,1,5
+Double Jig,150,B1,"aa1, a2b; de, fg.",aa1,a2b,de,fg,S,,,7,1,0,1
+Double Jig,150,C,"ab, AbAc; AaAd, Ae1Af.",ab,AbAc,AaAd,Ae1Af,N,,,2,0,6,6
+Double Jig,151,A,"ab, cd; ae, c1f.",ab,cd,ae,c1f,P,2,PP,6,2,0,2
+Double Jig,151,B,"ab, cd; a1b1, Ac1Af.",ab,cd,a1b1,Ac1Af,P,,,4,2,2,4
+Double Jig,152,A,"ab, a1c; ab, ad.",ab,a1c,ab,ad,D,2,DH,4,4,0,4
+Double Jig,152,B,"ab, ac; ab1, a1Ad.",ab,ac,ab1,a1Ad,H,,,3,4,1,5
+Double Jig,153,A,"ab, a1c; ab1, de.",ab,a1c,ab1,de,H,2,HH,5,3,0,3
+Double Jig,153,B,"ab, ac; ab1, Aa1Ae.",ab,ac,ab1,Aa1Ae,H,,,3,3,2,5
+Double Jig,154,A,"ab, a1b1; ac, de.",ab,a1b1,ac,de,H,2,HS,5,3,0,3
+Double Jig,154,B,"aa1, a2a3; bAc, AdAe.",aa1,a2a3,bAc,AdAe,S,,,2,3,3,6
+Double Jig,155,A,"ab, a1c; ab, a2d.",ab,a1c,ab,a2d,D,2,DPN,4,4,0,4
+Double Jig,155,B,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,,,4,4,0,4
+Double Jig,155,B1,"ab, cd; ef, c1d1.",ab,cd,ef,c1d1,N,,,5,3,0,3
+Double Jig,156,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,6,2,0,2
+Double Jig,156,B,"aAb, aAc; aAb, AdAe.",aAb,aAc,aAb,AdAe,H,,,1,2,5,7
+Double Jig,157,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PP,6,2,0,2
+Double Jig,157,B,"aAb1, bAd; ac, AeAf.",aAb1,bAd,ac,AeAf,P,,,3,3,2,5
+Double Jig,158,A,"ab, cd; a1b, ce.",ab,cd,a1b,ce,P,2,PPN,5,3,0,3
+Double Jig,158,B,"ab, AcAd; ab, Ac1Ae.",ab,AcAd,ab,Ac1Ae,P,,,2,2,4,6
+Double Jig,158,B1,"ab, AcAd; Aa1Ab, AcAe.",ab,AcAd,Aa1Ab,AcAe,N,,,2,0,6,6
+Double Jig,159,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PS,5,3,0,3
+Double Jig,159,B,"aa1, a2b; AaAb, AcAe.",aa1,a2b,AaAb,AcAe,S,,,2,2,4,6
+Double Jig,160,A,"ab, a1c; ab, cd.",ab,a1c,ab,cd,H,2,HH,4,4,0,4
+Double Jig,160,B,"ab, ac; ab, AcAd.",ab,ac,ab,AcAd,H,,,3,3,2,5
+Double Jig,161,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Double Jig,161,B,"ab, ac; ab, AdAe.",ab,ac,ab,AdAe,H,,,3,3,2,5
+Double Jig,162,A,"ab, cd; a1b, ef.",ab,cd,a1b,ef,P,2,PS,6,2,0,2
+Double Jig,162,B,"ab, ac; de, Ae1Af.",ab,ac,de,Ae1Af,S,,,5,1,2,3
+Double Jig,163,A,"ab, cd; ab, c1d.",ab,cd,ab,c1d,P,2,PPN,4,4,0,4
+Double Jig,163,B,"aAb1, bc; aAb, Ac1Ad.",aAb1,bc,aAb,Ac1Ad,P,,,3,1,4,5
+Double Jig,163,B1,"aAb1, bc; de, fAd.",aAb1,bc,de,fAd,N,,,6,0,2,2
+Double Jig,164,A,"ab, ac; ad, ef.",ab,ac,ad,ef,H,2,HH,6,2,0,2
+Double Jig,164,B,"ab, ac; ab, AeAf.",ab,ac,ab,AeAf,H,,,3,3,2,5
+Double Jig,165,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NH,8,0,0,0
+Double Jig,165,B,"aAg, aAd; aAg, Af1Ah.",aAg,aAd,aAg,Af1Ah,H,,,1,2,5,7
+Double Jig,166,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Double Jig,166,B,"ab, cd; ef, e1Ae.",ab,cd,ef,e1Ae,N,,,6,1,1,2
+Double Jig,167,A,"ab, a1c; ab, a1d.",ab,a1c,ab,a1d,H,2,HP,4,4,0,4
+Double Jig,167,B,"ab, cd; ab, ef.",ab,cd,ab,ef,P,,,6,2,0,2
+Double Jig,168,A,"ab, cd; ab1, c1e.",ab,cd,ab1,c1e,P,2,PPP,5,3,0,3
+Double Jig,168,B,"ab, cd; a1b, Ac1Ae.",ab,cd,a1b,Ac1Ae,P,,,4,2,2,4
+Double Jig,168,B1,"ab, cd; a2f, Ac1Ae.",ab,cd,a2f,Ac1Ae,P,,,5,1,2,3
+Double Jig,169,A,"ab, cd; a1b, c1e.",ab,cd,a1b,c1e,P,2,PD,5,3,0,3
+Double Jig,169,B,"ab, ac; ad, a1e.",ab,ac,ad,a1e,D,,,5,3,0,3
+Double Jig,170,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HP,5,3,0,3
+Double Jig,170,B,"aAb, bAc; aAb, AdAe.",aAb,bAc,aAb,AdAe,P,,,1,2,5,7
+Double Jig,171,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Double Jig,171,B,"ab, cAd; AaAb, AeAf.",ab,cAd,AaAb,AeAf,N,,,3,0,5,5
+Double Jig,172,A,"ab, ac; a1b, de.",ab,ac,a1b,de,H,2,HH,5,3,0,3
+Double Jig,172,B,"ab, aAc; ab, AdAe.",ab,aAc,ab,AdAe,H,,,2,3,3,6
+Double Jig,173,A,"ab, a1c; de, fg.",ab,a1c,de,fg,S,2,SP,7,1,0,1
+Double Jig,173,B,"ab, cd; ab1, eAg.",ab,cd,ab1,eAg,P,,,5,2,1,3
+Double Jig,174,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Double Jig,174,B,"Ab1a, Ab2Ac; Ab1b, AdAe.",Ab1a,Ab2Ac,Ab1b,AdAe,H,,,1,1,6,7
+Double Jig,175,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PH,6,2,0,2
+Double Jig,175,B,"ab, ac; ad, AeAf.",ab,ac,ad,AeAf,H,,,4,2,2,4
+Double Jig,176,A,"aa, bc; aa, de.",aa,bc,aa,de,P,2,PH,5,3,0,3
+Double Jig,176,B,"ab, ac; ab, AdAe.",ab,ac,ab,AdAe,H,,,3,3,2,5
+Double Jig,177,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Double Jig,177,B,"ab, AcAd; b1b2, AeAf.",ab,AcAd,b1b2,AeAf,N,,,2,2,4,6
+Double Jig,178,A,"ab, ac; ab1, de.",ab,ac,ab1,de,H,5,HHHHH,5,3,0,3
+Double Jig,178,B,"aAb2, aAc; aAb3, AdAe.",aAb2,aAc,aAb3,AdAe,H,,,1,2,5,7
+Double Jig,178,C,"ab, aAc; ab1, cAe.",ab,aAc,ab1,cAe,H,,,3,3,2,5
+Double Jig,178,D,"ab, aAc; ab, AdAe.",ab,aAc,ab,AdAe,H,,,3,2,3,5
+Double Jig,178,E,"aa1, a1Ac; a2a3, AdAe.",aa1,a1Ac,a2a3,AdAe,H,,,1,4,3,7
+Double Jig,179,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Double Jig,179,B,"ab, cAd; AaAb, AcAe.",ab,cAd,AaAb,AcAe,N,,,3,0,5,5
+Double Jig,180,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PS,6,2,0,2
+Double Jig,180,B,"ab, ac; AaAb1, AeAf.",ab,ac,AaAb1,AeAf,S,,,3,1,4,5
+Double Jig,181,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PPN,5,3,0,3
+Double Jig,181,B,"ab, AcAd; ab, Ac1Ae.",ab,AcAd,ab,Ac1Ae,P,,,2,2,4,6
+Double Jig,181,B1,"ab, AcAd; cd, Ac1Ae.",ab,AcAd,cd,Ac1Ae,N,,,4,0,4,4
+Double Jig,182,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PPN,5,3,0,3
+Double Jig,182,B,"ab, AcAd1; ab, Ac1Ae.",ab,AcAd1,ab,Ac1Ae,P,,,2,2,4,6
+Double Jig,182,B1,"ab, AcAd1; AaAb, AcAe.",ab,AcAd1,AaAb,AcAe,N,,,2,0,6,6
+Double Jig,183,A,"aa1, a2b; ac, de.",aa1,a2b,ac,de,H,2,HH,5,3,0,3
+Double Jig,183,B,"ab, ac; ab, Ade.",ab,ac,ab,Ade,H,,,3,4,1,5
+Double Jig,184,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PN,5,3,0,3
+Double Jig,184,B,"ab, cd; eAb, Ac1Ae.",ab,cd,eAb,Ac1Ae,N,,,5,0,3,3
+Double Jig,185,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PN,5,3,0,3
+Double Jig,185,B,"ab, cd; ef, gh.",ab,cd,ef,gh,N,,,8,0,0,0
+Double Jig,186,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PN,5,3,0,3
+Double Jig,186,B,"ab, cd; ef, gh.",ab,cd,ef,gh,N,,,8,0,0,0
+Double Jig,187,A,"ab, ac; ad, ef.",ab,ac,ad,ef,H,2,HH,6,2,0,2
+Double Jig,187,B,"ab, ac; ab1, AeAf.",ab,ac,ab1,AeAf,H,,,3,3,2,5
+Double Jig,188,A,"ab, cd; a1b, c1e.",ab,cd,a1b,c1e,P,2,PP,5,3,0,3
+Double Jig,188,B,"ab, cAd1; a1b1, Ac1Ae.",ab,cAd1,a1b1,Ac1Ae,P,,,3,2,3,5
+Double Jig,189,A,"ab, ac; ab, c1d.",ab,ac,ab,c1d,H,3,HHH,4,4,0,4
+Double Jig,189,B,"ab, aAc1; ab, Ac1Ad.",ab,aAc1,ab,Ac1Ad,H,,,2,3,3,6
+Double Jig,189,C,"Ba1a, Ba1a1; Ba1a, Ac1Ad.",Ba1a,Ba1a1,Ba1a,Ac1Ad,H,,,1,2,5,7
+Double Jig,190,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PPN,6,2,0,2
+Double Jig,190,B,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,,,6,2,0,2
+Double Jig,190,B1,"ab, cd; gh, AeAf.",ab,cd,gh,AeAf,N,,,6,0,2,2
+Double Jig,191,A,"ab, a1c; ab1, de.",ab,a1c,ab1,de,H,3,HHS,5,3,0,3
+Double Jig,191,B,"ab, ab1; ab2, AdAe.",ab,ab1,ab2,AdAe,H,,,2,4,2,6
+Double Jig,191,C,"ab, aAc1; cd, AdAe.",ab,aAc1,cd,AdAe,S,,,4,1,3,4
+Double Jig,192,A,"ab, ac; ad, ef.",ab,ac,ad,ef,H,2,HHPP,6,2,0,2
+Double Jig,192,A1,"ab, ac; ad, ef1.",ab,ac,ad,ef1,H,,,6,2,0,2
+Double Jig,192,B,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,,,6,2,0,2
+Double Jig,192,B1,"ab, cd; a1b2, AeAf.",ab,cd,a1b2,AeAf,P,,,4,2,2,4
+Double Jig,193,A,"aa1, ab; aa1, cd.",aa1,ab,aa1,cd,H,2,HHPP,4,4,0,4
+Double Jig,193,A1,"aa1, ab; aa1, cd1.",aa1,ab,aa1,cd1,H,,,4,4,0,4
+Double Jig,193,B,"ab, AaAc1; ab, Ac2d.",ab,AaAc1,ab,Ac2d,P,,,4,1,3,4
+Double Jig,193,B1,"eAb, AaAc1; eb, Ac2d1.",eAb,AaAc1,eb,Ac2d1,P,,,3,1,4,5
+Double Jig,194,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HS,5,3,0,3
+Double Jig,194,B,"ab, ab1; cd, eAe.",ab,ab1,cd,eAe,S,,,5,2,1,3
+Double Jig,195,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PH,4,4,0,4
+Double Jig,195,B,"Aa1a, Aa2b; Aa1a, cAd.",Aa1a,Aa2b,Aa1a,cAd,H,,,3,1,4,5
+Double Jig,196,A,"ab, a1c; ad, ef.",ab,a1c,ad,ef,H,2,HS,6,2,0,2
+Double Jig,196,B,"ab, a1c; de, Aa1Af.",ab,a1c,de,Aa1Af,S,,,5,1,2,3
+Double Jig,197,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HPN,5,3,0,3
+Double Jig,197,B,"ab, cd; ab, ef.",ab,cd,ab,ef,P,,,6,2,0,2
+Double Jig,197,B1,"ab, cd; gh, AdAe.",ab,cd,gh,AdAe,N,,,6,0,2,2
+Double Jig,198,A,"ab, a1c; ab, cd.",ab,a1c,ab,cd,H,2,HS,4,4,0,4
+Double Jig,198,B,"ab, a1c; de, AcAd.",ab,a1c,de,AcAd,S,,,5,1,2,3
+Double Jig,199,A,"ab, ac; ab, de.",ab,ac,ab,de,H,3,HSH,5,3,0,3
+Double Jig,199,B,"aa, a1b; cc1, dAe.",aa,a1b,cc1,dAe,S,,,4,3,1,4
+Double Jig,199,C,"ab, aBb1; ab, AdAe.",ab,aBb1,ab,AdAe,H,,,2,3,3,6
+Double Jig,200,A,"ab, cc1; ab, dd1.",ab,cc1,ab,dd1,P,3,PPN,4,4,0,4
+Double Jig,200,B,"aAb1, Ac2Ac3; aAb1, AdAd1.",aAb1,Ac2Ac3,aAb1,AdAd1,P,,,1,1,6,7
+Double Jig,200,C,"aAb2, AcAc1; AaAb, AdAd1.",aAb2,AcAc1,AaAb,AdAd1,N,,,1,0,7,7
+Double Jig,201,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Double Jig,201,B,"Aa1a, Aa1Ac; Aa2a1, AdAe.",Aa1a,Aa1Ac,Aa2a1,AdAe,H,,,1,1,6,7
+Double Jig,202,A,"ab, cd; ab1, ce.",ab,cd,ab1,ce,P,2,PH,5,3,0,3
+Double Jig,202,B,"ab, a1c; ab, AcAe.",ab,a1c,ab,AcAe,H,,,3,5,0,5
+Double Jig,203,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HS,5,3,0,3
+Double Jig,203,B,"aa1, a2b; cAb, AdAe.",aa1,a2b,cAb,AdAe,S,,,3,2,3,5
+Double Jig,204,A,"aa1, ab; aa2, cd.",aa1,ab,aa2,cd,H,3,HHH,4,4,0,4
+Double Jig,204,B,"aAa3, aAb; aAa4, Ac1Ad.",aAa3,aAb,aAa4,Ac1Ad,H,,,1,2,5,7
+Double Jig,204,C,"aa1, aAd1; ab, AeAf.",aa1,aAd1,ab,AeAf,H,,,2,4,2,6
+Double Jig,205,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PH,6,2,0,2
+Double Jig,205,B,"ab, aAd1; ab, AeAf.",ab,aAd1,ab,AeAf,H,,,2,3,3,6
+Double Jig,206,A,"ab, cb; a1b, c1d.",ab,cb,a1b,c1d,P,3,PHH,4,4,0,4
+Double Jig,206,B,"ab, ac; ab, Ac1Ad.",ab,ac,ab,Ac1Ad,H,,,3,3,2,5
+Double Jig,206,C,"ab, ac; ab, Ac1Ad.",ab,ac,ab,Ac1Ad,H,,,3,3,2,5
+Double Jig,207,A,"ab, ac; ad, ef.",ab,ac,ad,ef,H,2,HH,6,2,0,2
+Double Jig,207,B,"aAb1, aAc1; aAd1, Ae1Af1.",aAb1,aAc1,aAd1,Ae1Af1,H,,,1,2,5,7
+Double Jig,208,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,3,PPP,5,3,0,3
+Double Jig,208,B,"aa1, bc; aa1, Ac1Ae1.",aa1,bc,aa1,Ac1Ae1,P,,,3,3,2,5
+Double Jig,208,C,"aAb, Bb1Bc1; aAb, Ac1Ae.",aAb,Bb1Bc1,aAb,Ac1Ae,P,,,1,1,6,7
+Double Jig,209,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Double Jig,209,B,"aAb1, bc; aAb, AeAf.",aAb1,bc,aAb,AeAf,P,,,3,1,4,5
+Double Jig,210,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PPSS,6,2,0,2
+Double Jig,210,A1,"ab, cd; ab1, e1g.",ab,cd,ab1,e1g,P,,,6,2,0,2
+Double Jig,210,B,"ab, a1c; de, Ae1Ag.",ab,a1c,de,Ae1Ag,S,,,5,1,2,3
+Double Jig,210,B1,"ab, a1c; de, AeAf.",ab,a1c,de,AeAf,S,,,5,1,2,3
+Double Jig,211,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HHS,5,3,0,3
+Double Jig,211,B,"ab, ac; ab, Abd.",ab,ac,ab,Abd,H,,,3,4,1,5
+Double Jig,211,B1,"ab, ac; ef, Ab1Ae.",ab,ac,ef,Ab1Ae,S,,,6,0,2,2
+Double Jig,212,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PH,5,3,0,3
+Double Jig,212,B,"ab, a1b1; a2b2, Ab1Ae1.",ab,a1b1,a2b2,Ab1Ae1,H,,,2,4,2,6
+Double Jig,213,A,"ab, a1c; ab1, a2c1.",ab,a1c,ab1,a2c1,D,2,DP,3,5,0,5
+Double Jig,213,B,"ab, cd; ab, c1d.",ab,cd,ab,c1d,P,,,4,4,0,4
+Double Jig,214,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,6,NHPHHN,8,0,0,0
+Double Jig,214,B,"ab, a1b1; a2c, AgAh.",ab,a1b1,a2c,AgAh,H,,,3,3,2,5
+Double Jig,214,C,"ab, cd; eb1, AgAh.",ab,cd,eb1,AgAh,P,,,5,1,2,3
+Double Jig,214,D,"ab, ac; ab1, AgAh.",ab,ac,ab1,AgAh,H,,,3,3,2,5
+Double Jig,214,E,"ab, ac; aBc, AgAh.",ab,ac,aBc,AgAh,H,,,3,2,3,5
+Double Jig,214,F,"ab, cd; Ae1Af, AgAh.",ab,cd,Ae1Af,AgAh,N,,,4,0,4,4
+Double Jig,215,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,3,PSP,5,3,0,3
+Double Jig,215,B,"aa1, a2c; de, fAe1.",aa1,a2c,de,fAe1,S,,,6,1,1,2
+Double Jig,215,C,"aa1, bc; aa1, AcAe1.",aa1,bc,aa1,AcAe1,P,,,3,3,2,5
+Double Jig,216,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Double Jig,216,B,"ab, cd; ab, ef.",ab,cd,ab,ef,P,,,6,2,0,2
+Double Jig,217,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NN,8,0,0,0
+Double Jig,217,B,"ab, cd; ef, gAh.",ab,cd,ef,gAh,N,,,7,0,1,1
+Double Jig,218,A,"ab, a1c; ad, ef.",ab,a1c,ad,ef,H,2,HH,6,2,0,2
+Double Jig,218,B,"ab, ac; a1Ad1, AeAf.",ab,ac,a1Ad1,AeAf,H,,,3,2,3,5
+Double Jig,219,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PH,6,2,0,2
+Double Jig,219,B,"ab, ab1; a1c, dAf.",ab,ab1,a1c,dAf,H,,,4,3,1,4
+Double Jig,220,A,"ab, cd; a1b, ce.",ab,cd,a1b,ce,P,2,PP,5,3,0,3
+Double Jig,220,B,"ab, cd; ab1, eAe.",ab,cd,ab1,eAe,P,,,5,2,1,3
+Double Jig,221,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HP,5,3,0,3
+Double Jig,221,B,"ab, cd; ab, eAe1.",ab,cd,ab,eAe1,P,,,5,2,1,3
+Double Jig,222,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Double Jig,222,B,"ab, cd; a1e, AeAf.",ab,cd,a1e,AeAf,P,,,5,1,2,3
+Double Jig,223,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Double Jig,223,B,"ab, cd; ae, Ae1Af.",ab,cd,ae,Ae1Af,P,,,5,1,2,3
+Double Jig,224,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,7,PPPPPPP,6,2,0,2
+Double Jig,224,B,"aa1, bAd1; a2c, Ae1Af.",aa1,bAd1,a2c,Ae1Af,P,,,3,2,3,5
+Double Jig,224,C,"ab, BbAd2; a1b, Ae1Af.",ab,BbAd2,a1b,Ae1Af,P,,,2,2,4,6
+Double Jig,224,D,"aa1, bb1; a2a3, AeAf.",aa1,bb1,a2a3,AeAf,P,,,2,4,2,6
+Double Jig,224,E,"aa, BbAd3; aa, bc.",aa,BbAd3,aa,bc,P,,,3,3,2,5
+Double Jig,224,F,"ab, cd; ab1, eEc.",ab,cd,ab1,eEc,P,,,5,2,1,3
+Double Jig,224,G,"ab, BbAd4; ab, AeAf.",ab,BbAd4,ab,AeAf,P,,,2,2,4,6
+Double Jig,225,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PS,6,2,0,2
+Double Jig,225,B,"AcAc1, AcAd1; aAb1, AeAf.",AcAc1,AcAd1,aAb1,AeAf,S,,,1,0,7,7
+Double Jig,226,A,"ab, ac; ab, de.",ab,ac,ab,de,H,3,HHH,5,3,0,3
+Double Jig,226,B,"ab, ac; ad, AdAe.",ab,ac,ad,AdAe,H,,,4,2,2,4
+Double Jig,226,C,"ab, ab1; ab, AdAe.",ab,ab1,ab,AdAe,H,,,2,4,2,6
+Double Jig,227,A,"ab, ac; ab, de.",ab,ac,ab,de,H,3,HHH,5,3,0,3
+Double Jig,227,B,"ab, a1c; ad, AdAe.",ab,a1c,ad,AdAe,H,,,4,2,2,4
+Double Jig,227,C,"ab, a1Ac1; a2Bd, AdAe.",ab,a1Ac1,a2Bd,AdAe,H,,,1,3,4,7
+Double Jig,228,A,"ab, a1c; a1d, ef.",ab,a1c,a1d,ef,H,2,HP,6,2,0,2
+Double Jig,228,B,"ab, cd; ab, cAf.",ab,cd,ab,cAf,P,,,4,3,1,4
+Double Jig,229,A,"ab, a1c; a2a3, de.",ab,a1c,a2a3,de,H,2,HH,5,3,0,3
+Double Jig,229,B,"ab, ac; ab, dAe1.",ab,ac,ab,dAe1,H,,,4,3,1,4
+Double Jig,230,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NN,8,0,0,0
+Double Jig,230,B,"ab, cd; Aa1e, AgAh.",ab,cd,Aa1e,AgAh,N,,,5,0,3,3
+Double Jig,231,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Double Jig,231,B,"ab, cd; eAb, AeAf.",ab,cd,eAb,AeAf,N,,,5,0,3,3
+Double Jig,232,A,"ab, a1c; db, ef.",ab,a1c,db,ef,S,2,SH,6,2,0,2
+Double Jig,232,B,"ab, ac; ad, AeAf.",ab,ac,ad,AeAf,H,,,4,2,2,4
+Double Jig,233,A,"ab, a1c; ad, ef.",ab,a1c,ad,ef,H,2,HN,6,2,0,2
+Double Jig,233,B,"ab, Aa2c; de, AeAf.",ab,Aa2c,de,AeAf,N,,,5,0,3,3
+Double Jig,234,A,"ab, a1c; de, fg.",ab,a1c,de,fg,S,4,SSPN,8,0,0,0
+Double Jig,234,B,"ab, a1c; de, AfAg.",ab,a1c,de,AfAg,S,,,5,1,2,3
+Double Jig,234,C,"ab, cd; ad1, AfAg.",ab,cd,ad1,AfAg,P,,,4,2,2,4
+Double Jig,234,D,"aa1, Aab; cd, AfAg.",aa1,Aab,cd,AfAg,N,,,4,1,3,4
+Double Jig,235,A,"ab, ac; ab1, de.",ab,ac,ab1,de,H,4,HSHH,5,3,0,3
+Double Jig,235,B,"ab, ab1; cd, AdAe.",ab,ab1,cd,AdAe,S,,,4,2,2,4
+Double Jig,235,C,"ab, ac; aAb, AdAe.",ab,ac,aAb,AdAe,H,,,3,2,3,5
+Double Jig,235,D,"ab, ac; a1b1, Ad1Ae.",ab,ac,a1b1,Ad1Ae,H,,,3,3,2,5
+Double Jig,236,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,2,PPN,7,1,0,1
+Double Jig,236,B,"aAb, AcAd; aAb, AfAg.",aAb,AcAd,aAb,AfAg,P,,,1,1,6,7
+Double Jig,236,B1,"aAb, AcAd; bc, dAg.",aAb,AcAd,bc,dAg,N,,,4,0,4,4
+Double Jig,237,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Double Jig,237,B,"ab, ac; ab, AdAe.",ab,ac,ab,AdAe,H,,,3,3,2,5
+Double Jig,238,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Double Jig,238,B,"ab, ac; ab1, cAc1.",ab,ac,ab1,cAc1,H,,,3,4,1,5
+Double Jig,239,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PP,5,3,0,3
+Double Jig,239,B,"aAb, bc; a1Ab, Ac1Ae.",aAb,bc,a1Ab,Ac1Ae,P,,,3,1,4,5
+Double Jig,240,A,"ab, a1c; de, fg.",ab,a1c,de,fg,S,2,SS,7,1,0,1
+Double Jig,240,B,"aa1, ac; de, AfAg.",aa1,ac,de,AfAg,S,,,5,1,2,3
+Double Jig,241,A,"ab, a1c; ab, cd.",ab,a1c,ab,cd,H,2,HH,4,4,0,4
+Double Jig,241,B,"ab, ac; ad, ef.",ab,ac,ad,ef,H,,,6,2,0,2
+Double Jig,242,A,"ab, a1c; ab1, de.",ab,a1c,ab1,de,H,2,HP,5,3,0,3
+Double Jig,242,B,"ab, cd; ab, d1e.",ab,cd,ab,d1e,P,,,5,3,0,3
+Double Jig,243,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PS,5,3,0,3
+Double Jig,243,B,"ab, a1c; de, fAe.",ab,a1c,de,fAe,S,,,6,1,1,2
+Double Jig,244,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Double Jig,244,B,"aAc1, bc; de, AcAe.",aAc1,bc,de,AcAe,N,,,5,0,3,3
+Double Jig,245,A,"aa1, aa2; aa1, bc.",aa1,aa2,aa1,bc,H,2,HHH,3,5,0,5
+Double Jig,245,B,"ab, a1c; ab, AbAc.",ab,a1c,ab,AbAc,H,,,3,3,2,5
+Double Jig,245,B1,"ab, ac; ab, AbAc.",ab,ac,ab,AbAc,H,,,3,3,2,5
+Double Jig,246,A,"ab, a1c; ab, cd.",ab,a1c,ab,cd,H,3,HHH,4,4,0,4
+Double Jig,246,B,"ab, ab1; ac, c1Ad.",ab,ab1,ac,c1Ad,H,,,3,4,1,5
+Double Jig,246,C,"ab, a1b1; a1c, dAd.",ab,a1b1,a1c,dAd,H,,,4,3,1,4
+Double Jig,247,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,2,PP,4,4,0,4
+Double Jig,247,B,"aa1, AcAd1; ab, AcAd.",aa1,AcAd1,ab,AcAd,P,,,2,2,4,6
+Double Jig,248,A,"ab, cd; a1e, fg.",ab,cd,a1e,fg,P,4,PPNN,7,1,0,1
+Double Jig,248,B,"ab, cb; a1Ae, AfAg.",ab,cb,a1Ae,AfAg,P,,,3,2,3,5
+Double Jig,248,C,"ab, cd1; de, AfAg.",ab,cd1,de,AfAg,N,,,5,1,2,3
+Double Jig,248,D,"ab, cd; Ad1Ae1, AfAg.",ab,cd,Ad1Ae1,AfAg,N,,,4,0,4,4
+Double Jig,249,A,"ab, ac; ab, de1.",ab,ac,ab,de1,H,2,HH,5,3,0,3
+Double Jig,249,B,"ab, ab1; ab, AdAc1.",ab,ab1,ab,AdAc1,H,,,2,4,2,6
+Double Jig,250,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,3,PNNN,6,2,0,2
+Double Jig,250,B,"ab, cd; ef, AeAf.",ab,cd,ef,AeAf,N,,,6,0,2,2
+Double Jig,250,B1,"ab, cd; AaAb, AeAf.",ab,cd,AaAb,AeAf,N,,,4,0,4,4
+Double Jig,250,C,"ab, cd; eAb, AeAf.",ab,cd,eAb,AeAf,N,,,5,0,3,3
+Double Jig,251,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PP,5,3,0,3
+Double Jig,251,B,"ab, Acc; ab, Ac1Ae1.",ab,Acc,ab,Ac1Ae1,P,,,3,2,3,5
+Double Jig,252,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,3,HPP,5,3,0,3
+Double Jig,252,B,"ab, cd; ab1, AdAe.",ab,cd,ab1,AdAe,P,,,4,2,2,4
+Double Jig,252,C,"ab, cAd; ab, AdAe.",ab,cAd,ab,AdAe,P,,,3,2,3,5
+Double Jig,253,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,2,PP,7,1,0,1
+Double Jig,253,B,"ab, cd; ae, Af1Ag.",ab,cd,ae,Af1Ag,P,,,5,1,2,3
+Double Jig,254,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PS,6,2,0,2
+Double Jig,254,B,"aa, a1a1; bb1, cd.",aa,a1a1,bb1,cd,S,,,4,4,0,4
+Double Jig,255,A,"ab, a1b1; ab, cd.",ab,a1b1,ab,cd,H,2,HHS,4,4,0,4
+Double Jig,255,B,"ab, a1b1; ab, AcAd.",ab,a1b1,ab,AcAd,H,,,2,4,2,6
+Double Jig,255,B1,"ab, a1b1; cc1, dAd.",ab,a1b1,cc1,dAd,S,,,4,3,1,4
+Double Jig,256,A,"ab, ac; de, fg.",ab,ac,de,fg,S,3,SPS,7,1,0,1
+Double Jig,256,B,"ab, cd; a1e, fAc.",ab,cd,a1e,fAc,P,,,6,1,1,2
+Double Jig,256,C,"ab, aAc; Ad1Ae, AfAg.",ab,aAc,Ad1Ae,AfAg,S,,,2,1,5,6
+Double Jig,257,A,"ab, a1c; ab1, dc.",ab,a1c,ab1,dc,H,9,HHHHSSHHHH,4,4,0,4
+Double Jig,257,B,"aa1, a2b; ac, dAc.",aa1,a2b,ac,dAc,H,,,4,3,1,4
+Double Jig,257,C,"ab, aAc; ab1, Aa1Ac.",ab,aAc,ab1,Aa1Ac,H,,,2,3,3,6
+Double Jig,257,D,"ab, a1Bb; ab, BdAc.",ab,a1Bb,ab,BdAc,H,,,2,3,3,6
+Double Jig,257,D1,"ab, a1Bb; de, BdAc.",ab,a1Bb,de,BdAc,S,,,4,1,3,4
+Double Jig,257,E,"aDb, aBb; cc1, c2Ac.",aDb,aBb,cc1,c2Ac,S,,,3,2,3,5
+Double Jig,257,F,"ab, aBb1; a1De, BdAc1.",ab,aBb1,a1De,BdAc1,H,,,2,2,4,6
+Double Jig,257,G,"Fa1a, Fa1Bb1; Fa1Cb1, Aa1Ac1.",Fa1a,Fa1Bb1,Fa1Cb1,Aa1Ac1,H,,,1,0,7,7
+Double Jig,257,H,"ab, aAc; ab1, AdAc.",ab,aAc,ab1,AdAc,H,,,2,4,2,6
+Double Jig,257,I,"aa1, aAc; aa2, bAe.",aa1,aAc,aa2,bAe,H,,,2,5,1,6
+Double Jig,258,A,"aa1, ab; aa1, cd.",aa1,ab,aa1,cd,H,6,HNDHSN,4,4,0,4
+Double Jig,258,B,"ab, cd; ef, gh.",ab,cd,ef,gh,N,,,8,0,0,0
+Double Jig,258,C,"ab, ac; aAg1, a1b.",ab,ac,aAg1,a1b,D,,,3,4,1,5
+Double Jig,258,D,"Ag2Ag3, Ag2Cc; Ag2Ag4, bc.",Ag2Ag3,Ag2Cc,Ag2Ag4,bc,H,,,0,2,6,8
+Double Jig,258,E,"Bc1Bb1, Bc2Bd; BeBf, BgBh.",Bc1Bb1,Bc2Bd,BeBf,BgBh,S,,,0,0,8,8
+Double Jig,258,F,"aBb1, Bc2Bd1; bc, Bg1Bh.",aBb1,Bc2Bd1,bc,Bg1Bh,N,,,3,0,5,5
+Double Jig,259,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PS,5,3,0,3
+Double Jig,259,B,"ab, a1c; AaAb1, AcAe.",ab,a1c,AaAb1,AcAe,S,,,3,1,4,5
+Double Jig,260,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,6,PPPPPPPN,6,2,0,2
+Double Jig,260,B,"ab, AcAd; ab, AeAf.",ab,AcAd,ab,AeAf,P,,,2,2,4,6
+Double Jig,260,B1,"ab, Ac1b1; cb1, AeAf.",ab,Ac1b1,cb1,AeAf,P,,,3,2,3,5
+Double Jig,260,C,"ab, cBd; ab, AeAf.",ab,cBd,ab,AeAf,P,,,3,2,3,5
+Double Jig,260,D,"ab, cd; ab, d1Af1.",ab,cd,ab,d1Af1,P,,,4,4,0,4
+Double Jig,260,E,"aBb1, Ac1Ad; aBb1, AeAf.",aBb1,Ac1Ad,aBb1,AeAf,P,,,1,1,6,7
+Double Jig,260,F,"ab, BaBb; aBb3, AeAf.",ab,BaBb,aBb3,AeAf,P,,,2,1,5,6
+Double Jig,260,F1,"ab, BaBb; Dd1Bb1, AeAf.",ab,BaBb,Dd1Bb1,AeAf,N,,,2,0,6,6
+Double Jig,261,A,"ab, a1c; a2d, ef.",ab,a1c,a2d,ef,H,2,HH,6,2,0,2
+Double Jig,261,B,"aAb1, aAc1; aAd, AeAf.",aAb1,aAc1,aAd,AeAf,H,,,1,2,5,7
+Double Jig,262,A,"ab, cd; a1e, fg.",ab,cd,a1e,fg,P,2,PN,7,1,0,1
+Double Jig,262,B,"ab, cAa2; Ac2d, Aa1e.",ab,cAa2,Ac2d,Aa1e,N,,,5,0,3,3
+Double Jig,263,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PP,5,3,0,3
+Double Jig,263,B,"ab, cd; ae, fg.",ab,cd,ae,fg,P,,,7,1,0,1
+Double Jig,264,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Double Jig,264,B,"ab, ac; ab, Ad1Ae1.",ab,ac,ab,Ad1Ae1,H,,,3,3,2,5
+Double Jig,265,A,"ab, cb1; ab2, cd.",ab,cb1,ab2,cd,P,2,PPPN,4,4,0,4
+Double Jig,265,A1,"ab, cb1; ab2, cd1.",ab,cb1,ab2,cd1,P,,,4,4,0,4
+Double Jig,265,B,"ab, AcAb2; ab1, AcAd.",ab,AcAb2,ab1,AcAd,P,,,2,2,4,6
+Double Jig,265,B1,"ab, AcAb2; cb2, AcAd.",ab,AcAb2,cb2,AcAd,N,,,2,2,4,6
+Double Jig,266,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HHS,5,3,0,3
+Double Jig,266,B,"ab, aAc1; ac, Ad1Ae.",ab,aAc1,ac,Ad1Ae,H,,,3,2,3,5
+Double Jig,266,B1,"ab, aAc1; de, Ad1Ae.",ab,aAc1,de,Ad1Ae,S,,,5,0,3,3
+Double Jig,267,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Double Jig,267,B,"ab, a1c; ab, Ad1Ae.",ab,a1c,ab,Ad1Ae,H,,,3,3,2,5
+Double Jig,268,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PH,6,2,0,2
+Double Jig,268,B,"ab, a1c; ab, Ad1Ae.",ab,a1c,ab,Ad1Ae,H,,,3,3,2,5
+Double Jig,269,A,"ab, ac; ad, a1e.",ab,ac,ad,a1e,D,2,DH,5,3,0,3
+Double Jig,269,B,"ab, a1c; aAd, Aa1Ae.",ab,a1c,aAd,Aa1Ae,H,,,3,2,3,5
+Double Jig,270,A,"ab, a1c; ad, ae.",ab,a1c,ad,ae,D,2,DP,5,3,0,3
+Double Jig,270,B,"ab, cd; ae, fg.",ab,cd,ae,fg,P,,,7,1,0,1
+Double Jig,271,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Double Jig,271,B,"ab, cAa; ab, AeAf.",ab,cAa,ab,AeAf,P,,,3,2,3,5
+Double Jig,272,A,"ab, cd; a1b, ef.",ab,cd,a1b,ef,P,2,PS,6,2,0,2
+Double Jig,272,B,"ab, a1c; dAb, AeAf.",ab,a1c,dAb,AeAf,S,,,4,1,3,4
+Double Jig,273,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NH,8,0,0,0
+Double Jig,273,B,"ab, ac; aAf1, AgAh.",ab,ac,aAf1,AgAh,H,,,3,2,3,5
+Double Jig,274,A,"ab, ac; ad, ef.",ab,ac,ad,ef,H,5,HPSHH,6,2,0,2
+Double Jig,274,B,"aa1, a1b; a2c, a1Af.",aa1,a1b,a2c,a1Af,P,,,3,4,1,5
+Double Jig,274,C,"ab, a1c; de, fg.",ab,a1c,de,fg,S,,,7,1,0,1
+Double Jig,274,D,"ab, ab1; ab2, Aa3Af.",ab,ab1,ab2,Aa3Af,H,,,2,4,2,6
+Double Jig,274,E,"ab, ac; ad, Aa3Af.",ab,ac,ad,Aa3Af,H,,,3,3,2,5
+Double Jig,275,A,"ab, ac; a1b, de.",ab,ac,a1b,de,H,2,HP,5,3,0,3
+Double Jig,275,B,"ab, cd; ab, eAe.",ab,cd,ab,eAe,P,,,5,2,1,3
+Double Jig,276,A,"ab, ac; ab, c1d.",ab,ac,ab,c1d,H,2,HPN,4,4,0,4
+Double Jig,276,B,"ab, cd; ab, Ac1Ad.",ab,cd,ab,Ac1Ad,P,,,4,2,2,4
+Double Jig,276,B1,"ab, cd; ef, gAd1.",ab,cd,ef,gAd1,N,,,7,0,1,1
+Double Jig,277,A,"ab, ac; ab1, a1d.",ab,ac,ab1,a1d,D,2,DH,4,4,0,4
+Double Jig,277,B,"ab, a1c; ab, Aa1Ad.",ab,a1c,ab,Aa1Ad,H,,,3,3,2,5
+Double Jig,278,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PP,5,3,0,3
+Double Jig,278,B,"ab, cd; ab, AcAe.",ab,cd,ab,AcAe,P,,,4,2,2,4
+Double Jig,279,A,"ab, ac; ab1, de.",ab,ac,ab1,de,H,2,HPP,5,3,0,3
+Double Jig,279,B,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,,,6,2,0,2
+Double Jig,279,B1,"ab, cd; ab1, ef1.",ab,cd,ab1,ef1,P,,,6,2,0,2
+Double Jig,280,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PHH,5,3,0,3
+Double Jig,280,B,"ab, a1c; ab, dAe1.",ab,a1c,ab,dAe1,H,,,4,3,1,4
+Double Jig,280,B1,"ab, a1c; ab, ef.",ab,a1c,ab,ef,H,,,6,2,0,2
+Double Jig,281,A,"ab, ac; ab, de.",ab,ac,ab,de,H,4,HHHP,5,3,0,3
+Double Jig,281,B,"ab, ac; ab1, dAe1.",ab,ac,ab1,dAe1,H,,,4,3,1,4
+Double Jig,281,C,"ab, a1Ac; ab1, cAe.",ab,a1Ac,ab1,cAe,H,,,3,3,2,5
+Double Jig,281,D,"ab, cAc; ab, dAe.",ab,cAc,ab,dAe,P,,,4,2,2,4
+Double Jig,282,A,"ab, ac; ab1, de.",ab,ac,ab1,de,H,3,HPP,5,3,0,3
+Double Jig,282,B,"aa1, ba; aa, cAe.",aa1,ba,aa,cAe,P,,,3,4,1,5
+Double Jig,282,C,"ab, cd; ab, eAe.",ab,cd,ab,eAe,P,,,5,2,1,3
+Double Jig,283,A,"ab, a1c; ad, ef.",ab,a1c,ad,ef,H,2,HS,6,2,0,2
+Double Jig,283,B,"ab, ab1; cAd, AeAf.",ab,ab1,cAd,AeAf,S,,,3,2,3,5
+Double Jig,284,A,"aa, bc; aa, de.",aa,bc,aa,de,P,3,PPP,5,3,0,3
+Double Jig,284,B,"ab, cd; ab, AdAe.",ab,cd,ab,AdAe,P,,,4,2,2,4
+Double Jig,284,C,"ab, cd; ab, cAe.",ab,cd,ab,cAe,P,,,4,3,1,4
+Double Jig,285,A,"ab, ac; ab1, de.",ab,ac,ab1,de,H,2,HH,5,3,0,3
+Double Jig,285,B,"ab, a1Ac; ab, AdAe.",ab,a1Ac,ab,AdAe,H,,,2,3,3,6
+Double Jig,286,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,4,HHPH,5,3,0,3
+Double Jig,286,B,"ab, a1Ac; ab1, cAe.",ab,a1Ac,ab1,cAe,H,,,3,3,2,5
+Double Jig,286,C,"ab, BcAc; ab, BcAe.",ab,BcAc,ab,BcAe,P,,,2,2,4,6
+Double Jig,286,D,"aa1, a2Ac; a2Ad, AdAe.",aa1,a2Ac,a2Ad,AdAe,H,,,1,3,4,7
+Double Jig,287,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,4,PHPH,7,1,0,1
+Double Jig,287,B,"ab, a1b1; ab2, AfAg.",ab,a1b1,ab2,AfAg,H,,,2,4,2,6
+Double Jig,287,C,"ab, cd; aAe, AfAg.",ab,cd,aAe,AfAg,P,,,4,1,3,4
+Double Jig,287,D,"ab, a1b1; ac, AfAg.",ab,a1b1,ac,AfAg,H,,,3,3,2,5
+Double Jig,288,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HS,5,3,0,3
+Double Jig,288,B,"aAb, aAc; Aa1b, AdAe.",aAb,aAc,Aa1b,AdAe,S,,,1,2,5,7
+Double Jig,289,A,"ab, b1c; ab, de.",ab,b1c,ab,de,P,2,PP,5,3,0,3
+Double Jig,289,B,"ab, Ab1c; ad, AdAe.",ab,Ab1c,ad,AdAe,P,,,4,1,3,4
+Double Jig,290,A,"ab, a1c; ad, ef.",ab,a1c,ad,ef,H,3,HNH,6,2,0,2
+Double Jig,290,B,"ab, cd; c1b1, AeAf.",ab,cd,c1b1,AeAf,N,,,4,2,2,4
+Double Jig,290,C,"ab, a1b1; aBb1, AeAf.",ab,a1b1,aBb1,AeAf,H,,,2,3,3,6
+Double Jig,291,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,3,PHP,5,3,0,3
+Double Jig,291,B,"ab, ab1; a1b, Ac1b2.",ab,ab1,a1b,Ac1b2,H,,,2,6,0,6
+Double Jig,291,C,"ab, AcAd; ab, AcAe.",ab,AcAd,ab,AcAe,P,,,2,2,4,6
+Double Jig,292,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NN,8,0,0,0
+Double Jig,292,B,"ab, cAd1; AeAf, AgAh.",ab,cAd1,AeAf,AgAh,N,,,3,0,5,5
+Double Jig,293,A,"ab, ab1; ac, de.",ab,ab1,ac,de,H,2,HH,5,3,0,3
+Double Jig,293,B,"ab, a1b1; aAc, AdAe.",ab,a1b1,aAc,AdAe,H,,,2,3,3,6
+Double Jig,294,A,"ab, ac; bc1, de.",ab,ac,bc1,de,S,3,SHH,5,3,0,3
+Double Jig,294,B,"aAb1, a1Ac1; ab, AdAe.",aAb1,a1Ac1,ab,AdAe,H,,,2,2,4,6
+Double Jig,294,C,"Ba2Ab1, Ba3Ac1; Ba4Bb, AdAe.",Ba2Ab1,Ba3Ac1,Ba4Bb,AdAe,H,,,0,0,8,8
+Double Jig,295,A,"ab, a1b1; cd, ef.",ab,a1b1,cd,ef,S,2,SH,6,2,0,2
+Double Jig,295,B,"ab, a1b1; ac, dAf.",ab,a1b1,ac,dAf,H,,,4,3,1,4
+Double Jig,296,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HH,5,3,0,3
+Double Jig,296,B,"ab, a1c; a2Ab, AdAe.",ab,a1c,a2Ab,AdAe,H,,,3,2,3,5
+Double Jig,297,A,"ab, a1c; aa2, de.",ab,a1c,aa2,de,H,2,HH,5,3,0,3
+Double Jig,297,B,"ab, a1c; ab1, AdAe.",ab,a1c,ab1,AdAe,H,,,3,3,2,5
+Double Jig,298,A,"ab, ac; ad, ef.",ab,ac,ad,ef,H,3,HSH,6,2,0,2
+Double Jig,298,B,"aa1, a2b; cd, eAf.",aa1,a2b,cd,eAf,S,,,5,2,1,3
+Double Jig,298,C,"ab, ac; ad, AeAf.",ab,ac,ad,AeAf,H,,,4,3,1,4
+Double Jig,299,A,"ab, cd; ae, fd1.",ab,cd,ae,fd1,P,4,PSNH,6,2,0,2
+Double Jig,299,B,"ab, aAd; Aa1Ae1, AfAd1.",ab,aAd,Aa1Ae1,AfAd1,S,,,2,1,5,6
+Double Jig,299,C,"ab, AfAd2; cd, AfAd1.",ab,AfAd2,cd,AfAd1,N,,,4,0,4,4
+Double Jig,299,D,"ab, ac; aAe1, AfAd1.",ab,ac,aAe1,AfAd1,H,,,3,2,3,5
+Double Jig,300,A,"ab, cd; a1e, fg.",ab,cd,a1e,fg,P,2,PPN,7,1,0,1
+Double Jig,300,B,"ab, cd; ab, ef.",ab,cd,ab,ef,P,,,6,2,0,2
+Double Jig,300,B1,"ab, cd; gh, AfAg.",ab,cd,gh,AfAg,N,,,6,0,2,2
+Double Jig,301,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Double Jig,301,B,"ab, AcAd; ab, AeAf.",ab,AcAd,ab,AeAf,P,,,2,2,4,6
+Double Jig,302,A,"aa1, ab; aa2, cd.",aa1,ab,aa2,cd,H,2,HS,4,4,0,4
+Double Jig,302,B,"ab, ab1; cd, AcAd.",ab,ab1,cd,AcAd,S,,,4,2,2,4
+Double Jig,303,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Double Jig,303,B,"ab, cd; ef, ge.",ab,cd,ef,ge,N,,,7,1,0,1
+Double Jig,304,A,"ab, cd; ae, fg.",ab,cd,ae,fg,N,2,NHP,7,1,0,1
+Double Jig,304,B,"ab, a1b1; ab, AfAg.",ab,a1b1,ab,AfAg,H,,,2,4,2,6
+Double Jig,304,B1,"ab, a1b1; cd, AfAg.",ab,a1b1,cd,AfAg,P,,,4,2,2,4
+Double Jig,305,A,"ab, cd; a1e, fg.",ab,cd,a1e,fg,P,2,PHS,7,1,0,1
+Double Jig,305,B,"ab, a1c; a2b, AfAg.",ab,a1c,a2b,AfAg,H,,,3,3,2,5
+Double Jig,305,B1,"ab, a1c; cd, AfAg.",ab,a1c,cd,AfAg,S,,,4,2,2,4
+Double Jig,306,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,3,PPPPPP,6,2,0,2
+Double Jig,306,A1,"ab, cd; ab, ef1.",ab,cd,ab,ef1,P,,,6,2,0,2
+Double Jig,306,B,"aa1, bc; aa1, bAf.",aa1,bc,aa1,bAf,P,,,3,4,1,5
+Double Jig,306,B1,"aa1, bc; aa1, bAf1.",aa1,bc,aa1,bAf1,P,,,3,4,1,5
+Double Jig,306,C,"aa1, AcAd; aa1, AeAf.",aa1,AcAd,aa1,AeAf,P,,,1,3,4,7
+Double Jig,306,C1,"aa1, AcAd; aa1, AeAf1.",aa1,AcAd,aa1,AeAf1,P,,,1,3,4,7
+Double Jig,307,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Double Jig,307,B,"ab, cAb; ab, Abd.",ab,cAb,ab,Abd,P,,,4,2,2,4
+Double Jig,308,A,"ab, ab1; ab, cd.",ab,ab1,ab,cd,H,2,HN,4,4,0,4
+Double Jig,308,B,"ab, cd; AaAb, ef.",ab,cd,AaAb,ef,N,,,6,0,2,2
+Double Jig,309,A,"ab, a1b; ab1, cd.",ab,a1b,ab1,cd,H,2,HH,4,4,0,4
+Double Jig,309,B,"aAb1, ab; aAb1, AcAd.",aAb1,ab,aAb1,AcAd,H,,,2,2,4,6
+Double Jig,310,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PPP,5,3,0,3
+Double Jig,310,B,"aAb1, bc; aAb1, bc.",aAb1,bc,aAb1,bc,P,,,3,3,2,5
+Double Jig,310,B1,"aAb1, bc; aAb1, bc2.",aAb1,bc,aAb1,bc2,P,,,3,3,2,5
+Double Jig,311,A,"ab, a1c; ab1, de.",ab,a1c,ab1,de,H,2,HH,5,3,0,3
+Double Jig,311,B,"ab, a1b1; a2b, AdAe.",ab,a1b1,a2b,AdAe,H,,,2,4,2,6
+Double Jig,312,A,"ab, a1c; ab1, de.",ab,a1c,ab1,de,H,2,HH,5,3,0,3
+Double Jig,312,B,"ab, aAc1; aAb1, AdAe.",ab,aAc1,aAb1,AdAe,H,,,2,2,4,6
+Double Jig,313,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,3,PHS,5,3,0,3
+Double Jig,313,B,"aa1, ab; aa1, cd.",aa1,ab,aa1,cd,H,,,4,4,0,4
+Double Jig,313,C,"aa1, ab; cc1, cd.",aa1,ab,cc1,cd,S,,,4,4,0,4
+Double Jig,314,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,2,PH,7,1,0,1
+Double Jig,314,B,"ab, ac; ab, AfAg.",ab,ac,ab,AfAg,H,,,3,3,2,5
+Double Jig,315,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PP,5,3,0,3
+Double Jig,315,B,"ab, AcAd; aAb, AcAe.",ab,AcAd,aAb,AcAe,P,,,2,1,5,6
+Double Jig,316,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PN,6,2,0,2
+Double Jig,316,B,"ab, cAd; AaAb1, AeAf.",ab,cAd,AaAb1,AeAf,N,,,3,0,5,5
+Double Jig,317,A,"ab, a1b1; ab, cd.",ab,a1b1,ab,cd,H,2,HS,4,4,0,4
+Double Jig,317,B,"ab, a1b1; cc1, Ac1Ad.",ab,a1b1,cc1,Ac1Ad,S,,,3,3,2,5
+Double Jig,318,A,"ab, ac; ab1, cd.",ab,ac,ab1,cd,H,2,HHH,4,4,0,4
+Double Jig,318,B,"ab, ab1; ab, AcAd1.",ab,ab1,ab,AcAd1,H,,,2,4,2,6
+Double Jig,318,B1,"ab, ab1; ab, AcAd2.",ab,ab1,ab,AcAd2,H,,,2,4,2,6
+Double Jig,319,A,"ab, cd; ab1, c1e.",ab,cd,ab1,c1e,P,2,PP,5,3,0,3
+Double Jig,319,B,"ab, AcAd; ab, AcAe.",ab,AcAd,ab,AcAe,P,,,2,2,4,6
+Double Jig,320,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,3,PPH,6,2,0,2
+Double Jig,320,B,"ab, cd; ab, Aa1Af.",ab,cd,ab,Aa1Af,P,,,4,2,2,4
+Double Jig,320,C,"aAb, aAd; a1Ab, bAf.",aAb,aAd,a1Ab,bAf,H,,,1,3,4,7
+Double Jig,321,A,"ab, cd; ae, ff.",ab,cd,ae,ff,P,2,PP,6,2,0,2
+Double Jig,321,B,"aAb, AcAd; bAb, AfAf.",aAb,AcAd,bAb,AfAf,P,,,2,0,6,6
+Double Jig,322,A,"aa1, bb1; aa1, cd.",aa1,bb1,aa1,cd,P,2,PN,4,4,0,4
+Double Jig,322,B,"ab, cc1; AaAa1, AcAd.",ab,cc1,AaAa1,AcAd,N,,,3,1,4,5
+Double Jig,323,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PN,5,3,0,3
+Double Jig,323,B,"ab, AcAd; AaAb, Ac1Ae.",ab,AcAd,AaAb,Ac1Ae,N,,,2,0,6,6
+Double Jig,324,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PH,6,2,0,2
+Double Jig,324,B,"ab, aAd1; ab, AeAf.",ab,aAd1,ab,AeAf,H,,,2,3,3,6
+Double Jig,325,A,"ab, ac; a1b, ae.",ab,ac,a1b,ae,D,2,DH,5,3,0,3
+Double Jig,325,B,"ab, aAc; ab, AdAe.",ab,aAc,ab,AdAe,H,,,2,3,3,6
+Double Jig,326,A,"ab, ab; ab1, cd.",ab,ab,ab1,cd,H,2,HD,4,4,0,4
+Double Jig,326,B,"ab, ac; ab, a1c.",ab,ac,ab,a1c,D,,,3,5,0,5
+Double Jig,327,A,"ab, ac; ac, de.",ab,ac,ac,de,H,3,HHS,5,3,0,3
+Double Jig,327,B,"ab, ac; ab1, Ad1Ae.",ab,ac,ab1,Ad1Ae,H,,,3,3,2,5
+Double Jig,327,C,"ab, ac; dd1, AdAe.",ab,ac,dd1,AdAe,S,,,4,2,2,4
+Double Jig,328,A,"ab, ac; ab, de.",ab,ac,ab,de,H,3,HHH,5,3,0,3
+Double Jig,328,B,"ab, ac; ab, AdAe.",ab,ac,ab,AdAe,H,,,3,3,2,5
+Double Jig,328,C,"ab, aAc1; ab, AdAe.",ab,aAc1,ab,AdAe,H,,,2,4,2,6
+Double Jig,329,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,3,PPPPHH,6,2,0,2
+Double Jig,329,A1,"ab, cd; ab, ef1.",ab,cd,ab,ef1,P,,,6,2,0,2
+Double Jig,329,B,"ab, cAd; ab, cAf.",ab,cAd,ab,cAf,P,,,3,3,2,5
+Double Jig,329,B1,"ab, cAd; ab, cAf1.",ab,cAd,ab,cAf1,P,,,3,3,2,5
+Double Jig,329,C,"ab, a1Ad; ab, AcAf.",ab,a1Ad,ab,AcAf,H,,,2,3,3,6
+Double Jig,329,C1,"ab, a1Ad; ab, AcAf1.",ab,a1Ad,ab,AcAf1,H,,,2,3,3,6
+Double Jig,330,A,"ab, cd; ab1, ce.",ab,cd,ab1,ce,P,3,PNPN,5,3,0,3
+Double Jig,330,B,"ab, Ab1c; de, fAe.",ab,Ab1c,de,fAe,N,,,6,0,2,2
+Double Jig,330,C,"ab, cBd1; a1b1, dAe.",ab,cBd1,a1b1,dAe,P,,,4,2,2,4
+Double Jig,330,C1,"ab, cBd1; eBd1, dAe.",ab,cBd1,eBd1,dAe,N,,,4,1,3,4
+Double Jig,331,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Double Jig,331,B,"aa, a1b; aa, AdAe.",aa,a1b,aa,AdAe,H,,,2,4,2,6
+Double Jig,332,A,"ab, ca; db, ce.",ab,ca,db,ce,N,2,NS,5,3,0,3
+Double Jig,332,B,"aa1, a2a2; bc, dAe1.",aa1,a2a2,bc,dAe1,S,,,4,3,1,4
+Double Jig,333,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PPPP,6,2,0,2
+Double Jig,333,A1,"ab, cd; ab1, eg.",ab,cd,ab1,eg,P,,,7,1,0,1
+Double Jig,333,B,"ab, cd; ab, de.",ab,cd,ab,de,P,,,5,3,0,3
+Double Jig,333,B1,"ab, cd; ab, dAf.",ab,cd,ab,dAf,P,,,4,3,1,4
+Double Jig,334,A,"ab, ac; ad, ef.",ab,ac,ad,ef,H,2,HH,6,2,0,2
+Double Jig,334,B,"ab, aAc1; aAd, AeAf.",ab,aAc1,aAd,AeAf,H,,,2,2,4,6
+Double Jig,335,A,"ab, ca1; ad, ef.",ab,ca1,ad,ef,P,2,PH,6,2,0,2
+Double Jig,335,B,"ab, a1b1; a2c, dAf.",ab,a1b1,a2c,dAf,H,,,4,3,1,4
+Double Jig,336,A,"aa1, bc; aa2, de.",aa1,bc,aa2,de,P,2,PH,5,3,0,3
+Double Jig,336,B,"ab, a1c; a2Aa2, Ad1Ae.",ab,a1c,a2Aa2,Ad1Ae,H,,,3,2,3,5
+Double Jig,337,A,"ab, a1c; a1d, ef.",ab,a1c,a1d,ef,H,2,HS,6,2,0,2
+Double Jig,337,B,"ab, ac; de, AeAf.",ab,ac,de,AeAf,S,,,5,1,2,3
+Double Jig,338,A,"ab, cd; ae, cf.",ab,cd,ae,cf,P,4,PNHH,6,2,0,2
+Double Jig,338,B,"ab, cd; AaAe1, Ac1Af1.",ab,cd,AaAe1,Ac1Af1,N,,,4,0,4,4
+Double Jig,338,C,"ab, a1c; a2d, AcAf.",ab,a1c,a2d,AcAf,H,,,4,2,2,4
+Double Jig,338,D,"ab, a1c; a2Ae3, Ac1Af.",ab,a1c,a2Ae3,Ac1Af,H,,,3,2,3,5
+Double Jig,339,A,"ab, a1c; ab1, de.",ab,a1c,ab1,de,H,3,HHPPN,5,3,0,3
+Double Jig,339,A1,"ab, a1c; ab1, de1.",ab,a1c,ab1,de1,H,,,5,3,0,3
+Double Jig,339,B,"ab, cd; a1e, Ab1f.",ab,cd,a1e,Ab1f,P,,,6,1,1,2
+Double Jig,339,B1,"ab, cd; a1e, Ab1Ae2.",ab,cd,a1e,Ab1Ae2,P,,,5,1,2,3
+Double Jig,339,C,"ab, cBd1; de, Bf1f.",ab,cBd1,de,Bf1f,N,,,6,0,2,2
+Double Jig,340,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NN,8,0,0,0
+Double Jig,340,B,"aa1, bc; de, Ag1Ah.",aa1,bc,de,Ag1Ah,N,,,5,1,2,3
+Double Jig,341,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PN,6,2,0,2
+Double Jig,341,B,"ab, a1c; b1Ab1, AeAf.",ab,a1c,b1Ab1,AeAf,N,,,3,2,3,5
+Double Jig,342,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,3,PHSHS,6,2,0,2
+Double Jig,342,B,"ab, aAd; ab, cAf.",ab,aAd,ab,cAf,H,,,3,3,2,5
+Double Jig,342,B1,"ab, ad; ee1, AeAf.",ab,ad,ee1,AeAf,S,,,5,1,2,3
+Double Jig,342,C,"ab, aAd; ab, AeAf.",ab,aAd,ab,AeAf,H,,,2,3,3,6
+Double Jig,342,C1,"ab, ac; dAc1, AeAf.",ab,ac,dAc1,AeAf,S,,,4,1,3,4
+Double Jig,343,A,"ab, a1c; ab, c1e.",ab,a1c,ab,c1e,H,2,HH,5,3,0,3
+Double Jig,343,B,"ab, aAc; a1b1, cAe.",ab,aAc,a1b1,cAe,H,,,3,3,2,5
+Double Jig,344,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,3,PNP,6,2,0,2
+Double Jig,344,B,"aAb, AcAd; Aa1Ab, AeAf.",aAb,AcAd,Aa1Ab,AeAf,N,,,1,0,7,7
+Double Jig,344,C,"aAb, AcAd1; ab, AeAf.",aAb,AcAd1,ab,AeAf,P,,,2,1,5,6
+Double Jig,345,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,2,PH,7,1,0,1
+Double Jig,345,B,"ab, a1b1; a2c, dAg.",ab,a1b1,a2c,dAg,H,,,4,3,1,4
+Double Jig,346,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PPN,4,4,0,4
+Double Jig,346,B,"ab, cd; ab, c1d1.",ab,cd,ab,c1d1,P,,,4,4,0,4
+Double Jig,346,B1,"ab, cd; Aa1Ab, AcAd1.",ab,cd,Aa1Ab,AcAd1,N,,,4,0,4,4
+Double Jig,347,A,"ab, cd; a1b, c1d1.",ab,cd,a1b,c1d1,P,2,PN,4,4,0,4
+Double Jig,347,B,"ab, cd; ef, gAd1.",ab,cd,ef,gAd1,N,,,7,0,1,1
+Double Jig,348,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NN,8,0,0,0
+Double Jig,348,B,"ab, cd; ef, gAh.",ab,cd,ef,gAh,N,,,7,0,1,1
+Double Jig,349,A,"ab, cb1; a1d, ef.",ab,cb1,a1d,ef,P,2,PP,6,2,0,2
+Double Jig,349,B,"ab, cd; a1e, Ae1Af.",ab,cd,a1e,Ae1Af,P,,,5,1,2,3
+Double Jig,350,A,"ab, ac; ab1, de.",ab,ac,ab1,de,H,2,HH,5,3,0,3
+Double Jig,350,B,"ab, ab1; ac, dAe.",ab,ab1,ac,dAe,H,,,4,3,1,4
+Double Jig,351,A,"ab, cd; eb, fg.",ab,cd,eb,fg,N,2,NH,7,1,0,1
+Double Jig,351,B,"ab, ac; ab, AfAg.",ab,ac,ab,AfAg,H,,,3,3,2,5
+Double Jig,352,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,4,NSNN,8,0,0,0
+Double Jig,352,B,"ab, ac; AeAf, AgAh.",ab,ac,AeAf,AgAh,S,,,3,1,4,5
+Double Jig,352,C,"ab, cd; eAe1, AgAh.",ab,cd,eAe1,AgAh,N,,,5,0,3,3
+Double Jig,352,D,"ab, cd; ef, AgAh.",ab,cd,ef,AgAh,N,,,6,0,2,2
+Double Jig,353,A,"ab, ab1; ab, a1c.",ab,ab1,ab,a1c,D,4,DHHH,3,5,0,5
+Double Jig,353,B,"ab, ab1; ab, cAc.",ab,ab1,ab,cAc,H,,,3,4,1,5
+Double Jig,353,C,"ab, ac; ab, dAc.",ab,ac,ab,dAc,H,,,4,3,1,4
+Double Jig,353,D,"ab, ac; ab, CdAc.",ab,ac,ab,CdAc,H,,,3,3,2,5
+Double Jig,354,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,3,PPN,5,3,0,3
+Double Jig,354,B,"ab, AcAd; ab, AcAe.",ab,AcAd,ab,AcAe,P,,,2,2,4,6
+Double Jig,354,C,"ab, AcAd; cBb1, AcAe.",ab,AcAd,cBb1,AcAe,N,,,3,0,5,5
+Double Jig,355,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PS,6,2,0,2
+Double Jig,355,B,"ab, a1Ad; cc1, dAf.",ab,a1Ad,cc1,dAf,S,,,4,2,2,4
+Double Jig,356,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HN,5,3,0,3
+Double Jig,356,B,"ab, cAc; dAb1, AdAe.",ab,cAc,dAb1,AdAe,N,,,4,0,4,4
+Double Jig,357,A,"aa1, bc; de, fg.",aa1,bc,de,fg,N,2,NN,7,1,0,1
+Double Jig,357,B,"ab, cd; ef, gAg.",ab,cd,ef,gAg,N,,,6,1,1,2
+Double Jig,358,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HS,5,3,0,3
+Double Jig,358,B,"ab, a1b1; AaAb, AdAe.",ab,a1b1,AaAb,AdAe,S,,,2,2,4,6
+Double Jig,359,A,"ab, cd; a1e, fg.",ab,cd,a1e,fg,P,2,PN,7,1,0,1
+Double Jig,359,B,"ab, cd; ef, gAg.",ab,cd,ef,gAg,N,,,7,0,1,1
+Double Jig,360,A,"ab, a1c; a2b1, de.",ab,a1c,a2b1,de,H,2,HH,5,3,0,3
+Double Jig,360,B,"ab, a1c; a2d, AdAe.",ab,a1c,a2d,AdAe,H,,,4,2,2,4
+Double Jig,361,A,"ab, a1b1; ab, cd.",ab,a1b1,ab,cd,H,2,HP,4,4,0,4
+Double Jig,361,B,"ab, AcAb2; ab1, cAd.",ab,AcAb2,ab1,cAd,P,,,3,2,3,5
+Double Jig,362,A,"ab, cd; a1b, ce.",ab,cd,a1b,ce,P,3,PPN,5,3,0,3
+Double Jig,362,B,"ab, AcAd1; a1Ab1, AcAe.",ab,AcAd1,a1Ab1,AcAe,P,,,2,1,5,6
+Double Jig,362,C,"ab, Ac1c; de, AcAe.",ab,Ac1c,de,AcAe,N,,,5,0,3,3
+Double Jig,363,A,"ab, a1c; ab, a2d.",ab,a1c,ab,a2d,D,2,DHS,4,4,0,4
+Double Jig,363,B,"ab, ac; ab, Aa2Ad.",ab,ac,ab,Aa2Ad,H,,,3,3,2,5
+Double Jig,363,B1,"ab, ac; cd, eAd.",ab,ac,cd,eAd,S,,,5,2,1,3
+Double Jig,364,A,"ab, cd; ab, ed.",ab,cd,ab,ed,P,2,PS,5,3,0,3
+Double Jig,364,B,"ab, a1c; de, AeAd.",ab,a1c,de,AeAd,S,,,5,1,2,3
+Double Jig,365,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Double Jig,365,B,"aAb, AcAd; aAb, AeAf.",aAb,AcAd,aAb,AeAf,P,,,1,1,6,7
+Single Jig,366,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PPP,5,3,0,3
+Single Jig,366,B,"ab, AcAd; Aa1b, Ac1c.",ab,AcAd,Aa1b,Ac1c,P,,,3,1,4,5
+Single Jig,366,B1,"Aa2b, AcAd; Aa1d, ef.",Aa2b,AcAd,Aa1d,ef,P,,,2,2,4,6
+Single Jig,367,A,"aa1, bb1; aa1, cd.",aa1,bb1,aa1,cd,P,2,PP,4,4,0,4
+Single Jig,367,B,"ab, AbAb1; ab1, AcAd.",ab,AbAb1,ab1,AcAd,P,,,2,2,4,6
+Single Jig,368,A,"ab, a1b1; ab2, cb1.",ab,a1b1,ab2,cb1,H,2,HH,3,5,0,5
+Single Jig,368,B,"aAb3, aAb4; aAb2, AcAb1.",aAb3,aAb4,aAb2,AcAb1,H,,,1,2,5,7
+Single Jig,369,A,"aa1, bc; aa1, b1d.",aa1,bc,aa1,b1d,P,2,PHH,4,4,0,4
+Single Jig,369,B,"ab, a1Ab1; ab, Ab1Ad.",ab,a1Ab1,ab,Ab1Ad,H,,,2,3,3,6
+Single Jig,369,B1,"ab, a1Ab1; a2b2, Ab1Ad.",ab,a1Ab1,a2b2,Ab1Ad,H,,,2,3,3,6
+Single Jig,370,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Single Jig,370,B,"ab, cd; ab1, eAf.",ab,cd,ab1,eAf,P,,,6,1,1,2
+Single Jig,371,A,"aa, bb1; aa, cc1.",aa,bb1,aa,cc1,P,2,PPP,3,5,0,5
+Single Jig,371,B,"aAa1, bb; aAa1, b1b1.",aAa1,bb,aAa1,b1b1,P,,,2,4,2,6
+Single Jig,371,B1,"aAa1, bb; a1c, AcAc.",aAa1,bb,a1c,AcAc,P,,,3,2,3,5
+Single Jig,372,A,"ab, cc; a1d, c1c1.",ab,cc,a1d,c1c1,P,3,PNN,3,5,0,5
+Single Jig,372,B,"ab, Ac2Ac2; cd, Ac1Ac1.",ab,Ac2Ac2,cd,Ac1Ac1,N,,,4,0,4,4
+Single Jig,372,C,"Ac3Ac4, Ac5a; Bc1Bd1, Ac1Ac1.",Ac3Ac4,Ac5a,Bc1Bd1,Ac1Ac1,N,,,0,1,7,8
+Single Jig,373,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PN,5,3,0,3
+Single Jig,373,B,"aa, Ac1Ad; AaAb, Ac1Ae.",aa,Ac1Ad,AaAb,Ac1Ae,N,,,1,1,6,7
+Single Jig,374,A,"ab, a1c; ab, dc.",ab,a1c,ab,dc,H,2,HH,4,4,0,4
+Single Jig,374,B,"aa, a1Ac; aa2, bAc.",aa,a1Ac,aa2,bAc,H,,,2,4,2,6
+Single Jig,375,A,"ab, ac; ab, cd.",ab,ac,ab,cd,H,2,HH,4,4,0,4
+Single Jig,375,B,"ab, ac; ad, Ac1Ad.",ab,ac,ad,Ac1Ad,H,,,4,2,2,4
+Single Jig,376,A,"ab, ab1; ab, a1c.",ab,ab1,ab,a1c,D,2,DH,3,5,0,5
+Single Jig,376,B,"aAb2, a1Ab3; aAb4, Aa1Ac.",aAb2,a1Ab3,aAb4,Aa1Ac,H,,,1,2,5,7
+Single Jig,377,A,"ab, ac; ab1, de.",ab,ac,ab1,de,H,2,HSS,5,3,0,3
+Single Jig,377,B,"ab, ac; db1, d1e.",ab,ac,db1,d1e,S,,,5,3,0,3
+Single Jig,377,B1,"ab, ac; d2f, AdAe.",ab,ac,d2f,AdAe,S,,,6,0,2,2
+Single Jig,378,A,"ab, ac; ab, bc.",ab,ac,ab,bc,H,2,HH,3,5,0,5
+Single Jig,378,B,"ab, ac; ab, AbAc.",ab,ac,ab,AbAc,H,,,3,3,2,5
+Single Jig,379,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HHS,5,3,0,3
+Single Jig,379,B,"ab, a1Ac; ab, cAc1.",ab,a1Ac,ab,cAc1,H,,,3,3,2,5
+Single Jig,379,B1,"ab, a1d; ee1, Aa1f.",ab,a1d,ee1,Aa1f,S,,,5,2,1,3
+Single Jig,380,A,"ab, cc; ab, c1c1.",ab,cc,ab,c1c1,P,2,PP,3,5,0,5
+Single Jig,380,B,"ab, cc; ab, Ac1Ac1.",ab,cc,ab,Ac1Ac1,P,,,3,3,2,5
+Single Jig,381,A,"ab, cd; a1b, ce.",ab,cd,a1b,ce,P,2,PP,5,3,0,3
+Single Jig,381,B,"ab, cc1; ab, c2d.",ab,cc1,ab,c2d,P,,,4,4,0,4
+Single Jig,382,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Single Jig,382,B,"aa1, ab; aa1, Ad1Ae.",aa1,ab,aa1,Ad1Ae,H,,,2,4,2,6
+Single Jig,383,A,"ab, ac; ab, cd.",ab,ac,ab,cd,H,3,HSH,4,4,0,4
+Single Jig,383,B,"ab, aAb1; cAc1, AcAd.",ab,aAb1,cAc1,AcAd,S,,,3,2,3,5
+Single Jig,383,C,"aa, a1Ab1; aa2, AcAd.",aa,a1Ab1,aa2,AcAd,H,,,1,4,3,7
+Single Jig,384,A,"ab, a1b1; ab, cd.",ab,a1b1,ab,cd,H,2,HHPP,4,4,0,4
+Single Jig,384,A1,"ab, a1b1; ab, cd1.",ab,a1b1,ab,cd1,H,,,4,4,0,4
+Single Jig,384,B,"ab, cc; ad, c1Ad1.",ab,cc,ad,c1Ad1,P,,,4,3,1,4
+Single Jig,384,B1,"ab, cc; ad, c1Ad.",ab,cc,ad,c1Ad,P,,,4,3,1,4
+Single Jig,385,A,"ab, ac; ab1, de.",ab,ac,ab1,de,H,2,HH,5,3,0,3
+Single Jig,385,B,"aa1, ab; aa1, AdAe.",aa1,ab,aa1,AdAe,H,,,2,4,2,6
+Single Jig,386,A,"ab, cd; ab, de.",ab,cd,ab,de,P,3,PSS,5,3,0,3
+Single Jig,386,B,"ab, a1b1; cd, eAe.",ab,a1b1,cd,eAe,S,,,5,2,1,3
+Single Jig,386,C,"ab, a1b1; Bc1Bd1, BeAe.",ab,a1b1,Bc1Bd1,BeAe,S,,,2,2,4,6
+Single Jig,387,A,"ab, a1c; de, fg.",ab,a1c,de,fg,S,2,SS,7,1,0,1
+Single Jig,387,B,"aa1, ab; AdAe, AfAg.",aa1,ab,AdAe,AfAg,S,,,2,2,4,6
+Single Jig,388,A,"ab, ab; ab, cd.",ab,ab,ab,cd,H,3,HHH,4,4,0,4
+Single Jig,388,B,"ab, ac; ab1, AcAe.",ab,ac,ab1,AcAe,H,,,3,3,2,5
+Single Jig,388,C,"aa1, ab; aa1, Ac1Ae.",aa1,ab,aa1,Ac1Ae,H,,,2,4,2,6
+Single Jig,389,A,"aa1, ab; aa1, ac.",aa1,ab,aa1,ac,D,3,DHH,3,5,0,5
+Single Jig,389,B,"ab, ac; a1d, ef.",ab,ac,a1d,ef,H,,,6,2,0,2
+Single Jig,389,C,"AaAa1, AaAb; AaAa1, BeAc.",AaAa1,AaAb,AaAa1,BeAc,H,,,0,0,8,8
+Single Jig,390,A,"aa1, a2b; aa1, cd.",aa1,a2b,aa1,cd,H,2,HN,4,4,0,4
+Single Jig,390,B,"ab, cAb1; de, AcAd.",ab,cAb1,de,AcAd,N,,,5,0,3,3
+Single Jig,391,A,"ab, cd; a1b1, ef.",ab,cd,a1b1,ef,P,2,PH,6,2,0,2
+Single Jig,391,B,"ab, a1c; ab, Ae1Af.",ab,a1c,ab,Ae1Af,H,,,3,3,2,5
+Single Jig,392,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Single Jig,392,B,"Ab1b, cd; Ab1b1, Ad1Ae.",Ab1b,cd,Ab1b1,Ad1Ae,H,,,4,0,4,4
+Single Jig,393,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PP,5,3,0,3
+Single Jig,393,B,"ab, cd; ab, eAe1.",ab,cd,ab,eAe1,P,,,5,3,0,3
+Single Jig,394,A,"ab, a1b1; ac, de.",ab,a1b1,ac,de,H,2,HH,5,3,0,3
+Single Jig,394,B,"Aa2Aa3, Aa2Ab; Aa2Ac, AdAe.",Aa2Aa3,Aa2Ab,Aa2Ac,AdAe,H,,,0,0,8,8
+Single Jig,395,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Single Jig,395,B,"ab, aAc1; ac, AdAe.",ab,aAc1,ac,AdAe,H,,,3,2,3,5
+Single Jig,396,A,"ab, ac; ab1, de.",ab,ac,ab1,de,H,2,HHS,5,3,0,3
+Single Jig,396,B,"aa, aAc1; a1b, cAe.",aa,aAc1,a1b,cAe,H,,,3,3,2,5
+Single Jig,396,B1,"aa, aAc1; de, AdAe.",aa,aAc1,de,AdAe,S,,,5,0,3,3
+Single Jig,397,A,"ab, a1d; ab1, ef.",ab,a1d,ab1,ef,H,2,HP,6,2,0,2
+Single Jig,397,B,"aa, bc; aa, b1Af.",aa,bc,aa,b1Af,P,,,3,4,1,5
+Single Jig,398,A,"aa, bc; de, a1f.",aa,bc,de,a1f,N,2,NHS,5,3,0,3
+Single Jig,398,B,"ab, ac; ac, Aa1Af.",ab,ac,ac,Aa1Af,H,,,3,3,2,5
+Single Jig,398,B1,"ab, ac; AdAe, Aa1Af.",ab,ac,AdAe,Aa1Af,S,,,3,1,4,5
+Single Jig,399,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HHPP,5,3,0,3
+Single Jig,399,A1,"ab, a1c; ab, de1.",ab,a1c,ab,de1,H,,,5,3,0,3
+Single Jig,399,B,"ab, cc; ab, c1Ae1.",ab,cc,ab,c1Ae1,P,,,3,4,1,5
+Single Jig,399,B1,"ab, cc; ab, c1Ae.",ab,cc,ab,c1Ae,P,,,3,4,1,5
+Single Jig,400,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NN,8,0,0,0
+Single Jig,400,B,"ab, cd; Ae1Af, AgAh.",ab,cd,Ae1Af,AgAh,N,,,4,0,4,4
+Single Jig,401,A,"ab, a1c; de, fg.",ab,a1c,de,fg,S,2,SPP,7,1,0,1
+Single Jig,401,B,"ab, cd; a1b, cd1.",ab,cd,a1b,cd1,P,,,4,4,0,4
+Single Jig,401,B1,"ab, cd; a1b, ce.",ab,cd,a1b,ce,P,,,5,3,0,3
+Single Jig,402,A,"ab, a1c; ab, cd.",ab,a1c,ab,cd,H,2,HP,4,4,0,4
+Single Jig,402,B,"ab, cd; ab, cAd1.",ab,cd,ab,cAd1,P,,,4,3,1,4
+Single Jig,403,A,"ab, b1c; ab, cd.",ab,b1c,ab,cd,P,2,PS,4,4,0,4
+Single Jig,403,B,"ab, a1Aa1; Ab1Aa2, Ab1Ac.",ab,a1Aa1,Ab1Aa2,Ab1Ac,S,,,1,2,5,7
+Single Jig,404,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Single Jig,404,B,"ab, cAd1; de, Ae1Af.",ab,cAd1,de,Ae1Af,N,,,5,0,3,3
+Single Jig,405,A,"ab, ac; ab1, de.",ab,ac,ab1,de,H,2,HP,5,3,0,3
+Single Jig,405,B,"ab, cAc; aAb1, AdAe.",ab,cAc,aAb1,AdAe,P,,,3,1,4,5
+Single Jig,406,A,"ab, cd; ee1, e2f.",ab,cd,ee1,e2f,N,2,NS,6,2,0,2
+Single Jig,406,B,"ab, a1b1; cAe3, Ae2Af1.",ab,a1b1,cAe3,Ae2Af1,S,,,3,2,3,5
+Single Jig,407,A,"ab, cc1; ab, de.",ab,cc1,ab,de,P,2,PP,5,3,0,3
+Single Jig,407,B,"ab, AcAc; ab, AdAe.",ab,AcAc,ab,AdAe,P,,,2,2,4,6
+Single Jig,408,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PPPP,6,2,0,2
+Single Jig,408,A1,"ab, cd; ab1, ef1.",ab,cd,ab1,ef1,P,,,6,2,0,2
+Single Jig,408,B,"aAb, AcAd; aAb1, AeAf.",aAb,AcAd,aAb1,AeAf,P,,,1,1,6,7
+Single Jig,408,B1,"aAb, AcAd; aAb1, AeAf1.",aAb,AcAd,aAb1,AeAf1,P,,,1,1,6,7
+Single Jig,409,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HHH,5,3,0,3
+Single Jig,409,B,"ab, a1c; ab1, Add.",ab,a1c,ab1,Add,H,,,4,3,1,4
+Single Jig,409,B1,"ab, a1c; ab1, AdAe.",ab,a1c,ab1,AdAe,H,,,3,3,2,5
+Single Jig,410,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HPP,5,3,0,3
+Single Jig,410,B,"ab, cc1; ab, AdAe.",ab,cc1,ab,AdAe,P,,,3,3,2,5
+Single Jig,410,B1,"ab, cc1; a1d, ef.",ab,cc1,a1d,ef,P,,,6,2,0,2
+Hop or Slip Jig,411,A,"ab, ab1; ab, ab1.",ab,ab1,ab,ab1,D,3,DHH,2,6,0,6
+Hop or Slip Jig,411,B,"aa1, aAb2; aa1, bAb2.",aa1,aAb2,aa1,bAb2,H,,,2,4,2,6
+Hop or Slip Jig,411,C,"aa1, aAb2; aa1, BbAb2.",aa1,aAb2,aa1,BbAb2,H,,,1,4,3,7
+Hop or Slip Jig,412,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Hop or Slip Jig,412,B,"aAc, ab; aAc, cb.",aAc,ab,aAc,cb,H,,,3,3,2,5
+Hop or Slip Jig,413,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Hop or Slip Jig,413,B,"ab, a1Ac; ab, cAc.",ab,a1Ac,ab,cAc,H,,,3,3,2,5
+Hop or Slip Jig,414,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Hop or Slip Jig,414,B,"ab, a1Ac; ab, cAc.",ab,a1Ac,ab,cAc,H,,,3,3,2,5
+Hop or Slip Jig,415,A,"aa1, ab; aa1, ab1.",aa1,ab,aa1,ab1,D,3,DPD,2,6,0,6
+Hop or Slip Jig,415,B,"aa1, bb1; aa1, cb2.",aa1,bb1,aa1,cb2,P,,,3,5,0,5
+Hop or Slip Jig,415,C,"ab, aBb3; ab, a1Bb3.",ab,aBb3,ab,a1Bb3,D,,,2,4,2,6
+Hop or Slip Jig,416,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,2,DH,2,6,0,6
+Hop or Slip Jig,416,B,"aa1, aAb; aa1, bAb.",aa1,aAb,aa1,bAb,H,,,2,4,2,6
+Hop or Slip Jig,417,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,2,DDD,2,6,0,6
+Hop or Slip Jig,417,B,"aa1, aAb; aa1, aAb.",aa1,aAb,aa1,aAb,D,,,1,5,2,7
+Hop or Slip Jig,417,C,"aa1, aAb; aa1, aAb.",aa1,aAb,aa1,aAb,D,,,1,5,2,7
+Hop or Slip Jig,418,A,"aa1, ba2; aa1, bc.",aa1,ba2,aa1,bc,P,2,PD,3,5,0,5
+Hop or Slip Jig,418,B,"ab, ac; ab, aAc1.",ab,ac,ab,aAc1,D,,,3,4,1,5
+Hop or Slip Jig,419,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,4,DDPP,2,6,0,6
+Hop or Slip Jig,419,B,"aa1, aAb1; aa1, aAb1.",aa1,aAb1,aa1,aAb1,D,,,1,5,2,7
+Hop or Slip Jig,419,C,"aa1, bc; aa1, bc.",aa1,bc,aa1,bc,P,,,3,5,0,5
+Hop or Slip Jig,419,D,"aa1, aAb1; aa1, aAb1.",aa1,aAb1,aa1,aAb1,P,,,1,5,2,7
+Hop or Slip Jig,420,A,"ab, ab1; ab, ab1.",ab,ab1,ab,ab1,D,2,DP,2,6,0,6
+Hop or Slip Jig,420,B,"aa1, a2b; aa1, cd.",aa1,a2b,aa1,cd,P,,,4,4,0,4
+Hop or Slip Jig,421,A,"ab, ab1; ab, ab1.",ab,ab1,ab,ab1,D,2,DP,2,6,0,6
+Hop or Slip Jig,421,B,"ab, cAb1; ab, dAb1.",ab,cAb1,ab,dAb1,P,,,4,2,2,4
+Hop or Slip Jig,422,A,"aa1, a2b; aa1, a2b.",aa1,a2b,aa1,a2b,P,4,PPDP,2,6,0,6
+Hop or Slip Jig,422,B,"ab, cAb1; ab, cAb1.",ab,cAb1,ab,cAb1,P,,,3,3,2,5
+Hop or Slip Jig,422,C,"aa1, aAb2; aa1, aAb2.",aa1,aAb2,aa1,aAb2,D,,,1,5,2,7
+Hop or Slip Jig,422,D,"aBb, BcAb1; aBb, BcAb1.",aBb,BcAb1,aBb,BcAb1,P,,,1,1,6,7
+Hop or Slip Jig,423,A,"ab, a1c; ab1, dc.",ab,a1c,ab1,dc,H,2,HH,4,4,0,4
+Hop or Slip Jig,423,B,"ab, a1c; ad, AdAc.",ab,a1c,ad,AdAc,H,,,4,2,2,4
+Hop or Slip Jig,424,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,2,DP,2,6,0,6
+Hop or Slip Jig,424,B,"ab, cAb1; ab, cAb1.",ab,cAb1,ab,cAb1,P,,,3,3,2,5
+Hop or Slip Jig,425,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DP,3,5,0,5
+Hop or Slip Jig,425,B,"aa1, a2b; aa1, a2b.",aa1,a2b,aa1,a2b,P,,,2,6,0,6
+Hop or Slip Jig,426,A,"ab, ab1; ab, ab1.",ab,ab1,ab,ab1,D,2,DD,2,6,0,6
+Hop or Slip Jig,426,B,"ab, aAb; ab, aAb.",ab,aAb,ab,aAb,D,,,2,4,2,6
+Hop or Slip Jig,427,A,"aa1, aa2; aa1, aa2.",aa1,aa2,aa1,aa2,D,2,DH,1,7,0,7
+Hop or Slip Jig,427,B,"aa1, aAa1; aa1, bAa1.",aa1,aAa1,aa1,bAa1,H,,,2,4,2,6
+Hop or Slip Jig,428,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Hop or Slip Jig,428,B,"aAc1, a1Ac; aAc1, bc.",aAc1,a1Ac,aAc1,bc,H,,,3,2,3,5
+Hop or Slip Jig,429,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,3,DDP,2,6,0,6
+Hop or Slip Jig,429,B,"aa1, aAb1; aa1, aAb1.",aa1,aAb1,aa1,aAb1,D,,,1,5,2,7
+Hop or Slip Jig,429,C,"aAb1, bAb2; aAb1, bAb2.",aAb1,bAb2,aAb1,bAb2,P,,,2,2,4,6
+Hop or Slip Jig,430,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,2,DD,2,6,0,6
+Hop or Slip Jig,430,B,"ab, aAb1; ab, Ab1.",ab,aAb1,ab,Ab1,D,,,2,4,2,6
+Hop or Slip Jig,431,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,2,DH,2,6,0,6
+Hop or Slip Jig,431,B,"aa1, aAb; aa1, bAb.",aa1,aAb,aa1,bAb,H,,,2,4,2,6
+Hop or Slip Jig,432,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,2,DH,2,6,0,6
+Hop or Slip Jig,432,B,"ab, ac; ab, de.",ab,ac,ab,de,H,,,5,3,0,3
+Hop or Slip Jig,433,A,"ab, ab1; ab, ab1.",ab,ab1,ab,ab1,D,2,DD,2,6,0,6
+Hop or Slip Jig,433,B,"ab, a1Ab1; ab, a1Ab1.",ab,a1Ab1,ab,a1Ab1,D,,,2,4,2,6
+Hop or Slip Jig,434,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,6,DDDDDD,2,6,0,6
+Hop or Slip Jig,434,B,"ab, aAb; ab, aAb.",ab,aAb,ab,aAb,D,,,2,4,2,6
+Hop or Slip Jig,434,C,"ab, aAb1; ab, aAb1.",ab,aAb1,ab,aAb1,D,,,2,4,2,6
+Hop or Slip Jig,434,D,"aa1, aAb1; aa1, aAb1.",aa1,aAb1,aa1,aAb1,D,,,1,5,2,7
+Hop or Slip Jig,434,E,"ab, aAb; ab, aAb.",ab,aAb,ab,aAb,D,,,2,4,2,6
+Hop or Slip Jig,434,F,"aa1, aAb; aa1, aAb.",aa1,aAb,aa1,aAb,D,,,1,5,2,7
+Hop or Slip Jig,435,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,2,DH,2,6,0,6
+Hop or Slip Jig,435,B,"aa1, ab; aa1, cAa1.",aa1,ab,aa1,cAa1,H,,,3,4,1,5
+Hop or Slip Jig,436,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,2,DD,2,6,0,6
+Hop or Slip Jig,436,B,"aAa2, aAb2; aAa2, aAb2.",aAa2,aAb2,aAa2,aAb2,D,,,1,3,4,7
+Hop or Slip Jig,437,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,2,DH,2,6,0,6
+Hop or Slip Jig,437,B,"ab, aAb; ab1, cAb.",ab,aAb,ab1,cAb,H,,,3,3,2,5
+Hop or Slip Jig,438,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,2,DH,2,6,0,6
+Hop or Slip Jig,438,B,"Aa2a, Aa2b; Aa2a, cAb.",Aa2a,Aa2b,Aa2a,cAb,H,,,3,1,4,5
+Hop or Slip Jig,439,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Hop or Slip Jig,439,B,"ab, ac; ab1, de.",ab,ac,ab1,de,H,,,5,3,0,3
+Hop or Slip Jig,440,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,6,DDPDDD,2,6,0,6
+Hop or Slip Jig,440,B,"aa1, aAb; aa1, aAb.",aa1,aAb,aa1,aAb,D,,,1,5,2,7
+Hop or Slip Jig,440,C,"ab, cAb; ab, cAb.",ab,cAb,ab,cAb,P,,,3,3,2,5
+Hop or Slip Jig,440,D,"aa1, aAb1; aa1, aAb1.",aa1,aAb1,aa1,aAb1,D,,,1,5,2,7
+Hop or Slip Jig,440,E,"aa1, aAb2; aa1, aAb2.",aa1,aAb2,aa1,aAb2,D,,,1,5,2,7
+Hop or Slip Jig,440,F,"aa1, aAb2; aa1, aAb2.",aa1,aAb2,aa1,aAb2,D,,,1,5,2,7
+Hop or Slip Jig,441,A,"ab, ab1; ab, cb1.",ab,ab1,ab,cb1,H,2,HH,3,5,0,5
+Hop or Slip Jig,441,B,"aa1, aAb1; aa1, Ac1Ab1.",aa1,aAb1,aa1,Ac1Ab1,H,,,1,4,3,7
+Hop or Slip Jig,442,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Hop or Slip Jig,442,B,"aAb, aAc; aAb, AaAc.",aAb,aAc,aAb,AaAc,H,,,1,2,5,7
+Hop or Slip Jig,443,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,2,DD,2,6,0,6
+Hop or Slip Jig,443,B,"ab, ac; ab, aAb.",ab,ac,ab,aAb,D,,,3,5,0,5
+Hop or Slip Jig,444,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,8,DDDDDDPP,2,6,0,6
+Hop or Slip Jig,444,B,"aa1, aAb; aa1, aAb.",aa1,aAb,aa1,aAb,D,,,1,5,2,7
+Hop or Slip Jig,444,C,"AaAa1, AaAb; AaA1, AaAb.",AaAa1,AaAb,AaA1,AaAb,D,,,0,0,8,8
+Hop or Slip Jig,444,D,"BaBa1, BaAb; BaBa1, BaAb.",BaBa1,BaAb,BaBa1,BaAb,D,,,0,0,8,8
+Hop or Slip Jig,444,E,"aa1, aAb; aa1, aAb.",aa1,aAb,aa1,aAb,D,,,1,5,2,7
+Hop or Slip Jig,444,F,"ab, a1Ab; ab, a1Ab.",ab,a1Ab,ab,a1Ab,D,,,2,4,2,6
+Hop or Slip Jig,444,G,"ab, Fa1c; ab, Fa1c.",ab,Fa1c,ab,Fa1c,P,,,3,3,2,5
+Hop or Slip Jig,444,H,"ab, cAb; ab, cAb.",ab,cAb,ab,cAb,P,,,3,3,2,5
+Hop or Slip Jig,445,A,"ab, cc1; ab, dAc1.",ab,cc1,ab,dAc1,P,2,PP,4,3,1,4
+Hop or Slip Jig,445,B,"ab, cAc1; ab, AdAc1.",ab,cAc1,ab,AdAc1,P,,,3,2,3,5
+Hop or Slip Jig,446,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,4,DHPH,2,6,0,6
+Hop or Slip Jig,446,B,"aa1, aAb; aa1, bAb.",aa1,aAb,aa1,bAb,H,,,2,4,2,6
+Hop or Slip Jig,446,C,"ab, cd; ab, ef.",ab,cd,ab,ef,P,,,6,2,0,2
+Hop or Slip Jig,446,D,"ab, aAb; ab, Bb1Ab.",ab,aAb,ab,Bb1Ab,H,,,2,3,3,6
+Hop or Slip Jig,447,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,2,DH,3,5,0,5
+Hop or Slip Jig,447,B,"ab, a1c; ab, dc.",ab,a1c,ab,dc,H,,,4,4,0,4
+Hop or Slip Jig,448,A,"aa1, ab; aa1, a2b.",aa1,ab,aa1,a2b,D,2,DD,2,5,1,6
+Hop or Slip Jig,448,B,"aa1, aAb; aa1, a2Ab.",aa1,aAb,aa1,a2Ab,D,,,1,5,2,7
+Hop or Slip Jig,449,A,"aa1, bc; aa1, bc1.",aa1,bc,aa1,bc1,P,2,PP,3,5,0,5
+Hop or Slip Jig,449,B,"ab, AbAc; ab, AbAc.",ab,AbAc,ab,AbAc,P,,,2,2,4,6
+Hop or Slip Jig,450,A,"ab, a1c; ab1, a1c.",ab,a1c,ab1,a1c,D,2,DH,3,5,0,5
+Hop or Slip Jig,450,B,"aAa2, a1Ac; aAa2, bAc.",aAa2,a1Ac,aAa2,bAc,H,,,3,1,4,5
+Hop or Slip Jig,451,A,"ab, ac; ab, ad.",ab,ac,ab,ad,D,2,DP,4,4,0,4
+Hop or Slip Jig,451,B,"aa1, bb1; aa1, cAd.",aa1,bb1,aa1,cAd,P,,,3,4,1,5
+Hop or Slip Jig,452,A,"aa1, ab; aa1, ac.",aa1,ab,aa1,ac,D,2,DH,3,5,0,5
+Hop or Slip Jig,452,B,"aa1, aAc1; aa1, bAc1.",aa1,aAc1,aa1,bAc1,H,,,2,4,2,6
+Hop or Slip Jig,453,A,"aa1, ab; aa1, a2c.",aa1,ab,aa1,a2c,D,3,DDD,3,5,0,5
+Hop or Slip Jig,453,B,"ab, aAc; ab, a1Ac1.",ab,aAc,ab,a1Ac1,D,,,2,4,2,6
+Hop or Slip Jig,453,C,"aa1, ab; aa1, a2c.",aa1,ab,aa1,a2c,D,,,3,5,0,5
+Hop or Slip Jig,454,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Hop or Slip Jig,454,B,"aa1, ab; aa1, cd.",aa1,ab,aa1,cd,H,,,4,4,0,4
+Hop or Slip Jig,455,A,"ab, ab1; ab, ab1.",ab,ab1,ab,ab1,D,2,DD,2,6,0,6
+Hop or Slip Jig,455,B,"ab, a1c; ab, a2c1.",ab,a1c,ab,a2c1,D,,,3,5,0,5
+Reel,456,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PH,5,3,0,3
+Reel,456,B,"aa1, ab; aa1, Ac1Ae.",aa1,ab,aa1,Ac1Ae,H,,,2,4,2,6
+Reel,457,A,"aa1, ab; aa1, cb1.",aa1,ab,aa1,cb1,H,2,HH,3,5,0,5
+Reel,457,B,"aa1, aAb1; aa1, bAb.",aa1,aAb1,aa1,bAb,H,,,2,4,2,6
+Reel,458,A,"ab, cd; a1b, ce.",ab,cd,a1b,ce,P,2,PH,5,3,0,3
+Reel,458,B,"ab, a1b1; ab, AcAe.",ab,a1b1,ab,AcAe,H,,,2,4,2,6
+Reel,459,A,"ab, a1c; ab, a1c.",ab,a1c,ab,a1c,D,2,DH,3,5,0,5
+Reel,459,B,"ab, aAc; ab, cAc.",ab,aAc,ab,cAc,H,,,3,3,2,5
+Reel,460,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Reel,460,B,"aa1, ac; a2c1, dc.",aa1,ac,a2c1,dc,H,,,4,4,0,4
+Reel,461,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PH,4,4,0,4
+Reel,461,B,"aa1, ab; aa1, cb1.",aa1,ab,aa1,cb1,H,,,3,5,0,5
+Reel,462,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PH,6,2,0,2
+Reel,462,B,"ab, ac; ad, ef.",ab,ac,ad,ef,H,,,6,2,0,2
+Reel,463,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PP,4,4,0,4
+Reel,463,B,"ab, cAd1; ab, dAd.",ab,cAd1,ab,dAd,P,,,4,2,2,4
+Reel,464,A,"ab, ab1; ab, ab1.",ab,ab1,ab,ab1,D,2,DP,2,6,0,6
+Reel,464,B,"ab, cd; ab, ed.",ab,cd,ab,ed,P,,,5,3,0,3
+Reel,465,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,2,DS,3,5,0,5
+Reel,465,B,"ab, ac; db, Ac2e.",ab,ac,db,Ac2e,S,,,5,1,2,3
+Reel,466,A,"ab, ac; ab, db1.",ab,ac,ab,db1,H,2,HS,4,4,0,4
+Reel,466,B,"ab, a1Ac1; cb, dAb1.",ab,a1Ac1,cb,dAb1,S,,,4,2,2,4
+Reel,467,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Reel,467,B,"ab, ab1; ab2, AdAe.",ab,ab1,ab2,AdAe,H,,,2,5,1,6
+Reel,468,A,"ab, a1c; ab1, dc.",ab,a1c,ab1,dc,H,2,HH,4,4,0,4
+Reel,468,B,"aAb, aAc; aAb1, AdAc.",aAb,aAc,aAb1,AdAc,H,,,1,3,4,7
+Reel,469,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,2,PH,4,4,0,4
+Reel,469,B,"ab, aAd; ab1, cAd.",ab,aAd,ab1,cAd,H,,,3,3,2,5
+Reel,470,A,"ab, ab1; ab, ab1.",ab,ab1,ab,ab1,D,2,DD,2,6,0,6
+Reel,470,B,"ab, ac; a1b1, a2b2.",ab,ac,a1b1,a2b2,D,,,3,5,0,5
+Reel,471,A,"ab, a1; ab, a1d.",ab,a1,ab,a1d,D,2,DH,4,4,0,4
+Reel,471,B,"ab, a1c; ab1, dc.",ab,a1c,ab1,dc,H,,,4,4,0,4
+Reel,472,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PH,5,3,0,3
+Reel,472,B,"ab, a1c; a2b1, dAe1.",ab,a1c,a2b1,dAe1,H,,,4,3,1,4
+Reel,473,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,2,PP,7,1,0,1
+Reel,473,B,"ab, cd; ab, dAg.",ab,cd,ab,dAg,P,,,4,3,1,4
+Reel,474,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,2,DS,3,5,0,5
+Reel,474,B,"ab, aAc1; cd, ef.",ab,aAc1,cd,ef,S,,,6,2,0,2
+Reel,475,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Reel,475,B,"ab, ac; ab, de.",ab,ac,ab,de,H,,,5,3,0,3
+Reel,476,A,"ab, ac; ab, de.",ab,ac,ab,de,H,4,HHDH,5,3,0,3
+Reel,476,B,"ab, aAc; ab1, AdAe1.",ab,aAc,ab1,AdAe1,H,,,2,3,3,6
+Reel,476,C,"aa1, aAc1; aa1, aAc1.",aa1,aAc1,aa1,aAc1,D,,,1,5,2,7
+Reel,476,D,"aa1, aa1; aa, bAe.",aa1,aa1,aa,bAe,H,,,2,5,1,6
+Reel,477,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,2,PP,4,4,0,4
+Reel,477,B,"aa1, bAd1; aa1, bAd2.",aa1,bAd1,aa1,bAd2,P,,,2,4,2,6
+Reel,478,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,2,PH,4,4,0,4
+Reel,478,B,"ab, ab1; a1c, de.",ab,ab1,a1c,de,H,,,5,3,0,3
+Reel,479,A,"ab, cb1; ab, cb2.",ab,cb1,ab,cb2,P,4,PDHD,3,5,0,5
+Reel,479,B,"ab, ac; ab, ac.",ab,ac,ab,ac,D,,,3,5,0,5
+Reel,479,C,"ab, ac; ab1, dc.",ab,ac,ab1,dc,H,,,4,4,0,4
+Reel,479,D,"Bca, Bcb; Bca, Bcb.",Bca,Bcb,Bca,Bcb,D,,,2,2,4,6
+Reel,480,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,2,DH,3,5,0,5
+Reel,480,B,"ab, ab; ab1, b2Ac.",ab,ab,ab1,b2Ac,H,,,2,5,1,6
+Reel,481,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Reel,481,B,"ab, cd; ef, AcAe.",ab,cd,ef,AcAe,N,,,6,0,2,2
+Reel,482,A,"aa1, a2b; aa1, a2b.",aa1,a2b,aa1,a2b,D,3,DPH,2,6,0,6
+Reel,482,B,"ab, cAb; ab, dAb.",ab,cAb,ab,dAb,P,,,4,3,1,4
+Reel,482,C,"aa, a1a1; ab, BdAb.",aa,a1a1,ab,BdAb,H,,,2,4,2,6
+Reel,483,A,"ab, a1c; ab, a1c.",ab,a1c,ab,a1c,D,2,DD,3,5,0,5
+Reel,483,B,"ab, ab1; ab, a1Ac1.",ab,ab1,ab,a1Ac1,D,,,2,5,1,6
+Reel,484,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,2,DH,3,5,0,5
+Reel,484,B,"aa1, aAc1; aa1, bAc.",aa1,aAc1,aa1,bAc,H,,,2,4,2,6
+Reel,485,A,"ab, ac; ab, dc1.",ab,ac,ab,dc1,H,4,HSHH,4,4,0,4
+Reel,485,B,"ab, ac; dd1, ef.",ab,ac,dd1,ef,S,,,6,2,0,2
+Reel,485,C,"ab, a1c; ab, BeBf.",ab,a1c,ab,BeBf,H,,,3,3,2,5
+Reel,485,D,"BdBd1, BdCc; BdBd1, BeBf.",BdBd1,BdCc,BdBd1,BeBf,H,,,0,0,8,8
+Reel,486,A,"aa1, bc; aa1, bc1.",aa1,bc,aa1,bc1,P,4,PDSD,3,5,0,5
+Reel,486,B,"aa1, ab; aa1, ab1.",aa1,ab,aa1,ab1,D,,,2,6,0,6
+Reel,486,C,"ab, ab1; cb, db2.",ab,ab1,cb,db2,S,,,4,4,0,4
+Reel,486,D,"ab, a1c; a1b, a1c1.",ab,a1c,a1b,a1c1,D,,,3,5,0,5
+Reel,487,A,"ab, a1c; ab, dc.",ab,a1c,ab,dc,H,2,HH,4,4,0,4
+Reel,487,B,"ab, ac; ab, dAc1.",ab,ac,ab,dAc1,H,,,4,3,1,4
+Reel,488,A,"ab, a1c; ab, dc.",ab,a1c,ab,dc,H,2,HH,4,4,0,4
+Reel,488,B,"ab, ac; ab, dAc1.",ab,ac,ab,dAc1,H,,,4,3,1,4
+Reel,489,A,"ab, ab1; ab, ab1.",ab,ab1,ab,ab1,D,2,DP,2,6,0,6
+Reel,489,B,"ab, cd; ab, eAb.",ab,cd,ab,eAb,P,,,5,2,1,3
+Reel,490,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,2,PH,7,1,0,1
+Reel,490,B,"ab, a1b; ab, AfAg.",ab,a1b,ab,AfAg,H,,,2,4,2,6
+Reel,491,A,"ab, cd; ab, ed.",ab,cd,ab,ed,P,2,PH,5,3,0,3
+Reel,491,B,"ab, ac; ad, ef.",ab,ac,ad,ef,H,,,6,2,0,2
+Reel,492,A,"ab, a1d; ab, a2d.",ab,a1d,ab,a2d,D,2,DH,4,4,0,4
+Reel,492,B,"ab, ac; ab, eAd.",ab,ac,ab,eAd,H,,,5,2,1,3
+Reel,493,A,"aa1, ab; aa1, cd.",aa1,ab,aa1,cd,H,2,HH,4,4,0,4
+Reel,493,B,"ab, ac; ab, AcAd.",ab,ac,ab,AcAd,H,,,3,3,2,5
+Reel,494,A,"ab, ab1; ab, ab1.",ab,ab1,ab,ab1,D,2,DH,2,6,0,6
+Reel,494,B,"aAb, aAb1; aAb, cAb1.",aAb,aAb1,aAb,cAb1,H,,,3,1,4,5
+Reel,495,A,"ab, cd; a1b, ce.",ab,cd,a1b,ce,P,2,PP,5,3,0,3
+Reel,495,B,"ab, cd; ab, ef.",ab,cd,ab,ef,P,,,6,2,0,2
+Reel,496,A,"ab, ab1; ab, ab1.",ab,ab1,ab,ab1,D,2,DS,2,6,0,6
+Reel,496,B,"ab, a1c; db, Aa1Ab1.",ab,a1c,db,Aa1Ab1,S,,,4,2,2,4
+Reel,497,A,"ab, a1c; ab, a1d.",ab,a1c,ab,a1d,D,2,DH,4,4,0,4
+Reel,497,B,"ab, ac; a1d, ec1.",ab,ac,a1d,ec1,H,,,5,3,0,3
+Reel,498,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,2,PP,4,4,0,4
+Reel,498,B,"ab, cAd; ab, dAd.",ab,cAd,ab,dAd,P,,,4,2,2,4
+Reel,499,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Reel,499,B,"aa1, a2b; aa1, cb.",aa1,a2b,aa1,cb,H,,,3,5,0,5
+Reel,500,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,4,DHDP,2,6,0,6
+Reel,500,B,"aa1, aAb; aa1, bAb.",aa1,aAb,aa1,bAb,H,,,2,4,2,6
+Reel,500,C,"aa1, ab; aa1, ab1.",aa1,ab,aa1,ab1,D,,,2,6,0,6
+Reel,500,D,"ab, BbAb; ab, BbAb.",ab,BbAb,ab,BbAb,P,,,2,2,4,6
+Reel,501,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Reel,501,B,"ab, a1c; ab, dAc1.",ab,a1c,ab,dAc1,H,,,4,3,1,4
+Reel,502,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Reel,502,B,"ab, cb; c1d, AcAd.",ab,cb,c1d,AcAd,N,,,4,2,2,4
+Reel,503,A,"aa, a1a1; aa, bc.",aa,a1a1,aa,bc,H,2,HH,3,5,0,5
+Reel,503,B,"aa, a1a1; aa, bc.",aa,a1a1,aa,bc,H,,,3,5,0,5
+Reel,504,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,H,2,HS,3,5,0,5
+Reel,504,B,"aa1, ab; cd, eAc.",aa1,ab,cd,eAc,S,,,5,2,1,3
+Reel,505,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,2,PH,4,4,0,4
+Reel,505,B,"ab, a1c; a1b, dAd.",ab,a1c,a1b,dAd,H,,,4,3,1,4
+Reel,506,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PH,4,4,0,4
+Reel,506,B,"ab, a1c; ab1, de.",ab,a1c,ab1,de,H,,,5,3,0,3
+Reel,507,A,"aa1, ab; aa1, ab1.",aa1,ab,aa1,ab1,D,2,DH,2,6,0,6
+Reel,507,B,"ab, ac; ab1, cd.",ab,ac,ab1,cd,H,,,4,4,0,4
+Reel,508,A,"aa1, a2b; aa1, cd.",aa1,a2b,aa1,cd,H,2,HH,4,4,0,4
+Reel,508,B,"ab, ac; a1d, ef.",ab,ac,a1d,ef,H,,,6,2,0,2
+Reel,509,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,2,DH,3,5,0,5
+Reel,509,B,"ab, a1c; ab, dAc1.",ab,a1c,ab,dAc1,H,,,4,3,1,4
+Reel,510,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PH,6,2,0,2
+Reel,510,B,"ab, a1c; a1b, Ae1Bf.",ab,a1c,a1b,Ae1Bf,H,,,3,3,2,5
+Reel,511,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,2,PP,4,4,0,4
+Reel,511,B,"ab, cd; a1b, c1e.",ab,cd,a1b,c1e,P,,,5,3,0,3
+Reel,512,A,"ab, a1c; ab, a1c.",ab,a1c,ab,a1c,D,2,DH,3,5,0,5
+Reel,512,B,"ab, a1c; a2Ab, Aa1Ac.",ab,a1c,a2Ab,Aa1Ac,H,,,3,2,3,5
+Reel,513,A,"ab, cb1; ab, c1d.",ab,cb1,ab,c1d,P,2,PN,4,4,0,4
+Reel,513,B,"ab, AaAb; cAb, Ac1Ad.",ab,AaAb,cAb,Ac1Ad,N,,,3,0,5,5
+Reel,514,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DHH,3,5,0,5
+Reel,514,B,"ab, aAc; ab, dAc.",ab,aAc,ab,dAc,H,,,4,2,2,4
+Reel,514,B1,"ab, ac; ab, BdAc.",ab,ac,ab,BdAc,H,,,3,3,2,5
+Reel,515,A,"ab, a1c; ab, ad.",ab,a1c,ab,ad,D,2,DS,4,4,0,4
+Reel,515,B,"ab, ac; bd, ef.",ab,ac,bd,ef,S,,,6,2,0,2
+Reel,516,A,"ab, ac; ab, ad.",ab,ac,ab,ad,D,2,DH,4,4,0,4
+Reel,516,B,"ab, ab; ab, cAc.",ab,ab,ab,cAc,H,,,3,4,1,5
+Reel,517,A,"aa1, bc; aa1, bc.",aa1,bc,aa1,bc,P,2,PH,3,5,0,5
+Reel,517,B,"ab, ac; ab, dc.",ab,ac,ab,dc,H,,,4,4,0,4
+Reel,518,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DD,3,5,0,5
+Reel,518,B,"aa1, a2b; aa1, a2b.",aa1,a2b,aa1,a2b,D,,,2,6,0,6
+Reel,519,A,"ab, cd; ab1, cd.",ab,cd,ab1,cd,P,2,PP,4,4,0,4
+Reel,519,B,"ab, cd; ab, ef.",ab,cd,ab,ef,P,,,6,2,0,2
+Reel,520,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,4,DSHH,3,5,0,5
+Reel,520,B,"ab, a1b; cd, eAc.",ab,a1b,cd,eAc,S,,,5,3,0,3
+Reel,520,C,"ab, ac; ab, Be1Ac1.",ab,ac,ab,Be1Ac1,H,,,3,3,2,5
+Reel,520,D,"ab, ac; a1b, Be2Ac1.",ab,ac,a1b,Be2Ac1,H,,,3,3,2,5
+Reel,521,A,"aa1, a2b; aa1, a2c.",aa1,a2b,aa1,a2c,D,2,DD,3,5,0,5
+Reel,521,B,"aa1, a2b; aa1, a2b1.",aa1,a2b,aa1,a2b1,D,,,2,6,0,6
+Reel,522,A,"ab, ab1; ab, cd.",ab,ab1,ab,cd,H,2,HH,4,4,0,4
+Reel,522,B,"ab, a1c; ab, AcAd.",ab,a1c,ab,AcAd,H,,,3,3,2,5
+Reel,523,A,"ab, ac; ab1, ac1.",ab,ac,ab1,ac1,D,3,DNH,3,5,0,5
+Reel,523,B,"ab, a1c; dd1, a1c1.",ab,a1c,dd1,a1c1,N,,,4,4,0,4
+Reel,523,C,"ab, a1c; a2b1, dAc1.",ab,a1c,a2b1,dAc1,H,,,4,3,1,4
+Reel,524,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HS,5,3,0,3
+Reel,524,B,"ab, ac; de, AdAe.",ab,ac,de,AdAe,S,,,5,1,2,3
+Reel,525,A,"ab, ac; ab1, de.",ab,ac,ab1,de,H,3,HDH,5,3,0,3
+Reel,525,B,"aAb1, aAc; aAb2, ab.",aAb1,aAc,aAb2,ab,D,,,2,3,3,6
+Reel,525,C,"aAb, aAc; aAb, AdCe.",aAb,aAc,aAb,AdCe,H,,,1,2,5,7
+Reel,526,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HD,5,3,0,3
+Reel,526,B,"aAa1, a1Ae; aAa1, a1b.",aAa1,a1Ae,aAa1,a1b,D,,,1,4,3,7
+Reel,527,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Reel,527,B,"ab, aAa1; ab, cAa2.",ab,aAa1,ab,cAa2,H,,,3,3,2,5
+Reel,528,A,"aa1, a2b; aa1, a2b.",aa1,a2b,aa1,a2b,D,2,DH,2,6,0,6
+Reel,528,B,"ab, a1Ab; ab, cd.",ab,a1Ab,ab,cd,H,,,4,3,1,4
+Reel,529,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,2,DH,3,5,0,5
+Reel,529,B,"ab, ac; ab1, de.",ab,ac,ab1,de,H,,,5,3,0,3
+Reel,530,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HN,5,3,0,3
+Reel,530,B,"ab, cAc; AaAb, AdAe.",ab,cAc,AaAb,AdAe,N,,,3,0,5,5
+Reel,531,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HS,5,3,0,3
+Reel,531,B,"ab, a1b1; cAb, AdAe.",ab,a1b1,cAb,AdAe,S,,,3,2,3,5
+Reel,532,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PH,4,4,0,4
+Reel,532,B,"ab, ac; ab, de.",ab,ac,ab,de,H,,,5,3,0,3
+Reel,533,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DP,3,5,0,5
+Reel,533,B,"ab, cAc; ab, de.",ab,cAc,ab,de,P,,,5,2,1,3
+Reel,534,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PH,4,4,0,4
+Reel,534,B,"ab, ac; a1b, de.",ab,ac,a1b,de,H,,,5,3,0,3
+Reel,535,A,"aa1, ab; aa1, ac.",aa1,ab,aa1,ac,D,3,DHH,3,5,0,5
+Reel,535,B,"aa1, ab; aa2, cAc1.",aa1,ab,aa2,cAc1,H,,,3,4,1,5
+Reel,535,C,"ab, aAb; ab, cAc2.",ab,aAb,ab,cAc2,H,,,3,3,2,5
+Reel,536,A,"ab, a1b1; ab, cd.",ab,a1b1,ab,cd,H,2,HP,4,4,0,4
+Reel,536,B,"ab, Aa1Ab1; aAb1, AcAd.",ab,Aa1Ab1,aAb1,AcAd,P,,,2,1,5,6
+Reel,537,A,"aa1, ab; aa1, cb.",aa1,ab,aa1,cb,H,3,HHH,3,5,0,5
+Reel,537,B,"aa1, aAb1; aa1, AcAb.",aa1,aAb1,aa1,AcAb,H,,,1,4,3,7
+Reel,537,C,"ab, aAb1; ab, AcAb.",ab,aAb1,ab,AcAb,H,,,2,3,3,6
+Reel,538,A,"ab, ac; ab1, ac1.",ab,ac,ab1,ac1,D,2,DH,3,5,0,5
+Reel,538,B,"ab, a1c; a1b, dAc.",ab,a1c,a1b,dAc,H,,,4,4,0,4
+Reel,539,A,"ab, a1c; ab1, dc.",ab,a1c,ab1,dc,H,2,HH,4,4,0,4
+Reel,539,B,"ab, aAc; ab, Ad1Ac.",ab,aAc,ab,Ad1Ac,H,,,2,3,3,6
+Reel,540,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Reel,540,B,"ab, cd; ab, Ae1Af1.",ab,cd,ab,Ae1Af1,P,,,4,2,2,4
+Reel,541,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HP,5,3,0,3
+Reel,541,B,"aa1, bc; aa1, de.",aa1,bc,aa1,de,P,,,5,3,0,3
+Reel,542,A,"ab, ab1; ab, cd.",ab,ab1,ab,cd,H,2,HP,4,4,0,4
+Reel,542,B,"aa1, bAd1; aa1, cAd1.",aa1,bAd1,aa1,cAd1,P,,,3,3,2,5
+Reel,543,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,2,PH,4,4,0,4
+Reel,543,B,"ab, a1Ad1; ab, cAd.",ab,a1Ad1,ab,cAd,H,,,3,3,2,5
+Reel,544,A,"ab, a1c; a2b, dc.",ab,a1c,a2b,dc,H,2,HH,4,4,0,4
+Reel,544,B,"ab, aAc; ab, AdAc.",ab,aAc,ab,AdAc,H,,,2,3,3,6
+Reel,545,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,2,DP,3,5,0,5
+Reel,545,B,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,,,4,4,0,4
+Reel,546,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HP,5,3,0,3
+Reel,546,B,"ab, cAc; ad, AdAe.",ab,cAc,ad,AdAe,P,,,4,1,3,4
+Reel,547,A,"ab, ad; ab, cd1.",ab,ad,ab,cd1,H,2,HS,4,4,0,4
+Reel,547,B,"ab, a1Ad1; cAc1, Ab1Ad1.",ab,a1Ad1,cAc1,Ab1Ad1,S,,,3,1,4,5
+Reel,548,A,"aa1, ab; aa1, ab1.",aa1,ab,aa1,ab1,D,2,DH,2,6,0,6
+Reel,548,B,"ab, aAb1; ab1, cAb.",ab,aAb1,ab1,cAb,H,,,3,3,2,5
+Reel,549,A,"ab, a1c; ab, a1c.",ab,a1c,ab,a1c,D,3,DHS,3,5,0,5
+Reel,549,B,"ab, a1c; a2b, dc.",ab,a1c,a2b,dc,H,,,4,4,0,4
+Reel,549,C,"aBc1, aBc2; bBc1, BdBc3.",aBc1,aBc2,bBc1,BdBc3,S,,,2,1,5,6
+Reel,550,A,"ab, a1c; ab, a1d.",ab,a1c,ab,a1d,D,2,DH,4,4,0,4
+Reel,550,B,"aa1, aAd; aa1, Aa1Ac.",aa1,aAd,aa1,Aa1Ac,H,,,1,4,3,7
+Reel,551,A,"ab, cd; a1b, cd1.",ab,cd,a1b,cd1,P,2,PH,4,4,0,4
+Reel,551,B,"ab, ac; ab1, de.",ab,ac,ab1,de,H,,,5,3,0,3
+Reel,552,A,"ab, a1b1; ab, cd.",ab,a1b1,ab,cd,H,2,HP,4,4,0,4
+Reel,552,B,"ab, cd; ab1, Ac1Ad.",ab,cd,ab1,Ac1Ad,P,,,4,2,2,4
+Reel,553,A,"ab, a1c; a2b1, de.",ab,a1c,a2b1,de,H,2,HS,5,3,0,3
+Reel,553,B,"ab, a1c; de, fAe.",ab,a1c,de,fAe,S,,,6,1,1,2
+Reel,554,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,3,PHH,4,4,0,4
+Reel,554,B,"ab, ac; a1d, ef.",ab,ac,a1d,ef,H,,,6,2,0,2
+Reel,554,C,"ab, ac; ab, de.",ab,ac,ab,de,H,,,5,3,0,3
+Reel,555,A,"ab, ab1; ab, ab1.",ab,ab1,ab,ab1,D,2,DHS,2,6,0,6
+Reel,555,B,"aAb, a1c; aAb, AaAb.",aAb,a1c,aAb,AaAb,H,,,3,1,4,5
+Reel,555,B1,"aAb, a1c1; dAb, AaAb1.",aAb,a1c1,dAb,AaAb1,S,,,4,0,4,4
+Reel,556,A,"ab, cd; a1b, cd.",ab,cd,a1b,cd,P,2,PH,4,4,0,4
+Reel,556,B,"aa1, a2Aa1; ab, cd.",aa1,a2Aa1,ab,cd,H,,,4,3,1,4
+Reel,557,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Reel,557,B,"ab, aAc; ab, cd.",ab,aAc,ab,cd,H,,,4,3,1,4
+Reel,558,A,"ab, cd; ab1, c1d.",ab,cd,ab1,c1d,P,2,PH,4,4,0,4
+Reel,558,B,"ab, ac; a1d, ef.",ab,ac,a1d,ef,H,,,6,2,0,2
+Reel,559,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PD,4,4,0,4
+Reel,559,B,"ab, a1c; ab, a1Ad.",ab,a1c,ab,a1Ad,D,,,3,4,1,5
+Reel,560,A,"ab, a1c; ab, a1c.",ab,a1c,ab,a1c,D,2,DP,3,5,0,5
+Reel,560,B,"ab, b1c; ab, dAc1.",ab,b1c,ab,dAc1,P,,,4,3,1,4
+Reel,561,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PH,4,4,0,4
+Reel,561,B,"ab, a1Ad1; ab, cAd1.",ab,a1Ad1,ab,cAd1,H,,,3,3,2,5
+Reel,562,A,"ab, a1c; ab, a1c.",ab,a1c,ab,a1c,D,2,DH,3,5,0,5
+Reel,562,B,"ab, ac; ab, dAc.",ab,ac,ab,dAc,H,,,4,3,1,4
+Reel,563,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,2,DH,3,5,0,5
+Reel,563,B,"ab, a1Aa1; ab1, cAa1.",ab,a1Aa1,ab1,cAa1,H,,,3,3,2,5
+Reel,564,A,"ab, cd; a1b, ef.",ab,cd,a1b,ef,P,2,PP,6,2,0,2
+Reel,564,B,"ab, cAd1; ab1, AeAf.",ab,cAd1,ab1,AeAf,P,,,3,2,3,5
+Reel,565,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HHS,5,3,0,3
+Reel,565,B,"ab, aAc1; ab, AdAe.",ab,aAc1,ab,AdAe,H,,,2,3,3,6
+Reel,565,B1,"ab, aAc1; cb1, AdAe.",ab,aAc1,cb1,AdAe,S,,,3,2,3,5
+Reel,566,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Reel,566,B,"ab, aAc; ac, dAc.",ab,aAc,ac,dAc,H,,,3,4,1,5
+Reel,567,A,"aa1, a2b; aa1, a2b1.",aa1,a2b,aa1,a2b1,D,2,DH,2,6,0,6
+Reel,567,B,"ab, aAb1; ab, cAb.",ab,aAb1,ab,cAb,H,,,3,3,2,5
+Reel,568,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Reel,568,B,"ab, aAc; ab, cb1.",ab,aAc,ab,cb1,H,,,3,4,1,5
+Reel,569,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HH,5,3,0,3
+Reel,569,B,"ab, aAc1; ab1, cd.",ab,aAc1,ab1,cd,H,,,4,3,1,4
+Reel,570,A,"ab, cd; ab, c1d1.",ab,cd,ab,c1d1,P,2,PH,4,4,0,4
+Reel,570,B,"ab, ac; ab, de.",ab,ac,ab,de,H,,,5,3,0,3
+Reel,571,A,"ab, a1c; ab, a1c.",ab,a1c,ab,a1c,D,4,DPDD,3,5,0,5
+Reel,571,B,"a1, bAc; aa1, cd.",a1,bAc,aa1,cd,P,,,4,3,1,4
+Reel,571,C,"aa1, a2Ac; aa1, a2Ac.",aa1,a2Ac,aa1,a2Ac,D,,,1,5,2,7
+Reel,571,D,"ab, aAc; ab, aAc.",ab,aAc,ab,aAc,D,,,2,4,2,6
+Reel,572,A,"ab, a1c; ab, a2d.",ab,a1c,ab,a2d,D,2,DH,4,4,0,4
+Reel,572,B,"ab, a1c; aAc, dc1.",ab,a1c,aAc,dc1,H,,,4,3,1,4
+Reel,573,A,"aa1, ab; aa1, cb1.",aa1,ab,aa1,cb1,H,2,HH,3,5,0,5
+Reel,573,B,"aa1, ab; aa1, cAb.",aa1,ab,aa1,cAb,H,,,3,4,1,5
+Reel,574,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Reel,574,B,"ab, ac; ab, de.",ab,ac,ab,de,H,,,5,3,0,3
+Reel,575,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,3,PPP,5,3,0,3
+Reel,575,B,"ab, AcAd; ab, Ac1Ae.",ab,AcAd,ab,Ac1Ae,P,,,2,2,4,6
+Reel,575,C,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,,,6,2,0,2
+Reel,576,A,"ab, a1c; ab, a2c1.",ab,a1c,ab,a2c1,D,2,DH,3,5,0,5
+Reel,576,B,"aa1, aAc1; aa1, bc.",aa1,aAc1,aa1,bc,H,,,3,5,0,5
+Reel,577,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,2,DH,3,5,0,5
+Reel,577,B,"ab, ac; ab, b1c.",ab,ac,ab,b1c,H,,,3,5,0,5
+Reel,578,A,"ab, b1c; ab, b1d.",ab,b1c,ab,b1d,P,2,PH,4,4,0,4
+Reel,578,B,"ab, ac; ab, b1c1.",ab,ac,ab,b1c1,H,,,3,5,0,5
+Reel,579,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,2,DH,3,5,0,5
+Reel,579,B,"ab, ab1; ac, de.",ab,ab1,ac,de,H,,,5,3,0,3
+Reel,580,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,2,DD,3,5,0,5
+Reel,580,B,"aAc, a1b; a1Ac, ad.",aAc,a1b,a1Ac,ad,D,,,4,2,2,4
+Reel,581,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,4,DHPH,3,5,0,5
+Reel,581,B,"aAc1, aAc1; aAc1, bAc2.",aAc1,aAc1,aAc1,bAc2,H,,,2,2,4,6
+Reel,581,C,"ab, cAc; ab, cAc.",ab,cAc,ab,cAc,P,,,3,3,2,5
+Reel,581,D,"aa1, aAc; aa1, bAc.",aa1,aAc,aa1,bAc,H,,,2,4,2,6
+Reel,582,A,"aa1, ab; aa1, cd.",aa1,ab,aa1,cd,H,2,HP,4,4,0,4
+Reel,582,B,"ab, cd; ab, cd.",ab,cd,ab,cd,P,,,4,4,0,4
+Reel,583,A,"aa1, ab; aa1, ab1.",aa1,ab,aa1,ab1,D,2,DH,2,6,0,6
+Reel,583,B,"aa1, ab; ac, dAb1.",aa1,ab,ac,dAb1,H,,,4,3,1,4
+Reel,584,A,"ab, cd; ef, cd1.",ab,cd,ef,cd1,N,2,NH,6,2,0,2
+Reel,584,B,"ab, a1c; ab, c1Ad2.",ab,a1c,ab,c1Ad2,H,,,3,4,1,5
+Reel,585,A,"ab, a1c; a1b, ac1.",ab,a1c,a1b,ac1,D,2,DH,3,5,0,5
+Reel,585,B,"ab, a1c; a1b1, dAc1.",ab,a1c,a1b1,dAc1,H,,,4,3,1,4
+Reel,586,A,"ab, a1c; ab1, de.",ab,a1c,ab1,de,H,2,HH,5,3,0,3
+Reel,586,B,"aAb, aAc; aAb1, AdAe.",aAb,aAc,aAb1,AdAe,H,,,1,2,5,7
+Reel,587,A,"ab, ac; ab, dc.",ab,ac,ab,dc,H,2,HH,4,4,0,4
+Reel,587,B,"aa1, ab; aa1, cd.",aa1,ab,aa1,cd,H,,,4,4,0,4
+Reel,588,A,"ab, ac; db, d1e.",ab,ac,db,d1e,S,2,SH,5,3,0,3
+Reel,588,B,"ab, ac; ab, ef.",ab,ac,ab,ef,H,,,6,2,0,2
+Reel,589,A,"ab, ac; ab1, b2c1.",ab,ac,ab1,b2c1,H,2,HH,3,5,0,5
+Reel,589,B,"ab, aAc2; ac, de.",ab,aAc2,ac,de,H,,,5,2,1,3
+Reel,590,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DN,3,5,0,5
+Reel,590,B,"ab, cd; cb1, d1e.",ab,cd,cb1,d1e,N,,,5,3,0,3
+Reel,591,A,"ab, ac; ad, a1c1.",ab,ac,ad,a1c1,D,2,DH,4,4,0,4
+Reel,591,B,"ab, ab1; ab, cAc1.",ab,ab1,ab,cAc1,H,,,3,4,1,5
+Reel,592,A,"ab, ac; ad, ef.",ab,ac,ad,ef,H,2,HN,6,2,0,2
+Reel,592,B,"ab, cd; cd, AaAd1.",ab,cd,cd,AaAd1,N,,,4,2,2,4
+Reel,593,A,"ab, cb1; ab, cb2.",ab,cb1,ab,cb2,P,2,PH,3,5,0,5
+Reel,593,B,"ab, ac; ab, dAb2.",ab,ac,ab,dAb2,H,,,4,3,1,4
+Reel,594,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,2,DD,3,5,0,5
+Reel,594,B,"aa1, aAc1; aa1, aAc.",aa1,aAc1,aa1,aAc,D,,,1,5,2,7
+Reel,595,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,2,DH,3,5,0,5
+Reel,595,B,"ab, ac; ab1, de.",ab,ac,ab1,de,H,,,5,3,0,3
+Reel,596,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Reel,596,B,"ab, ac; ab, Ad1d.",ab,ac,ab,Ad1d,H,,,4,2,2,4
+Reel,597,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,2,PH,4,4,0,4
+Reel,597,B,"ab, ac; ab1, Ac1Ad1.",ab,ac,ab1,Ac1Ad1,H,,,3,3,2,5
+Reel,598,A,"ab, a1c; a2b, cd.",ab,a1c,a2b,cd,H,2,HP,4,4,0,4
+Reel,598,B,"ab, cd; aAb, AcAd.",ab,cd,aAb,AcAd,P,,,4,1,3,4
+Reel,599,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,2,PH,4,4,0,4
+Reel,599,B,"ab, ac; ab, dAd.",ab,ac,ab,dAd,H,,,4,3,1,4
+Reel,600,A,"ab, cd; ab, cAd1.",ab,cd,ab,cAd1,P,2,PH,4,3,1,4
+Reel,600,B,"ab, a1Ad1; ab, Ac1Ad1.",ab,a1Ad1,ab,Ac1Ad1,H,,,2,3,3,6
+Reel,601,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NN,8,0,0,0
+Reel,601,B,"ab, cd; AeAf, AgAh.",ab,cd,AeAf,AgAh,N,,,4,0,4,4
+Reel,602,A,"ab, ab1; ac, db2.",ab,ab1,ac,db2,H,2,HH,4,4,0,4
+Reel,602,B,"ab, ac; ab1, AdAb2.",ab,ac,ab1,AdAb2,H,,,3,3,2,5
+Reel,603,A,"ab, a1c; de, fg.",ab,a1c,de,fg,S,2,SN,7,1,0,1
+Reel,603,B,"aAf1, Ae1b; cAf2, AfAg.",aAf1,Ae1b,cAf2,AfAg,N,,,3,1,4,5
+Reel,604,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,2,DD,3,5,0,5
+Reel,604,B,"aAc, a1Ac; aAc, a1Ac.",aAc,a1Ac,aAc,a1Ac,D,,,1,3,4,7
+Reel,605,A,"ab, cd; ab, c1d1.",ab,cd,ab,c1d1,P,2,PD,4,4,0,4
+Reel,605,B,"ab, aAd1; ab, a1Ad1.",ab,aAd1,ab,a1Ad1,D,,,2,4,2,6
+Reel,606,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Reel,606,B,"ab, aAc; ab, cAc.",ab,aAc,ab,cAc,H,,,3,4,1,5
+Reel,607,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,2,DH,3,5,0,5
+Reel,607,B,"ab, aAc1; ab, cAc.",ab,aAc1,ab,cAc,H,,,3,4,1,5
+Reel,608,A,"ab, a1c; ab, dc1.",ab,a1c,ab,dc1,H,3,HPH,4,4,0,4
+Reel,608,B,"ab, cd; ab, ef.",ab,cd,ab,ef,P,,,6,2,0,2
+Reel,608,C,"ab, ac; ab1, de.",ab,ac,ab1,de,H,,,6,2,0,2
+Reel,609,A,"ab, a1c; ab1, ac.",ab,a1c,ab1,ac,D,2,DP,3,5,0,5
+Reel,609,B,"ab, cAc1; ab, de.",ab,cAc1,ab,de,P,,,5,2,1,3
+Reel,610,A,"ab, ac; a1b, a2d.",ab,ac,a1b,a2d,D,2,DH,4,4,0,4
+Reel,610,B,"ab, a1c; ab, de.",ab,a1c,ab,de,H,,,5,3,0,3
+Reel,611,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,2,DH,3,5,0,5
+Reel,611,B,"ab, ac; ab, de.",ab,ac,ab,de,H,,,5,3,0,3
+Reel,612,A,"ab, a1c; ab, a1c.",ab,a1c,ab,a1c,D,2,DH,3,5,0,5
+Reel,612,B,"ab, ac; a1d, ef.",ab,ac,a1d,ef,H,,,6,2,0,2
+Reel,613,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HH,5,3,0,3
+Reel,613,B,"ab, a1c; a2d, Ad1e.",ab,a1c,a2d,Ad1e,H,,,4,2,2,4
+Reel,614,A,"ab, cd; a1b, ce.",ab,cd,a1b,ce,P,2,PS,5,3,0,3
+Reel,614,B,"ab, a1c; de, fg.",ab,a1c,de,fg,S,,,7,1,0,1
+Reel,615,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,2,DH,3,5,0,5
+Reel,615,B,"ab, ab1; ab, cAc1.",ab,ab1,ab,cAc1,H,,,3,4,1,5
+Reel,616,A,"ab, cd; ab, ed.",ab,cd,ab,ed,P,2,PH,4,4,0,4
+Reel,616,B,"ab, ac; ab, Aa1Ad.",ab,ac,ab,Aa1Ad,H,,,3,3,2,5
+Reel,617,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DP,3,5,0,5
+Reel,617,B,"ab, cd; ab1, cd.",ab,cd,ab1,cd,P,,,4,4,0,4
+Reel,618,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PP,4,4,0,4
+Reel,618,B,"ab, cAd; a1b1, dAd.",ab,cAd,a1b1,dAd,P,,,4,2,2,4
+Reel,619,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Reel,619,B,"ab, ac; aAb1, AdAe.",ab,ac,aAb1,AdAe,H,,,3,2,3,5
+Reel,620,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,2,DH,3,5,0,5
+Reel,620,B,"aa1, ab; aa1, cd.",aa1,ab,aa1,cd,H,,,4,4,0,4
+Reel,621,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DS,3,5,0,5
+Reel,621,B,"aa1, ab; cAb1, db.",aa1,ab,cAb1,db,S,,,4,3,1,4
+Reel,622,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,2,DH,2,6,0,6
+Reel,622,B,"ab, a1Ab1; ab, cd.",ab,a1Ab1,ab,cd,H,,,4,3,1,4
+Reel,623,A,"ab, ac; ab1, de.",ab,ac,ab1,de,H,2,HH,5,3,0,3
+Reel,623,B,"ab, a1c; a1d, eAe1.",ab,a1c,a1d,eAe1,H,,,5,2,1,3
+Reel,624,A,"aa1, ab; aa1, ab1.",aa1,ab,aa1,ab1,D,3,DHH,2,6,0,6
+Reel,624,B,"ab, a1b1; a2b2, cd.",ab,a1b1,a2b2,cd,H,,,4,4,0,4
+Reel,624,C,"Bc1a, Bca1; Bc1a, bc.",Bc1a,Bca1,Bc1a,bc,H,,,3,2,3,5
+Reel,625,A,"ab, a1c; de, fg.",ab,a1c,de,fg,S,2,SS,7,1,0,1
+Reel,625,B,"aa1, a2Ad1; AdAe, AfAg.",aa1,a2Ad1,AdAe,AfAg,S,,,1,2,5,7
+Reel,626,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Reel,626,B,"ab, ac; ab1, de.",ab,ac,ab1,de,H,,,5,3,0,3
+Reel,627,A,"ab, a1b1; ab, cd.",ab,a1b1,ab,cd,H,2,HH,4,4,0,4
+Reel,627,B,"aAc, a1Ab2; aAc1, AcAd.",aAc,a1Ab2,aAc1,AcAd,H,,,1,2,5,7
+Reel,628,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DD,3,5,0,5
+Reel,628,B,"aa1, ab; aa2, aAc.",aa1,ab,aa2,aAc,D,,,2,6,0,6
+Reel,629,A,"ab, ac; ab, ad.",ab,ac,ab,ad,D,2,DD,4,4,0,4
+Reel,629,B,"aAb1, aAc1; aAb, a1Ad.",aAb1,aAc1,aAb,a1Ad,D,,,1,3,4,7
+Reel,630,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PN,4,4,0,4
+Reel,630,B,"ab, b1c; de, fAd.",ab,b1c,de,fAd,N,,,6,1,1,2
+Reel,631,A,"ab, ac; ab, a1d.",ab,ac,ab,a1d,D,2,DH,4,4,0,4
+Reel,631,B,"ab, ac; ab, Aa1Ad.",ab,ac,ab,Aa1Ad,H,,,3,3,2,5
+Reel,632,A,"ab, a1c; ab, a1c.",ab,a1c,ab,a1c,D,2,DH,3,5,0,5
+Reel,632,B,"ab, a1c; ab1, Aa1Ac.",ab,a1c,ab1,Aa1Ac,H,,,3,3,2,5
+Reel,633,A,"ab, cd; ab, de.",ab,cd,ab,de,P,2,PP,5,3,0,3
+Reel,633,B,"ab, cAb; ab, dAe1.",ab,cAb,ab,dAe1,P,,,4,2,2,4
+Reel,634,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Reel,634,B,"ab, ac; ab, de.",ab,ac,ab,de,H,,,5,3,0,3
+Reel,635,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,2,DH,3,5,0,5
+Reel,635,B,"aa1, ac; aa1, dAc2.",aa1,ac,aa1,dAc2,H,,,4,3,1,4
+Reel,636,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,2,DH,3,5,0,5
+Reel,636,B,"ab, ac; a1b, de.",ab,ac,a1b,de,H,,,5,3,0,3
+Reel,637,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Reel,637,B,"ab, a1c; a2b1, Ad1Ae1.",ab,a1c,a2b1,Ad1Ae1,H,,,2,4,2,6
+Reel,638,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Reel,638,B,"ab, ab1; ab, cd.",ab,ab1,ab,cd,H,,,4,4,0,4
+Reel,639,A,"ab, ac; ab1, de.",ab,ac,ab1,de,H,2,HP,5,3,0,3
+Reel,639,B,"ab, cb; ab1, AdAe.",ab,cb,ab1,AdAe,P,,,3,3,2,5
+Reel,640,A,"aa1, ab; aa1, cd.",aa1,ab,aa1,cd,H,3,HHH,4,4,0,4
+Reel,640,B,"aa1, ab; aa1, cAd.",aa1,ab,aa1,cAd,H,,,3,4,1,5
+Reel,640,C,"ab, aAb; a1b1, BcAd.",ab,aAb,a1b1,BcAd,H,,,2,3,3,6
+Reel,641,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,4,DDSD,2,6,0,6
+Reel,641,B,"ab, a1Ab; ab, a1Ab.",ab,a1Ab,ab,a1Ab,D,,,2,4,2,6
+Reel,641,C,"ab, aAb; cb1, c1Ab.",ab,aAb,cb1,c1Ab,S,,,3,3,2,5
+Reel,641,D,"aa1, aAb; aa1, aAb.",aa1,aAb,aa1,aAb,D,,,1,5,2,7
+Reel,642,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,2,DH,2,6,0,6
+Reel,642,B,"ab, ab1; ab2, cd.",ab,ab1,ab2,cd,H,,,4,4,0,4
+Reel,643,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,2,DH,3,5,0,5
+Reel,643,B,"ab, aAc; ab1, cAc2.",ab,aAc,ab1,cAc2,H,,,3,3,2,5
+Reel,644,A,"ab, a1c; ab, a1c.",ab,a1c,ab,a1c,D,2,DH,3,5,0,5
+Reel,644,B,"ab, a1c; ad, Aa1Ac.",ab,a1c,ad,Aa1Ac,H,,,4,2,2,4
+Reel,645,A,"ab, ab1; ab, cd.",ab,ab1,ab,cd,H,2,HN,4,4,0,4
+Reel,645,B,"ab, cd; eb1, fAd.",ab,cd,eb1,fAd,N,,,6,1,1,2
+Reel,646,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PS,5,3,0,3
+Reel,646,B,"ab, ac; de, AcAe.",ab,ac,de,AcAe,S,,,5,1,2,3
+Reel,647,A,"aa1, a2b; aa1, a2b.",aa1,a2b,aa1,a2b,D,2,DH,2,6,0,6
+Reel,647,B,"ab, a1c; ab1, Aa2Ab.",ab,a1c,ab1,Aa2Ab,H,,,3,3,2,5
+Reel,648,A,"aa1, bc; aa1, de.",aa1,bc,aa1,de,P,2,PH,5,3,0,3
+Reel,648,B,"aa1, a2b; aa1, cd.",aa1,a2b,aa1,cd,H,,,4,4,0,4
+Reel,649,A,"ab, ac; a1b, a1c.",ab,ac,a1b,a1c,D,2,DH,3,5,0,5
+Reel,649,B,"aa1, ab; aa1, bAc.",aa1,ab,aa1,bAc,H,,,2,5,1,6
+Reel,650,A,"ab, a1b1; ab, a1c.",ab,a1b1,ab,a1c,D,2,DP,3,5,0,5
+Reel,650,B,"ab, cd; ab, ce.",ab,cd,ab,ce,P,,,5,3,0,3
+Reel,651,A,"ab, ac; ab, a1d.",ab,ac,ab,a1d,D,2,DH,4,4,0,4
+Reel,651,B,"ab, a1Ab; ab, Aa2Ad1.",ab,a1Ab,ab,Aa2Ad1,H,,,2,3,3,6
+Reel,652,A,"ab, ac; a1d, ae.",ab,ac,a1d,ae,D,2,DH,5,3,0,3
+Reel,652,B,"ab, ab1; ab, AaAe.",ab,ab1,ab,AaAe,H,,,2,4,2,6
+Reel,653,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,2,PS,4,4,0,4
+Reel,653,B,"ab, ac; de, fAd.",ab,ac,de,fAd,S,,,6,2,0,2
+Reel,654,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,2,PH,4,4,0,4
+Reel,654,B,"ab, aAd; ab, cAd.",ab,aAd,ab,cAd,H,,,3,4,1,5
+Reel,655,A,"ab, ab1; ab, cd.",ab,ab1,ab,cd,H,2,HH,4,4,0,4
+Reel,655,B,"aAb, ac; a1Ab1, dAd.",aAb,ac,a1Ab1,dAd,H,,,4,1,3,4
+Reel,656,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PH,6,2,0,2
+Reel,656,B,"ab, ac; ab, de.",ab,ac,ab,de,H,,,5,3,0,3
+Reel,657,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Reel,657,B,"ab, ac; ac1, de.",ab,ac,ac1,de,H,,,5,3,0,3
+Reel,658,A,"ab, ca1; ab, cd.",ab,ca1,ab,cd,P,2,PP,4,4,0,4
+Reel,658,B,"ab, cAd; ab, dAd1.",ab,cAd,ab,dAd1,P,,,4,2,2,4
+Reel,659,A,"ab, a1b1; ab, a1b1.",ab,a1b1,ab,a1b1,D,2,DS,2,6,0,6
+Reel,659,B,"ab, ac; de, Aa1Ab.",ab,ac,de,Aa1Ab,S,,,5,1,2,3
+Reel,660,A,"ab, ab1; ab, ab1.",ab,ab1,ab,ab1,D,2,DH,2,6,0,6
+Reel,660,B,"aa1, ab; aa1, cAb1.",aa1,ab,aa1,cAb1,H,,,3,4,1,5
+Reel,661,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,3,DHP,2,6,0,6
+Reel,661,B,"aa1, ab; aa1, cd.",aa1,ab,aa1,cd,H,,,4,4,0,4
+Reel,661,C,"aa1, bc; aa1, bc.",aa1,bc,aa1,bc,P,,,3,5,0,5
+Reel,662,A,"aa1, ab; aa1, ab1.",aa1,ab,aa1,ab1,D,2,DH,2,6,0,6
+Reel,662,B,"ab, aAb1; ab, cAb.",ab,aAb1,ab,cAb,H,,,3,4,1,5
+Reel,663,A,"ab, a1c; ab, a1d.",ab,a1c,ab,a1d,D,2,DP,4,4,0,4
+Reel,663,B,"aAb, Acb; aAb, Aa1Ad.",aAb,Acb,aAb,Aa1Ad,P,,,1,2,5,7
+Reel,664,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PP,5,3,0,3
+Reel,664,B,"ab, cAe; ab, dAe.",ab,cAe,ab,dAe,P,,,4,3,1,4
+Reel,665,A,"ab, b1c; ab, de.",ab,b1c,ab,de,P,2,PS,5,3,0,3
+Reel,665,B,"ab, ac; de, fg.",ab,ac,de,fg,S,,,7,1,0,1
+Reel,666,A,"ab, ac; ab, dc1.",ab,ac,ab,dc1,H,2,HH,4,4,0,4
+Reel,666,B,"ab, ac; a1b1, de.",ab,ac,a1b1,de,H,,,5,3,0,3
+Reel,667,A,"ab, a1c; ab1, de.",ab,a1c,ab1,de,H,2,HH,5,3,0,3
+Reel,667,B,"ab, aAe; ab, cAe.",ab,aAe,ab,cAe,H,,,3,3,2,5
+Reel,668,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PH,4,4,0,4
+Reel,668,B,"ab, a1b1; ab, cd.",ab,a1b1,ab,cd,H,,,4,4,0,4
+Reel,669,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,2,DS,3,5,0,5
+Reel,669,B,"ab, ac; da, ef.",ab,ac,da,ef,S,,,6,2,0,2
+Reel,670,A,"aa1, bc; de, fg.",aa1,bc,de,fg,N,2,NN,7,1,0,1
+Reel,670,B,"ab, AbAc; AdAe, AfAg.",ab,AbAc,AdAe,AfAg,N,,,2,0,6,6
+Reel,671,A,"ab, a1c; ab, a1e.",ab,a1c,ab,a1e,D,2,DH,5,3,0,3
+Reel,671,B,"ab, ac; ab, dAe1.",ab,ac,ab,dAe1,H,,,4,3,1,4
+Reel,672,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Reel,672,B,"aa1, ab; aa1, AdAe.",aa1,ab,aa1,AdAe,H,,,2,4,2,6
+Reel,673,A,"aa1, ab; ac, de.",aa1,ab,ac,de,H,2,HH,5,3,0,3
+Reel,673,B,"ab, a1Ab; ab, cAe1.",ab,a1Ab,ab,cAe1,H,,,3,3,2,5
+Reel,674,A,"ab, a1b1; ab, a1b2.",ab,a1b1,ab,a1b2,D,2,DH,2,6,0,6
+Reel,674,B,"ab, ab1; a1b2, cd.",ab,ab1,a1b2,cd,H,,,4,4,0,4
+Reel,675,A,"ab, ab1; ab, cd.",ab,ab1,ab,cd,H,2,HH,4,4,0,4
+Reel,675,B,"aa1, ab; aAb, AcAd1.",aa1,ab,aAb,AcAd1,H,,,2,3,3,6
+Reel,676,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PS,5,3,0,3
+Reel,676,B,"aAb1, ab; cAb, de.",aAb1,ab,cAb,de,S,,,3,4,1,5
+Reel,677,A,"ab, a1c; ab, a1d.",ab,a1c,ab,a1d,D,2,DD,4,4,0,4
+Reel,677,B,"ab, ac; ab, a1d.",ab,ac,ab,a1d,D,,,4,4,0,4
+Reel,678,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,2,PN,4,4,0,4
+Reel,678,B,"ab, cd; eb, fAd.",ab,cd,eb,fAd,N,,,6,1,1,2
+Reel,679,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Reel,679,B,"ab, a1c; a2d, ef.",ab,a1c,a2d,ef,H,,,6,2,0,2
+Reel,680,A,"aa1, a2b; aa1, a2b1.",aa1,a2b,aa1,a2b1,D,2,DH,2,6,0,6
+Reel,680,B,"aa1, ab; aa2, cd.",aa1,ab,aa2,cd,H,,,4,4,0,4
+Reel,681,A,"ab, ac; ab, ad.",ab,ac,ab,ad,D,2,DD,4,4,0,4
+Reel,681,B,"ab, a1Ad1; ab, a2Ad2.",ab,a1Ad1,ab,a2Ad2,D,,,2,4,2,6
+Reel,682,A,"ab, a1b1; ab, a1b1.",ab,a1b1,ab,a1b1,D,2,DP,2,6,0,6
+Reel,682,B,"ab, cd; ab, ed.",ab,cd,ab,ed,P,,,5,3,0,3
+Reel,683,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Reel,683,B,"ab, a1c; a2d, eAe.",ab,a1c,a2d,eAe,H,,,5,2,1,3
+Reel,684,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,3,DPH,3,5,0,5
+Reel,684,B,"ab, cd; a1b1, cd.",ab,cd,a1b1,cd,P,,,4,4,0,4
+Reel,684,C,"aa1, ab; ac, de.",aa1,ab,ac,de,H,,,5,3,0,3
+Reel,685,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PH,4,4,0,4
+Reel,685,B,"ab, a1c; ad, eAd1.",ab,a1c,ad,eAd1,H,,,5,2,1,3
+Reel,686,A,"ab, a1c; ab, a1d.",ab,a1c,ab,a1d,D,2,DH,4,4,0,4
+Reel,686,B,"aa1, aa2; aa1, bAd1.",aa1,aa2,aa1,bAd1,H,,,2,5,1,6
+Reel,687,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,H,4,HPHP,3,5,0,5
+Reel,687,B,"ab, cd; a1b, eAc2.",ab,cd,a1b,eAc2,P,,,5,2,1,3
+Reel,687,C,"aBb1, ab; aBb2, cAc2.",aBb1,ab,aBb2,cAc2,H,,,3,2,3,5
+Reel,687,D,"ab, Acc; a1b1, de.",ab,Acc,a1b1,de,P,,,5,2,1,3
+Reel,688,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PP,5,3,0,3
+Reel,688,B,"aa1, bAd; aa1, cAe1.",aa1,bAd,aa1,cAe1,P,,,3,3,2,5
+Reel,689,A,"ab, a1c; ab1, de.",ab,a1c,ab1,de,H,2,HH,5,3,0,3
+Reel,689,B,"ab, ac; ab1, de.",ab,ac,ab1,de,H,,,5,3,0,3
+Reel,690,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PP,4,4,0,4
+Reel,690,B,"ab, AcAd1; a1b, AcAd1.",ab,AcAd1,a1b,AcAd1,P,,,2,2,4,6
+Reel,691,A,"ab, ac; ab, ad.",ab,ac,ab,ad,D,2,DN,4,4,0,4
+Reel,691,B,"ab, cAd; dAb, Aa1Ad1.",ab,cAd,dAb,Aa1Ad1,N,,,4,0,4,4
+Reel,692,A,"ab, aa1c; ab, cd.",ab,aa1c,ab,cd,H,2,HS,4,4,0,4
+Reel,692,B,"ab, ab1; cd, Ab1Ad1.",ab,ab1,cd,Ab1Ad1,S,,,4,2,2,4
+Reel,693,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,2,DH,3,5,0,5
+Reel,693,B,"ab, aAc2; ad, eAc1.",ab,aAc2,ad,eAc1,H,,,5,1,2,3
+Reel,694,A,"ab, a1c; ab, a1c.",ab,a1c,ab,a1c,D,2,DH,3,5,0,5
+Reel,694,B,"aAb1, aAc1; aAb1, bAc2.",aAb1,aAc1,aAb1,bAc2,H,,,2,2,4,6
+Reel,695,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,2,DH,3,5,0,5
+Reel,695,B,"ab, a1Ac; ab1, cAc.",ab,a1Ac,ab1,cAc,H,,,3,3,2,5
+Reel,696,A,"ab, ac; ab, ad.",ab,ac,ab,ad,D,2,DH,4,4,0,4
+Reel,696,B,"aa1, aAe1; aa1, bc.",aa1,aAe1,aa1,bc,H,,,3,4,1,5
+Reel,697,A,"aa1, ab; aa1, cd.",aa1,ab,aa1,cd,H,2,HH,4,4,0,4
+Reel,697,B,"aa1, aAb; aa1, AcAd.",aa1,aAb,aa1,AcAd,H,,,1,4,3,7
+Reel,698,A,"ab, ab1; ab, cd.",ab,ab1,ab,cd,H,2,HH,4,4,0,4
+Reel,698,B,"ab, a1b1; ab, cAd.",ab,a1b1,ab,cAd,H,,,3,4,1,5
+Reel,699,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Reel,699,B,"ab, cAf1; ab, Af2Af.",ab,cAf1,ab,Af2Af,P,,,3,3,2,5
+Reel,700,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Reel,700,B,"ab, aAc; ab, Ad1Ae.",ab,aAc,ab,Ad1Ae,H,,,2,4,2,6
+Reel,701,A,"ab, ac; ab1, dc1.",ab,ac,ab1,dc1,H,2,HN,4,4,0,4
+Reel,701,B,"ab, cd; ef, gh.",ab,cd,ef,gh,N,,,8,0,0,0
+Reel,702,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,2,DP,3,5,0,5
+Reel,702,B,"ab, cd; ab, c1Ac1.",ab,cd,ab,c1Ac1,P,,,4,4,0,4
+Reel,703,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,2,DH,3,5,0,5
+Reel,703,B,"ab, aAc; a1b1, cAc1.",ab,aAc,a1b1,cAc1,H,,,3,3,2,5
+Reel,704,A,"aa1, ab; aa1, cd.",aa1,ab,aa1,cd,H,2,HH,4,4,0,4
+Reel,704,B,"aa1, aAd; aa1, bAd.",aa1,aAd,aa1,bAd,H,,,2,4,2,6
+Reel,705,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,2,DS,3,5,0,5
+Reel,705,B,"ab, a1c; dAb, Aa1Ac1.",ab,a1c,dAb,Aa1Ac1,S,,,4,1,3,4
+Reel,706,A,"ab, ac; ab, a1d.",ab,ac,ab,a1d,D,2,DH,4,4,0,4
+Reel,706,B,"ab, aAc; ab, cAc1.",ab,aAc,ab,cAc1,H,,,3,3,2,5
+Reel,707,A,"ab, cd; ac1, ef.",ab,cd,ac1,ef,P,2,PH,6,2,0,2
+Reel,707,B,"ab, ac; ad, ef.",ab,ac,ad,ef,H,,,6,2,0,2
+Reel,708,A,"ab, a1c; ab, a1c.",ab,a1c,ab,a1c,D,2,DH,3,5,0,5
+Reel,708,B,"ab, a1c; ab, cd.",ab,a1c,ab,cd,H,,,4,4,0,4
+Reel,709,A,"ab, ab1; ab, cd.",ab,ab1,ab,cd,H,2,HH,4,4,0,4
+Reel,709,B,"ab, a1b1; ab, cAd.",ab,a1b1,ab,cAd,H,,,3,4,1,5
+Reel,710,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,2,DH,3,5,0,5
+Reel,710,B,"ab, aAc; a1Ab1, cAc1.",ab,aAc,a1Ab1,cAc1,H,,,3,3,2,5
+Reel,711,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NP,8,0,0,0
+Reel,711,B,"ab, cd; ab1, eAh1.",ab,cd,ab1,eAh1,P,,,5,2,1,3
+Reel,712,A,"ab, a1c; ab, a1c.",ab,a1c,ab,a1c,D,2,DH,3,5,0,5
+Reel,712,B,"aa1, ab; aa2, cd.",aa1,ab,aa2,cd,H,,,4,4,0,4
+Reel,713,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PH,4,4,0,4
+Reel,713,B,"ab, ac; ab, AcAd1.",ab,ac,ab,AcAd1,H,,,3,3,2,5
+Reel,714,A,"ab, a1c; ab, ac1.",ab,a1c,ab,ac1,D,2,DS,3,5,0,5
+Reel,714,B,"aa1, aAc1; bb1, cAc.",aa1,aAc1,bb1,cAc,S,,,3,3,2,5
+Reel,715,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HP,5,3,0,3
+Reel,715,B,"aa1, bAc; aa1, AdAe.",aa1,bAc,aa1,AdAe,P,,,2,3,3,6
+Reel,716,A,"ab, cd; ab, c1d1.",ab,cd,ab,c1d1,P,2,PH,4,4,0,4
+Reel,716,B,"ab, aAd1; ab, cd.",ab,aAd1,ab,cd,H,,,4,3,1,4
+Reel,717,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,2,DH,3,5,0,5
+Reel,717,B,"aa1, a2Ac1; aa1, bAc.",aa1,a2Ac1,aa1,bAc,H,,,2,4,2,6
+Reel,718,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Reel,718,B,"ab, ac; a1b, dAe.",ab,ac,a1b,dAe,H,,,4,3,1,4
+Reel,719,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PH,5,3,0,3
+Reel,719,B,"ab, a1Ad; ab, cd.",ab,a1Ad,ab,cd,H,,,4,3,1,4
+Reel,720,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PP,4,4,0,4
+Reel,720,B,"ab, AcAd; ab, AcAd1.",ab,AcAd,ab,AcAd1,P,,,2,2,4,6
+Reel,721,A,"ab, ab; ab, cb1.",ab,ab,ab,cb1,H,2,HH,3,5,0,5
+Reel,721,B,"aAb, aAb1; aAb, AcAb1.",aAb,aAb1,aAb,AcAb1,H,,,1,2,5,7
+Reel,722,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,2,DD,3,5,0,5
+Reel,722,B,"ab, ac; ab1, a1Ac1.",ab,ac,ab1,a1Ac1,D,,,3,4,1,5
+Reel,723,A,"ab, ac; ab1, dc1.",ab,ac,ab1,dc1,H,2,HH,4,4,0,4
+Reel,723,B,"aAb, aAc; aAb1, AdAc1.",aAb,aAc,aAb1,AdAc1,H,,,1,2,5,7
+Reel,724,A,"ab, a1c; ab, a1d.",ab,a1c,ab,a1d,D,4,DHDH,4,4,0,4
+Reel,724,B,"ab, ab1; ab, cd.",ab,ab1,ab,cd,H,,,4,4,0,4
+Reel,724,C,"aa1, a2b; aa1, a2b.",aa1,a2b,aa1,a2b,D,,,2,6,0,6
+Reel,724,D,"ab, ac; ad, ef.",ab,ac,ad,ef,H,,,6,2,0,2
+Reel,725,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Reel,725,B,"ab, ac; ab, AdAe.",ab,ac,ab,AdAe,H,,,3,3,2,5
+Reel,726,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,2,DH,2,6,0,6
+Reel,726,B,"ab, ac; ab, dAb.",ab,ac,ab,dAb,H,,,4,3,1,4
+Reel,727,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PH,5,3,0,3
+Reel,727,B,"ab, ac; ab, de.",ab,ac,ab,de,H,,,5,3,0,3
+Reel,728,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PP,5,3,0,3
+Reel,728,B,"aAb1, AcAd; a1Ab1, AcAe.",aAb1,AcAd,a1Ab1,AcAe,P,,,1,1,6,7
+Reel,729,A,"aa1, ab; aa1, ab1.",aa1,ab,aa1,ab1,D,2,DH,2,6,0,6
+Reel,729,B,"ab, aAb1; ab, cAb1.",ab,aAb1,ab,cAb1,H,,,3,3,2,5
+Reel,730,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,2,DH,3,5,0,5
+Reel,730,B,"ab, ab; ab1, cd.",ab,ab,ab1,cd,H,,,4,4,0,4
+Reel,731,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DN,3,5,0,5
+Reel,731,B,"ab, cd; ef, gh.",ab,cd,ef,gh,N,,,8,0,0,0
+Reel,732,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PS,4,4,0,4
+Reel,732,B,"aa1, aa2; bb1, cd.",aa1,aa2,bb1,cd,S,,,4,4,0,4
+Reel,733,A,"ab, a1b1; ab, cb.",ab,a1b1,ab,cb,H,2,HH,3,5,0,5
+Reel,733,B,"aa1, ab; aa1, cd.",aa1,ab,aa1,cd,H,,,4,4,0,4
+Reel,734,A,"ab,  ac; a1b, ac.",ab, ac,a1b,ac,D,2,DH,3,5,0,5
+Reel,734,B,"ab, ab; ab, cb1.",ab,ab,ab,cb1,H,,,3,5,0,5
+Reel,735,A,"ab, ac; ab1, dc1.",ab,ac,ab1,dc1,H,2,HD,4,4,0,4
+Reel,735,B,"ab, ac; ab, aAc1.",ab,ac,ab,aAc1,D,,,3,4,1,5
+Reel,736,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Reel,736,B,"ab, aAc; ab, AdAe.",ab,aAc,ab,AdAe,H,,,2,3,3,6
+Reel,737,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,2,DH,3,5,0,5
+Reel,737,B,"aa1, ab; aa1, bc.",aa1,ab,aa1,bc,H,,,3,5,0,5
+Reel,738,A,"ab, ac; ab, ad.",ab,ac,ab,ad,D,2,DH,4,4,0,4
+Reel,738,B,"ab, a1Ad; a1b, cAd1.",ab,a1Ad,a1b,cAd1,H,,,3,3,2,5
+Reel,739,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Reel,739,B,"AeAe1, ab; cd, ef.",AeAe1,ab,cd,ef,N,,,6,0,2,2
+Reel,740,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,2,PH,4,4,0,4
+Reel,740,B,"ab, a1c; ab, dAd1.",ab,a1c,ab,dAd1,H,,,4,3,1,4
+Reel,741,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PD,5,3,0,3
+Reel,741,B,"ab, ac; ab, a1Ad.",ab,ac,ab,a1Ad,D,,,3,4,1,5
+Reel,742,A,"ab, a1c; ab, a2d.",ab,a1c,ab,a2d,D,2,DP,4,4,0,4
+Reel,742,B,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,,,4,4,0,4
+Reel,743,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Reel,743,B,"ab, ac; ab, de.",ab,ac,ab,de,H,,,5,3,0,3
+Reel,744,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Reel,744,B,"aa1, ab; aa1, cAb.",aa1,ab,aa1,cAb,H,,,3,4,1,5
+Reel,745,A,"ab, a1c; ab, ad.",ab,a1c,ab,ad,D,2,DH,4,4,0,4
+Reel,745,B,"ab, ac; aAb, AaAd.",ab,ac,aAb,AaAd,H,,,3,2,3,5
+Reel,746,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PH,4,4,0,4
+Reel,746,B,"ab, ac; ab, cAd.",ab,ac,ab,cAd,H,,,3,4,1,5
+Reel,747,A,"ab, cd; ae, cf.",ab,cd,ae,cf,P,2,PSS,6,2,0,2
+Reel,747,B,"ab, ac; de, fg.",ab,ac,de,fg,S,,,7,1,0,1
+Reel,747,B1,"ab, ac; de, fh.",ab,ac,de,fh,S,,,7,1,0,1
+Reel,748,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PH,6,2,0,2
+Reel,748,B,"ab, ac; a1b, de.",ab,ac,a1b,de,H,,,5,3,0,3
+Reel,749,A,"ab, cd; a1b1, ef.",ab,cd,a1b1,ef,P,2,PH,6,2,0,2
+Reel,749,B,"ab, a1c; ad, eAf.",ab,a1c,ad,eAf,H,,,5,2,1,3
+Reel,750,A,"ab, cd; a1b, ce.",ab,cd,a1b,ce,P,2,PH,5,3,0,3
+Reel,750,B,"ab, ac; ab, dAe.",ab,ac,ab,dAe,H,,,4,3,1,4
+Reel,751,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,5,DPDDS,3,5,0,5
+Reel,751,B,"ab, cd; ab, cd.",ab,cd,ab,cd,P,,,4,4,0,4
+Reel,751,C,"aa1, a2Ac1; aa1, a2Ac1.",aa1,a2Ac1,aa1,a2Ac1,D,,,1,5,2,7
+Reel,751,D,"aa1, a2Ac1; aa1, a2Ac1.",aa1,a2Ac1,aa1,a2Ac1,D,,,1,5,2,7
+Reel,751,E,"ab, a1Ac1; Cab, cAc.",ab,a1Ac1,Cab,cAc,S,,,3,2,3,5
+Reel,752,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,D,2,DH,3,5,0,5
+Reel,752,B,"ab, ac; ad, eAc.",ab,ac,ad,eAc,H,,,5,2,1,3
+Reel,753,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Reel,753,B,"aa1, aAc; aa2, bAc.",aa1,aAc,aa2,bAc,H,,,2,4,2,6
+Reel,754,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Reel,754,B,"ab, ac; ab, dAc1.",ab,ac,ab,dAc1,H,,,4,3,1,4
+Reel,755,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DS,3,5,0,5
+Reel,755,B,"ab, ac; de, fAc.",ab,ac,de,fAc,S,,,6,1,1,2
+Reel,756,A,"ab, ab1; ab, ab2.",ab,ab1,ab,ab2,D,2,DH,2,6,0,6
+Reel,756,B,"ab, a1c; ab1, de.",ab,a1c,ab1,de,H,,,5,3,0,3
+Reel,757,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PD,6,2,0,2
+Reel,757,B,"ab, a1Af1; ab, a1c.",ab,a1Af1,ab,a1c,D,,,3,4,1,5
+Reel,758,A,"ab, cd; a1e, fg.",ab,cd,a1e,fg,P,2,PP,7,1,0,1
+Reel,758,B,"ab, cd; ab, eAg.",ab,cd,ab,eAg,P,,,5,2,1,3
+Reel,759,A,"ab, ac; de, fg.",ab,ac,de,fg,S,2,SH,7,1,0,1
+Reel,759,B,"ab, ab; aAe, AfAg.",ab,ab,aAe,AfAg,H,,,2,3,3,6
+Reel,760,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,2,DH,3,5,0,5
+Reel,760,B,"ab, aAc2; ab, cAc1.",ab,aAc2,ab,cAc1,H,,,3,3,2,5
+Reel,761,A,"ab, a1c; ab, a1c.",ab,a1c,ab,a1c,D,2,DH,3,5,0,5
+Reel,761,B,"ab, ac; ab, dAc.",ab,ac,ab,dAc,H,,,4,3,1,4
+Reel,762,A,"ab, a1c; ab, a1d.",ab,a1c,ab,a1d,D,2,DS,4,4,0,4
+Reel,762,B,"aa1, ac; de, fAd.",aa1,ac,de,fAd,S,,,6,1,1,2
+Reel,763,A,"ab, ac; ab, dc1.",ab,ac,ab,dc1,H,2,HP,4,4,0,4
+Reel,763,B,"ab, cd; ab, c1Ac1.",ab,cd,ab,c1Ac1,P,,,4,3,1,4
+Reel,764,A,"aa1, bc; aa1, de.",aa1,bc,aa1,de,P,2,PP,5,3,0,3
+Reel,764,B,"ab, AbAc; ab1, AdAe.",ab,AbAc,ab1,AdAe,P,,,2,2,4,6
+Reel,765,A,"aa1, ab; aa1, cd.",aa1,ab,aa1,cd,H,3,HSD,4,4,0,4
+Reel,765,B,"ab, ac; de, fg.",ab,ac,de,fg,S,,,7,1,0,1
+Reel,765,C,"ab, a1b1; ab, a1Bg.",ab,a1b1,ab,a1Bg,D,,,2,5,1,6
+Reel,766,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,3,PDP,4,4,0,4
+Reel,766,B,"ab, a1c; ab, a2c.",ab,a1c,ab,a2c,D,,,3,5,0,5
+Reel,766,C,"ab, cAd; a1b, c1Bc.",ab,cAd,a1b,c1Bc,P,,,3,3,2,5
+Reel,767,A,"ab, a1c; ab1, a1c1.",ab,a1c,ab1,a1c1,D,2,DS,3,5,0,5
+Reel,767,B,"ab, aAc1; cd, eAc.",ab,aAc1,cd,eAc,S,,,5,1,2,3
+Reel,768,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,4,PPPN,7,1,0,1
+Reel,768,B,"ab, cd; a1Ae, AfAg.",ab,cd,a1Ae,AfAg,P,,,4,1,3,4
+Reel,768,C,"ab, cd; a1e, AfAg.",ab,cd,a1e,AfAg,P,,,5,1,2,3
+Reel,768,D,"ab, cd; Ca1Ce, AfAg.",ab,cd,Ca1Ce,AfAg,N,,,4,0,4,4
+Reel,769,A,"ab, cb1; ab, cd.",ab,cb1,ab,cd,P,2,PP,4,4,0,4
+Reel,769,B,"ab, cb1; ab, c1d.",ab,cb1,ab,c1d,P,,,4,4,0,4
+Reel,770,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,2,DH,2,6,0,6
+Reel,770,B,"ab, a1c; ab1, dc.",ab,a1c,ab1,dc,H,,,4,4,0,4
+Reel,771,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Reel,771,B,"ab, a1b1; ab, cAc1.",ab,a1b1,ab,cAc1,H,,,3,4,1,5
+Reel,772,A,"ab, ac; ab1, de.",ab,ac,ab1,de,H,2,HH,5,3,0,3
+Reel,772,B,"aa1, ab; aa1, cAe.",aa1,ab,aa1,cAe,H,,,3,4,1,5
+Reel,773,A,"aa1, ab; aa1, ab1.",aa1,ab,aa1,ab1,D,2,DH,2,6,0,6
+Reel,773,B,"ab, a1b; a2b, cAb1.",ab,a1b,a2b,cAb1,H,,,3,4,1,5
+Reel,774,A,"ab, a1c; a2d, ef.",ab,a1c,a2d,ef,H,2,HH,6,2,0,2
+Reel,774,B,"ab, ab1; aAd, AeAf.",ab,ab1,aAd,AeAf,H,,,2,3,3,6
+Reel,775,A,"ab, ab; ab, cd.",ab,ab,ab,cd,H,2,HH,4,4,0,4
+Reel,775,B,"ab, ac; ab, de.",ab,ac,ab,de,H,,,5,3,0,3
+Reel,776,A,"ab, ab1; ab, ab1.",ab,ab1,ab,ab1,D,2,DH,2,6,0,6
+Reel,776,B,"ab, a1c; ab, dAb1.",ab,a1c,ab,dAb1,H,,,4,4,0,4
+Reel,777,A,"ab, ac; ab, ad.",ab,ac,ab,ad,D,2,DH,4,4,0,4
+Reel,777,B,"ab, aAc1; ab, cAc.",ab,aAc1,ab,cAc,H,,,3,3,2,5
+Reel,778,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PH,4,4,0,4
+Reel,778,B,"ab, aAd1; a1b, cAd.",ab,aAd1,a1b,cAd,H,,,3,3,2,5
+Reel,779,A,"aa1, ab; aa1, cd.",aa1,ab,aa1,cd,H,3,HHH,4,4,0,4
+Reel,779,B,"aa, ab; aa1, cAd.",aa,ab,aa1,cAd,H,,,3,4,1,5
+Reel,779,C,"aa1, aBb; aa1, bAd1.",aa1,aBb,aa1,bAd1,H,,,2,4,2,6
+Reel,780,A,"ab, a1b1; ac, de.",ab,a1b1,ac,de,H,2,HN,5,3,0,3
+Reel,780,B,"ab, cd; eAa, d1Ae.",ab,cd,eAa,d1Ae,N,,,5,1,2,3
+Reel,781,A,"ab, a1c; a2b1, cd.",ab,a1c,a2b1,cd,H,2,HP,4,4,0,4
+Reel,781,B,"aa1, bAc; ac, bAd.",aa1,bAc,ac,bAd,P,,,3,3,2,5
+Reel,782,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PH,4,4,0,4
+Reel,782,B,"ab, ac; ad, ef.",ab,ac,ad,ef,H,,,6,2,0,2
+Reel,783,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PH,6,2,0,2
+Reel,783,B,"ab, a1b1; ab, AeAf.",ab,a1b1,ab,AeAf,H,,,2,4,2,6
+Reel,784,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,4,PPHN,7,1,0,1
+Reel,784,B,"ab, cd; a1b1, ef.",ab,cd,a1b1,ef,P,,,6,2,0,2
+Reel,784,C,"ab, ac; ad, AfAg.",ab,ac,ad,AfAg,H,,,4,2,2,4
+Reel,784,D,"ab, cd; ef, AfBf1.",ab,cd,ef,AfBf1,N,,,6,0,2,2
+Reel,785,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DP,3,5,0,5
+Reel,785,B,"ab, cd; ab, eAc.",ab,cd,ab,eAc,P,,,5,2,1,3
+Reel,786,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,3,PPN,4,4,0,4
+Reel,786,B,"ab, AcAd; a1b, AcAd1.",ab,AcAd,a1b,AcAd1,P,,,2,2,4,6
+Reel,786,C,"aa1, AcAd; bc, AcAd1.",aa1,AcAd,bc,AcAd1,N,,,3,1,4,5
+Reel,787,A,"ab, cd; ab, ed.",ab,cd,ab,ed,P,3,PSH,5,3,0,3
+Reel,787,B,"ab, a1b1; Ab1c, AeAd1.",ab,a1b1,Ab1c,AeAd1,S,,,2,2,4,6
+Reel,787,C,"ab, a1c; ad, AeAd.",ab,a1c,ad,AeAd,H,,,4,2,2,4
+Reel,788,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NP,8,0,0,0
+Reel,788,B,"ab, AcAd; ac, dAh.",ab,AcAd,ac,dAh,P,,,4,1,3,4
+Reel,789,A,"aa1, ab; aa1, cb1.",aa1,ab,aa1,cb1,H,2,HH,3,5,0,5
+Reel,789,B,"aa1, aAb1; ab, AcAb.",aa1,aAb1,ab,AcAb,H,,,2,3,3,6
+Reel,790,A,"ab, cd; a1b, c1e.",ab,cd,a1b,c1e,P,2,PP,5,3,0,3
+Reel,790,B,"ab, AcAd; aAb, AcAe.",ab,AcAd,aAb,AcAe,P,,,2,1,5,6
+Reel,791,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PP,5,3,0,3
+Reel,791,B,"aAb, AcAd; aAb, AcAe.",aAb,AcAd,aAb,AcAe,P,,,1,1,6,7
+Reel,792,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,3,PHH,5,3,0,3
+Reel,792,B,"aa1, aAe; ab, cAe.",aa1,aAe,ab,cAe,H,,,3,3,2,5
+Reel,792,C,"aa1, aAe; aa1, bAe1.",aa1,aAe,aa1,bAe1,H,,,2,4,2,6
+Reel,793,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DH,3,5,0,5
+Reel,793,B,"ab, ac; ab, de.",ab,ac,ab,de,H,,,5,3,0,3
+Reel,794,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HP,5,3,0,3
+Reel,794,B,"ab, cd; ab1, Ade.",ab,cd,ab1,Ade,P,,,4,3,1,4
+Reel,795,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PH,5,3,0,3
+Reel,795,B,"ab, a1b1; ab, cd.",ab,a1b1,ab,cd,H,,,4,4,0,4
+Reel,796,A,"ab, ac; ab, a1c.",ab,ac,ab,a1c,D,2,DH,3,5,0,5
+Reel,796,B,"ab, ab1; ab2, cAc.",ab,ab1,ab2,cAc,H,,,3,5,0,5
+Reel,797,A,"ab, cd; a1b, ce.",ab,cd,a1b,ce,P,2,PP,5,3,0,3
+Reel,797,B,"ab, cd; ae, fAe.",ab,cd,ae,fAe,P,,,5,2,1,3
+Reel,798,A,"ab, a1c; ab1, cd.",ab,a1c,ab1,cd,H,2,HH,4,4,0,4
+Reel,798,B,"ab, a1Ac1; ac, de.",ab,a1Ac1,ac,de,H,,,5,2,1,3
+Reel,799,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,3,HHN,5,3,0,3
+Reel,799,B,"ab, a1c; ac, AdAe.",ab,a1c,ac,AdAe,H,,,3,3,2,5
+Reel,799,C,"ab, cd; Ad1e, AdAe.",ab,cd,Ad1e,AdAe,N,,,4,1,3,4
+Reel,800,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,2,PS,7,1,0,1
+Reel,800,B,"aAb, a1Ab1; bc, de.",aAb,a1Ab1,bc,de,S,,,5,1,2,3
+Reel,801,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HP,5,3,0,3
+Reel,801,B,"ab, Aa1Ac; ab1, AdAe.",ab,Aa1Ac,ab1,AdAe,P,,,2,2,4,6
+Reel,802,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Reel,802,B,"ab, cAd; ab, AeAf.",ab,cAd,ab,AeAf,P,,,3,2,3,5
+Reel,803,A,"ab, a1c; ad, ef.",ab,a1c,ad,ef,H,2,HS,6,2,0,2
+Reel,803,B,"ab, a1b1; cc, de.",ab,a1b1,cc,de,S,,,5,3,0,3
+Reel,804,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,2,PH,7,1,0,1
+Reel,804,B,"ab, a1b1; a2b2, cd.",ab,a1b1,a2b2,cd,H,,,4,4,0,4
+Reel,805,A,"ab, a1b1; a2b2, cd.",ab,a1b1,a2b2,cd,H,4,HSPP,4,4,0,4
+Reel,805,B,"ab, ac; de, fg.",ab,ac,de,fg,S,,,7,1,0,1
+Reel,805,C,"aa1, bc; aBe, Bf1Bg.",aa1,bc,aBe,Bf1Bg,P,,,3,2,3,5
+Reel,805,D,"ab, aBc; aBb, BfBg.",ab,aBc,aBb,BfBg,P,,,2,2,4,6
+Hornpipe Etc.,806,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Hornpipe Etc.,806,B,"ab, cAd; AaAb, AcAe.",ab,cAd,AaAb,AcAe,N,,,3,0,5,5
+Hornpipe Etc.,807,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HS,5,3,0,3
+Hornpipe Etc.,807,B,"ab, a1b1; cd, eAe.",ab,a1b1,cd,eAe,S,,,4,3,1,4
+Hornpipe Etc.,808,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,808,B,"ab, cd; ef, AeAf.",ab,cd,ef,AeAf,N,,,6,0,2,2
+Hornpipe Etc.,809,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PP,5,3,0,3
+Hornpipe Etc.,809,B,"ab, cd; ab, eAe.",ab,cd,ab,eAe,P,,,5,2,1,3
+Hornpipe Etc.,810,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,810,B,"ab, cd; ef, gAf.",ab,cd,ef,gAf,N,,,7,0,1,1
+Hornpipe Etc.,811,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PN,5,3,0,3
+Hornpipe Etc.,811,B,"aa1, bc; de, Ac1Ae.",aa1,bc,de,Ac1Ae,N,,,5,1,2,3
+Hornpipe Etc.,812,A,"ab, cd; eb1, c1e.",ab,cd,eb1,c1e,N,2,NP,5,3,0,3
+Hornpipe Etc.,812,B,"ab, cd; ae, fAe.",ab,cd,ae,fAe,P,,,6,1,1,2
+Hornpipe Etc.,813,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HN,5,3,0,3
+Hornpipe Etc.,813,B,"ab, cd; ef, AdAe.",ab,cd,ef,AdAe,N,,,6,0,2,2
+Hornpipe Etc.,814,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PS,5,3,0,3
+Hornpipe Etc.,814,B,"ab, a1c; AaAb, AcAe.",ab,a1c,AaAb,AcAe,S,,,3,1,4,5
+Hornpipe Etc.,815,A,"aa1, bb1; aa1, cd.",aa1,bb1,aa1,cd,P,3,PPP,4,4,0,4
+Hornpipe Etc.,815,B,"aa1, AbAb2; aa1, AcAd.",aa1,AbAb2,aa1,AcAd,P,,,1,3,4,7
+Hornpipe Etc.,815,C,"aCa2, bc; aCa2, AcAd.",aCa2,bc,aCa2,AcAd,P,,,3,1,4,5
+Hornpipe Etc.,816,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,3,PPS,6,2,0,2
+Hornpipe Etc.,816,B,"ab, AcAd; ab, AeAf.",ab,AcAd,ab,AeAf,P,,,2,2,4,6
+Hornpipe Etc.,816,C,"ab, a1b1; AaAb, cAf.",ab,a1b1,AaAb,cAf,S,,,3,2,3,5
+Hornpipe Etc.,817,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PN,5,3,0,3
+Hornpipe Etc.,817,B,"aa1, AcAd; AaAb, Ac1Ae.",aa1,AcAd,AaAb,Ac1Ae,N,,,1,1,6,7
+Hornpipe Etc.,818,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PS,5,3,0,3
+Hornpipe Etc.,818,B,"ab, ac; de, AcAe.",ab,ac,de,AcAe,S,,,5,1,2,3
+Hornpipe Etc.,819,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PS,5,3,0,3
+Hornpipe Etc.,819,B,"ab, a1b1; AaAb, AcAe.",ab,a1b1,AaAb,AcAe,S,,,2,2,4,6
+Hornpipe Etc.,820,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PP,4,4,0,4
+Hornpipe Etc.,820,B,"ab, cAd; ab, dAe1.",ab,cAd,ab,dAe1,P,,,5,1,2,3
+Hornpipe Etc.,821,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PS,2,6,0,6
+Hornpipe Etc.,821,B,"aa1, a2b; AaAb, AcAe.",aa1,a2b,AaAb,AcAe,S,,,2,2,4,6
+Hornpipe Etc.,822,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HP,5,3,0,3
+Hornpipe Etc.,822,B,"ab, cd; ab, eAe1.",ab,cd,ab,eAe1,P,,,5,2,1,3
+Hornpipe Etc.,823,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NN,8,0,0,0
+Hornpipe Etc.,823,B,"ab, cd; AeAf, AgAh.",ab,cd,AeAf,AgAh,N,,,4,0,4,4
+Hornpipe Etc.,824,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PH,5,3,0,3
+Hornpipe Etc.,824,B,"ab, a1c; ab, cd.",ab,a1c,ab,cd,H,,,4,4,0,4
+Hornpipe Etc.,825,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PN,5,3,0,3
+Hornpipe Etc.,825,B,"aa1, bc; dd1, Ac1Ae.",aa1,bc,dd1,Ac1Ae,N,,,4,2,2,4
+Hornpipe Etc.,826,A,"aa, bb; cc, de.",aa,bb,cc,de,N,2,NP,5,3,0,3
+Hornpipe Etc.,826,B,"ab, cd; ab, AdAe.",ab,cd,ab,AdAe,P,,,4,2,2,4
+Hornpipe Etc.,827,A,"ab, cb1; ab, ce.",ab,cb1,ab,ce,P,2,PS,5,3,0,3
+Hornpipe Etc.,827,B,"Ac1a, AcAd; AaAb, AcAe.",Ac1a,AcAd,AaAb,AcAe,S,,,1,0,7,7
+Hornpipe Etc.,828,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PN,5,3,0,3
+Hornpipe Etc.,828,B,"ab, cd; ef, Ac1Ae.",ab,cd,ef,Ac1Ae,N,,,6,0,2,2
+Hornpipe Etc.,829,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PH,6,2,0,2
+Hornpipe Etc.,829,B,"ab, a1c; ab, dAf.",ab,a1c,ab,dAf,H,,,3,4,1,5
+Hornpipe Etc.,830,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HPN,5,3,0,3
+Hornpipe Etc.,830,B,"ab, cc1; ab, AdAe.",ab,cc1,ab,AdAe,P,,,3,3,2,5
+Hornpipe Etc.,830,B1,"ab, cc1; dd1, AdAe.",ab,cc1,dd1,AdAe,N,,,4,2,2,4
+Hornpipe Etc.,831,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,2,PN,7,1,0,1
+Hornpipe Etc.,831,B,"ab, Ac1Ad; AaAe, AfAg.",ab,Ac1Ad,AaAe,AfAg,N,,,2,0,6,6
+Hornpipe Etc.,832,A,"ab, cb1; ab, de.",ab,cb1,ab,de,P,2,PHS,5,3,0,3
+Hornpipe Etc.,832,B,"ab, a1Ab; ab1, cAe1.",ab,a1Ab,ab1,cAe1,H,,,3,3,2,5
+Hornpipe Etc.,832,B1,"a2b1, a1Ab; de, cAe.",a2b1,a1Ab,de,cAe,S,,,5,1,2,3
+Hornpipe Etc.,833,A,"ab, a1b1; ab1, cd.",ab,a1b1,ab1,cd,H,2,HHS,4,4,0,4
+Hornpipe Etc.,833,A1,"ab, a1b1; ab1, ca1.",ab,a1b1,ab1,ca1,H,,,3,5,0,5
+Hornpipe Etc.,833,B,"Aa2a, Aa3b; cc1, dAa.",Aa2a,Aa3b,cc1,dAa,S,,,4,1,3,4
+Hornpipe Etc.,834,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,834,B,"aa1, bc; de, Ae1Af.",aa1,bc,de,Ae1Af,N,,,5,1,2,3
+Hornpipe Etc.,835,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PS,5,3,0,3
+Hornpipe Etc.,835,B,"aa, a1a1; AaAb, Ac1Ae.",aa,a1a1,AaAb,Ac1Ae,S,,,1,3,4,7
+Hornpipe Etc.,836,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PS,5,3,0,3
+Hornpipe Etc.,836,B,"ab, a1b1; cd, AcAe.",ab,a1b1,cd,AcAe,S,,,4,2,2,4
+Hornpipe Etc.,837,A,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,2,DS,3,5,0,5
+Hornpipe Etc.,837,B,"ab, ac; dd1, AaAc1.",ab,ac,dd1,AaAc1,S,,,4,2,2,4
+Hornpipe Etc.,838,A,"ab, cd; ab, ed.",ab,cd,ab,ed,P,2,PS,5,3,0,3
+Hornpipe Etc.,838,B,"ab, a1c; de, AeAd.",ab,a1c,de,AeAd,S,,,5,1,2,3
+Hornpipe Etc.,839,A,"ab, cd; a1b, cd.",ab,cd,a1b,cd,P,4,PSNS,4,4,0,4
+Hornpipe Etc.,839,B,"ab, ac; AaAb, AcAd.",ab,ac,AaAb,AcAd,S,,,3,1,4,5
+Hornpipe Etc.,839,C,"ab, cAd; de, cAd.",ab,cAd,de,cAd,N,,,5,1,2,3
+Hornpipe Etc.,839,D,"ab, a1b1; cd, AcAd.",ab,a1b1,cd,AcAd,S,,,4,2,2,4
+Hornpipe Etc.,840,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PH,5,3,0,3
+Hornpipe Etc.,840,B,"ab, ac; ab, de.",ab,ac,ab,de,H,,,5,3,0,3
+Hornpipe Etc.,841,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,841,B,"aa1, Ac1Ad; AaAb, AeAf.",aa1,Ac1Ad,AaAb,AeAf,N,,,1,1,6,7
+Hornpipe Etc.,842,A,"aa1, ab; aa1, cd.",aa1,ab,aa1,cd,H,4,HPHS,4,4,0,4
+Hornpipe Etc.,842,B,"ab, cd; ab, c1Ad1.",ab,cd,ab,c1Ad1,P,,,4,4,0,4
+Hornpipe Etc.,842,C,"aa1, aBc2; aa1, AcAd.",aa1,aBc2,aa1,AcAd,H,,,1,4,3,7
+Hornpipe Etc.,842,D,"aa, a1a1; bc, dAd1.",aa,a1a1,bc,dAd1,S,,,4,3,1,4
+Hornpipe Etc.,843,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,5,HPPHS,5,3,0,3
+Hornpipe Etc.,843,B,"ab, cd; ab, AdAe.",ab,cd,ab,AdAe,P,,,4,2,2,4
+Hornpipe Etc.,843,C,"ab, cd; ab, AdAe.",ab,cd,ab,AdAe,P,,,4,2,2,4
+Hornpipe Etc.,843,D,"aa1, aCc; aa1, CcAe.",aa1,aCc,aa1,CcAe,H,,,1,4,3,7
+Hornpipe Etc.,843,E,"aa1, ab; cd, AdAe.",aa1,ab,cd,AdAe,S,,,4,2,2,4
+Hornpipe Etc.,844,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,2,PP,7,1,0,1
+Hornpipe Etc.,844,B,"ab, cd; ae, AfAg.",ab,cd,ae,AfAg,P,,,5,1,2,3
+Hornpipe Etc.,845,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PP,5,3,0,3
+Hornpipe Etc.,845,B,"aa1, AcAd; aa1, Ac1Ae1.",aa1,AcAd,aa1,Ac1Ae1,P,,,1,3,4,7
+Hornpipe Etc.,846,A,"ab, cd; ab, c1d1.",ab,cd,ab,c1d1,P,2,PP,4,4,0,4
+Hornpipe Etc.,846,B,"ab, cd; ab, ce.",ab,cd,ab,ce,P,,,5,3,0,3
+Hornpipe Etc.,847,A,"ab, bc; ab, ef.",ab,bc,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,847,B,"aa, AcAd1; AaAb, AeAf.",aa,AcAd1,AaAb,AeAf,N,,,1,1,6,7
+Hornpipe Etc.,848,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Hornpipe Etc.,848,B,"ab, AcAd; ab, AeAf.",ab,AcAd,ab,AeAf,P,,,2,2,4,6
+Hornpipe Etc.,849,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PPSS,6,2,0,2
+Hornpipe Etc.,849,A1,"ab, cd; ab, eg.",ab,cd,ab,eg,P,,,6,2,0,2
+Hornpipe Etc.,849,B,"ab, a1b1; dd, eAg1.",ab,a1b1,dd,eAg1,S,,,5,2,1,3
+Hornpipe Etc.,849,B1,"ab, a1b1; dd, eAg2.",ab,a1b1,dd,eAg2,S,,,5,2,1,3
+Hornpipe Etc.,850,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Hornpipe Etc.,850,B,"aa1, ab; aa1, cAc.",aa1,ab,aa1,cAc,H,,,3,4,1,5
+Hornpipe Etc.,851,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,851,B,"ab, cd; AaAb, AeAf.",ab,cd,AaAb,AeAf,N,,,4,0,4,4
+Hornpipe Etc.,852,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,3,PPH,6,2,0,2
+Hornpipe Etc.,852,B,"ab, cc1; ab, de.",ab,cc1,ab,de,P,,,5,3,0,3
+Hornpipe Etc.,852,C,"aa1, aa1; aa2, bAf.",aa1,aa1,aa2,bAf,H,,,2,5,1,6
+Hornpipe Etc.,853,A,"ab, cd; ee1, fg.",ab,cd,ee1,fg,N,2,NN,7,1,0,1
+Hornpipe Etc.,853,B,"ab, Aac; Aed, Af1e.",ab,Aac,Aed,Af1e,N,,,5,0,3,3
+Hornpipe Etc.,854,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PH,6,2,0,2
+Hornpipe Etc.,854,B,"aa1, aAb1; ac, dAf1.",aa1,aAb1,ac,dAf1,H,,,4,2,2,4
+Hornpipe Etc.,855,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Hornpipe Etc.,855,B,"ab, AcAd; aAb1, AcAe.",ab,AcAd,aAb1,AcAe,N,,,2,1,5,6
+Hornpipe Etc.,856,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PS,5,3,0,3
+Hornpipe Etc.,856,B,"ab, aAd; AaAb, AcAe.",ab,aAd,AaAb,AcAe,S,,,2,1,5,6
+Hornpipe Etc.,857,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Hornpipe Etc.,857,B,"ab, cd; AaAb, AcAe.",ab,cd,AaAb,AcAe,N,,,4,0,4,4
+Hornpipe Etc.,858,A,"ab, cd; eb, c1f.",ab,cd,eb,c1f,N,2,NN,5,3,0,3
+Hornpipe Etc.,858,B,"ab, cAd; dAb1, Ac1Af.",ab,cAd,dAb1,Ac1Af,N,,,4,0,4,4
+Hornpipe Etc.,859,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Hornpipe Etc.,859,B,"ab, AcAd; AaAb, AcAe.",ab,AcAd,AaAb,AcAe,N,,,2,0,6,6
+Hornpipe Etc.,860,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PH,6,2,0,2
+Hornpipe Etc.,860,B,"aAd1, ab; ac, AeAf.",aAd1,ab,ac,AeAf,H,,,3,2,3,5
+Hornpipe Etc.,861,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PN,5,3,0,3
+Hornpipe Etc.,861,B,"ab, AcAd; Aab, Ac1Ae.",ab,AcAd,Aab,Ac1Ae,N,,,2,1,5,6
+Hornpipe Etc.,862,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,4,PPPP,5,3,0,3
+Hornpipe Etc.,862,B,"ab, cd; ab, eAe.",ab,cd,ab,eAe,P,,,5,2,1,3
+Hornpipe Etc.,862,C,"ab, cd; ae, fAe.",ab,cd,ae,fAe,P,,,6,1,1,2
+Hornpipe Etc.,862,D,"ab, cd; aCe, CfAe.",ab,cd,aCe,CfAe,P,,,4,1,3,4
+Hornpipe Etc.,863,A,"ab, a1c; ad, ef.",ab,a1c,ad,ef,H,2,HS,6,2,0,2
+Hornpipe Etc.,863,B,"aa, a1a1; bc, AeAf.",aa,a1a1,bc,AeAf,S,,,3,3,2,5
+Hornpipe Etc.,864,A,"ab, cd; ec1, fg.",ab,cd,ec1,fg,N,2,NS,7,1,0,1
+Hornpipe Etc.,864,B,"aa1, a2b; AeAc1, AfAg.",aa1,a2b,AeAc1,AfAg,S,,,2,2,4,6
+Hornpipe Etc.,865,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,865,B,"ab, cAd1; AaAb, AeAf.",ab,cAd1,AaAb,AeAf,N,,,3,0,5,5
+Hornpipe Etc.,866,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Hornpipe Etc.,866,B,"ab, AcAd; AaAb, AcAe.",ab,AcAd,AaAb,AcAe,N,,,2,0,6,6
+Hornpipe Etc.,867,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PPPP,5,3,0,3
+Hornpipe Etc.,867,A1,"ab, cd; ab, ce1.",ab,cd,ab,ce1,P,,,5,3,0,3
+Hornpipe Etc.,867,B,"ab, cd; a1b, ef.",ab,cd,a1b,ef,P,,,6,2,0,2
+Hornpipe Etc.,867,B1,"ab, cd; a1b, eAe.",ab,cd,a1b,eAe,P,,,5,2,1,3
+Hornpipe Etc.,868,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HS,5,3,0,3
+Hornpipe Etc.,868,B,"ab, ac; de, AdAe.",ab,ac,de,AdAe,S,,,5,1,2,3
+Hornpipe Etc.,869,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PH,6,2,0,2
+Hornpipe Etc.,869,B,"ab, aAd1; ac, Ae1Af.",ab,aAd1,ac,Ae1Af,H,,,3,2,3,5
+Hornpipe Etc.,870,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Hornpipe Etc.,870,B,"ab, AcAd; cAb1, AcAe.",ab,AcAd,cAb1,AcAe,N,,,2,1,5,6
+Hornpipe Etc.,871,A,"ab, ac; ab, dc1.",ab,ac,ab,dc1,H,3,HNN,4,4,0,4
+Hornpipe Etc.,871,B,"ab, cAc; de, AdAc1.",ab,cAc,de,AdAc1,N,,,5,1,2,3
+Hornpipe Etc.,871,C,"ab, cAc; BdAe, AdAe.",ab,cAc,BdAe,AdAe,N,,,3,0,5,5
+Hornpipe Etc.,872,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,872,B,"ab, cd; ef, gAf.",ab,cd,ef,gAf,N,,,7,0,1,1
+Hornpipe Etc.,873,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Hornpipe Etc.,873,B,"ab, Ae1c; ab, AeAf.",ab,Ae1c,ab,AeAf,P,,,3,2,3,5
+Hornpipe Etc.,874,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PN,5,3,0,3
+Hornpipe Etc.,874,B,"ab, cAd; AaAb, Ac1Ae.",ab,cAd,AaAb,Ac1Ae,N,,,3,0,5,5
+Hornpipe Etc.,875,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,875,B,"ab, cd; AaAb, AeAf.",ab,cd,AaAb,AeAf,N,,,4,0,4,4
+Hornpipe Etc.,876,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,2,PP,4,4,0,4
+Hornpipe Etc.,876,B,"ab, cAd2; a1d, Ac1Ad1.",ab,cAd2,a1d,Ac1Ad1,P,,,4,1,3,4
+Hornpipe Etc.,877,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,2,PP,7,1,0,1
+Hornpipe Etc.,877,B,"ab, cd; ae, fg.",ab,cd,ae,fg,P,,,7,1,0,1
+Hornpipe Etc.,878,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Hornpipe Etc.,878,B,"aa1, AcAd; AaAb, AcAe.",aa1,AcAd,AaAb,AcAe,N,,,1,1,6,7
+Hornpipe Etc.,879,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,879,B,"aa1, bc; AaAb, AeAf.",aa1,bc,AaAb,AeAf,N,,,3,1,4,5
+Hornpipe Etc.,880,A,"ab, ac; ad, ef.",ab,ac,ad,ef,H,2,HP,6,2,0,2
+Hornpipe Etc.,880,B,"aAb, bc; aAd, AeAf.",aAb,bc,aAd,AeAf,P,,,3,1,4,5
+Hornpipe Etc.,881,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Hornpipe Etc.,881,B,"aa1, bc; dd1, eAe.",aa1,bc,dd1,eAe,N,,,5,2,1,3
+Hornpipe Etc.,882,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,2,PN,7,1,0,1
+Hornpipe Etc.,882,B,"ab, Ac1Ad; cAb1, Ac1Af.",ab,Ac1Ad,cAb1,Ac1Af,N,,,2,1,5,6
+Hornpipe Etc.,883,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,2,PN,7,1,0,1
+Hornpipe Etc.,883,B,"ab, cAg1; Aa1Ae, AfAg.",ab,cAg1,Aa1Ae,AfAg,N,,,3,0,5,5
+Hornpipe Etc.,884,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PN,5,3,0,3
+Hornpipe Etc.,884,B,"ab, cd; AaAb, Ac1Ae.",ab,cd,AaAb,Ac1Ae,N,,,4,0,4,4
+Hornpipe Etc.,885,A,"ab, cd; eb, c1e.",ab,cd,eb,c1e,N,2,NP,5,3,0,3
+Hornpipe Etc.,885,B,"ab, cAc; ab, cd.",ab,cAc,ab,cd,P,,,4,3,1,4
+Hornpipe Etc.,886,A,"ab, a1c; ab, de.",ab,a1c,ab,de,H,2,HN,5,3,0,3
+Hornpipe Etc.,886,B,"ab, cd; ef, AdAe.",ab,cd,ef,AdAe,N,,,6,0,2,2
+Hornpipe Etc.,887,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Hornpipe Etc.,887,B,"ab, cAd1; AaAb, AcAe.",ab,cAd1,AaAb,AcAe,N,,,3,0,5,5
+Hornpipe Etc.,888,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Hornpipe Etc.,888,B,"ab, cd; AaAb, AcAe.",ab,cd,AaAb,AcAe,N,,,4,0,4,4
+Hornpipe Etc.,889,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PS,5,3,0,3
+Hornpipe Etc.,889,B,"ab, ab1; cc1, Ac1d.",ab,ab1,cc1,Ac1d,S,,,4,3,1,4
+Hornpipe Etc.,890,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Hornpipe Etc.,890,B,"aa1, AcAd; AaAb, AcAe.",aa1,AcAd,AaAb,AcAe,N,,,1,1,6,7
+Hornpipe Etc.,891,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PP,5,3,0,3
+Hornpipe Etc.,891,B,"ab, cd; a1b, Ac1Ae.",ab,cd,a1b,Ac1Ae,P,,,4,2,2,4
+Hornpipe Etc.,892,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,892,B,"ab, cAd1; dAb, AeAf.",ab,cAd1,dAb,AeAf,N,,,4,0,4,4
+Hornpipe Etc.,893,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,893,B,"ab, cd; AaAb, AeAf.",ab,cd,AaAb,AeAf,N,,,4,0,4,4
+Hornpipe Etc.,894,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,894,B,"ab, cd; AaAb, AeAf.",ab,cd,AaAb,AeAf,N,,,4,0,4,4
+Hornpipe Etc.,895,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Hornpipe Etc.,895,B,"ab, cd; ab, c1Af1.",ab,cd,ab,c1Af1,P,,,4,3,1,4
+Hornpipe Etc.,896,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PS,5,3,0,3
+Hornpipe Etc.,896,B,"ab, aAb1; cd, eAe.",ab,aAb1,cd,eAe,S,,,5,1,2,3
+Hornpipe Etc.,897,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PH,6,2,0,2
+Hornpipe Etc.,897,B,"ab, ac; aAb, AeAf.",ab,ac,aAb,AeAf,H,,,3,2,3,5
+Hornpipe Etc.,898,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Hornpipe Etc.,898,B,"ab, AcAd; AaAb, AcAe.",ab,AcAd,AaAb,AcAe,N,,,2,0,6,6
+Hornpipe Etc.,899,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Hornpipe Etc.,899,B,"ab, cAd; AaAb, AcAe.",ab,cAd,AaAb,AcAe,N,,,3,1,4,5
+Hornpipe Etc.,900,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,900,B,"ab, cd; ef, Ae1Af.",ab,cd,ef,Ae1Af,N,,,6,0,2,2
+Hornpipe Etc.,901,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PP,5,3,0,3
+Hornpipe Etc.,901,B,"aa1, Abb; ac, Ac1Ae.",aa1,Abb,ac,Ac1Ae,P,,,3,2,3,5
+Hornpipe Etc.,902,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Hornpipe Etc.,902,B,"ab, cAd1; AaAb, AcAe.",ab,cAd1,AaAb,AcAe,N,,,3,0,5,5
+Hornpipe Etc.,903,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Hornpipe Etc.,903,B,"ab, cd; ab, AeAf.",ab,cd,ab,AeAf,P,,,4,2,2,4
+Hornpipe Etc.,904,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,904,B,"ab, cd; ef, c1Af.",ab,cd,ef,c1Af,N,,,6,1,1,2
+Hornpipe Etc.,905,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NH,8,0,0,0
+Hornpipe Etc.,905,B,"ab, a1c; a2b1, AgAh.",ab,a1c,a2b1,AgAh,H,,,3,3,2,5
+Hornpipe Etc.,906,A,"ab, cd1; ef, gh.",ab,cd1,ef,gh,N,2,NN,8,0,0,0
+Hornpipe Etc.,906,B,"ab, Ag1c; Ae1Af, AgAh.",ab,Ag1c,Ae1Af,AgAh,N,,,3,0,5,5
+Hornpipe Etc.,907,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PS,6,2,0,2
+Hornpipe Etc.,907,B,"aa1, a2Ad1; bb1, cAf.",aa1,a2Ad1,bb1,cAf,S,,,3,3,2,5
+Hornpipe Etc.,908,A,"aa1, bc; aa1, bd.",aa1,bc,aa1,bd,P,2,PP,4,4,0,4
+Hornpipe Etc.,908,B,"aa1, ab; aa1, AbAd.",aa1,ab,aa1,AbAd,P,,,2,4,2,6
+Hornpipe Etc.,909,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PS,6,2,0,2
+Hornpipe Etc.,909,B,"ab, ab1; cc1, dAf.",ab,ab1,cc1,dAf,S,,,4,3,1,4
+Hornpipe Etc.,910,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PP,5,3,0,3
+Hornpipe Etc.,910,B,"aAb1, AcAd; aAb1, AcAe.",aAb1,AcAd,aAb1,AcAe,P,,,1,1,6,7
+Hornpipe Etc.,911,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,911,B,"aa1, bc; AaAb, AeAf.",aa1,bc,AaAb,AeAf,N,,,3,1,4,5
+Hornpipe Etc.,912,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,912,B,"aa1, bc; AaAb, AeAf.",aa1,bc,AaAb,AeAf,N,,,3,1,4,5
+Hornpipe Etc.,913,A,"ab, a1c; ab, a1c1.",ab,a1c,ab,a1c1,H,3,HSN,3,5,0,5
+Hornpipe Etc.,913,B,"ab, a1b1; cAb, Aa1Ac1.",ab,a1b1,cAb,Aa1Ac1,S,,,3,2,3,5
+Hornpipe Etc.,913,C,"ab, cd; AaAb, Aa1Ac1.",ab,cd,AaAb,Aa1Ac1,N,,,4,0,4,4
+Hornpipe Etc.,914,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PN,5,3,0,3
+Hornpipe Etc.,914,B,"aa1, bAd; AaAb, Ac1Ae.",aa1,bAd,AaAb,Ac1Ae,N,,,2,1,5,6
+Hornpipe Etc.,915,A,"ab, a1c; de, fg.",ab,a1c,de,fg,S,2,SS,7,1,0,1
+Hornpipe Etc.,915,B,"aAg1, a1Ag2; AdAe, AfAg.",aAg1,a1Ag2,AdAe,AfAg,S,,,1,1,6,7
+Hornpipe Etc.,916,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Hornpipe Etc.,916,B,"ab, AcAd; AaAb, AcAe.",ab,AcAd,AaAb,AcAe,N,,,2,0,6,6
+Hornpipe Etc.,917,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Hornpipe Etc.,917,B,"aAb, Ae1Ad1; aAb, AeAf.",aAb,Ae1Ad1,aAb,AeAf,P,,,1,1,6,7
+Hornpipe Etc.,918,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NN,8,0,0,0
+Hornpipe Etc.,918,B,"ab, cd; ee1, fAh.",ab,cd,ee1,fAh,N,,,7,0,1,1
+Hornpipe Etc.,919,A,"aa, bc; aa, cd.",aa,bc,aa,cd,P,2,PS,4,4,0,4
+Hornpipe Etc.,919,B,"ab, a1c; dd1, Ac1Ad.",ab,a1c,dd1,Ac1Ad,S,,,4,2,2,4
+Hornpipe Etc.,920,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,920,B,"aa1, bc; de, AeAf.",aa1,bc,de,AeAf,N,,,5,1,2,3
+Hornpipe Etc.,921,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,921,B,"ab, AcAd; AaAb, AeAf.",ab,AcAd,AaAb,AeAf,N,,,2,0,6,6
+Hornpipe Etc.,922,A,"ab, cc; ad, ef.",ab,cc,ad,ef,P,2,PS,6,2,0,2
+Hornpipe Etc.,922,B,"ab, ab1; cc1, dAf1.",ab,ab1,cc1,dAf1,S,,,4,3,1,4
+Hornpipe Etc.,923,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HH,5,3,0,3
+Hornpipe Etc.,923,B,"ab, ac; ad, eAe.",ab,ac,ad,eAe,H,,,5,2,1,3
+Hornpipe Etc.,924,A,"ab, cd; ab, de.",ab,cd,ab,de,P,2,PS,5,3,0,3
+Hornpipe Etc.,924,B,"aAb1, ab; cd, eAe.",aAb1,ab,cd,eAe,S,,,5,1,2,3
+Hornpipe Etc.,925,A,"ab, ac; ab1, de.",ab,ac,ab1,de,H,6,HHHHPH,5,3,0,3
+Hornpipe Etc.,925,B,"aa1, ac; ad, AdAe.",aa1,ac,ad,AdAe,H,,,4,2,2,4
+Hornpipe Etc.,925,C,"ab, ac; ab1, de.",ab,ac,ab1,de,H,,,5,3,0,3
+Hornpipe Etc.,925,D,"ab, aBc; aBd, CdCe.",ab,aBc,aBd,CdCe,H,,,2,2,4,6
+Hornpipe Etc.,925,E,"aa1, bc; aa1, dAe.",aa1,bc,aa1,dAe,P,,,4,3,1,4
+Hornpipe Etc.,925,F,"aa1, a2b; aa1, AdAe.",aa1,a2b,aa1,AdAe,H,,,2,4,2,6
+Hornpipe Etc.,926,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NNNN,8,0,0,0
+Hornpipe Etc.,926,A1,"ab, cd; ef, gh1.",ab,cd,ef,gh1,N,,,8,0,0,0
+Hornpipe Etc.,926,B,"ab, cd; ef, AgAh1.",ab,cd,ef,AgAh1,N,,,6,0,2,2
+Hornpipe Etc.,926,B1,"ab, cd; ef, AgAh.",ab,cd,ef,AgAh,N,,,6,0,2,2
+Hornpipe Etc.,927,A,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,3,PPP,4,4,0,4
+Hornpipe Etc.,927,B,"ab, cd; ab, AcAd1.",ab,cd,ab,AcAd1,P,,,4,2,2,4
+Hornpipe Etc.,927,C,"ab, Aad; ab, AcAd1.",ab,Aad,ab,AcAd1,P,,,2,3,3,6
+Hornpipe Etc.,928,A,"ab, cd; ab, de.",ab,cd,ab,de,P,2,PN,5,3,0,3
+Hornpipe Etc.,928,B,"ab, AcAd; AaAb, AdAe.",ab,AcAd,AaAb,AdAe,N,,,2,0,6,6
+Hornpipe Etc.,929,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,929,B,"ab, cd; ef, gAf.",ab,cd,ef,gAf,N,,,7,0,1,1
+Hornpipe Etc.,930,A,"aa, bc; aa, de.",aa,bc,aa,de,P,2,PP,5,3,0,3
+Hornpipe Etc.,930,B,"ab, Abc; ab, AdAe.",ab,Abc,ab,AdAe,P,,,2,3,3,6
+Hornpipe Etc.,931,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,931,B,"ab, cd; AaAb, AeAf.",ab,cd,AaAb,AeAf,N,,,4,0,4,4
+Hornpipe Etc.,932,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,3,PHP,6,2,0,2
+Hornpipe Etc.,932,B,"ab, a1Ad1; ab, cAf.",ab,a1Ad1,ab,cAf,H,,,3,3,2,5
+Hornpipe Etc.,932,C,"ab, cAd1; ab, Bc1Af.",ab,cAd1,ab,Bc1Af,P,,,3,2,3,5
+Hornpipe Etc.,933,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Hornpipe Etc.,933,B,"aa1, bc; aa1, b1Af1.",aa1,bc,aa1,b1Af1,P,,,3,4,1,5
+Hornpipe Etc.,934,A,"aa1, bc; aa1, bd.",aa1,bc,aa1,bd,P,2,PN,4,4,0,4
+Hornpipe Etc.,934,B,"ab, cd; ee1, Ab1f.",ab,cd,ee1,Ab1f,N,,,6,1,1,2
+Hornpipe Etc.,935,A,"ab, ac; ab, de.",ab,ac,ab,de,P,2,PN,5,3,0,3
+Hornpipe Etc.,935,B,"ab, cd; ef, gAe.",ab,cd,ef,gAe,N,,,7,0,1,1
+Hornpipe Etc.,936,A,"ab, ac; ab, de.",ab,ac,ab,de,H,2,HN,5,3,0,3
+Hornpipe Etc.,936,B,"ab, cd; ef, AdAe.",ab,cd,ef,AdAe,N,,,6,0,2,2
+Hornpipe Etc.,937,A,"ab, cd; a1b, ef.",ab,cd,a1b,ef,P,4,PNNP,6,2,0,2
+Hornpipe Etc.,937,B,"ab, AcAd; cd, eAf.",ab,AcAd,cd,eAf,N,,,5,0,3,3
+Hornpipe Etc.,937,C,"ab, cd; ef, BeAf.",ab,cd,ef,BeAf,N,,,6,0,2,2
+Hornpipe Etc.,937,D,"ab, cd; ab, BeAf.",ab,cd,ab,BeAf,P,,,4,2,2,4
+Hornpipe Etc.,938,A,"ab, cd; a1, ef.",ab,cd,a1,ef,P,4,PNNN,6,2,0,2
+Hornpipe Etc.,938,B,"ab, cd; ef, gAg.",ab,cd,ef,gAg,N,,,7,0,1,1
+Hornpipe Etc.,938,C,"aBf1, bc; dBf1, Af1Ag.",aBf1,bc,dBf1,Af1Ag,N,,,4,0,4,4
+Hornpipe Etc.,938,D,"ab, cBd; de, Af1Ag.",ab,cBd,de,Af1Ag,N,,,5,0,3,3
+Hornpipe Etc.,939,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NS,8,0,0,0
+Hornpipe Etc.,939,B,"ab, a1c; de, fAh.",ab,a1c,de,fAh,S,,,6,1,1,2
+Hornpipe Etc.,940,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PN,5,3,0,3
+Hornpipe Etc.,940,B,"ab, cd; eAb, Ac1Ae.",ab,cd,eAb,Ac1Ae,N,,,5,0,3,3
+Hornpipe Etc.,941,A,"ab, cd; ab1, ed1.",ab,cd,ab1,ed1,P,2,PN,5,3,0,3
+Hornpipe Etc.,941,B,"ab, cAd; de, fAd1.",ab,cAd,de,fAd1,N,,,6,0,2,2
+Hornpipe Etc.,942,A,"ab, cd; a1e, fg.",ab,cd,a1e,fg,P,2,PPN,7,1,0,1
+Hornpipe Etc.,942,B,"ab, AcAd; ab1, AfAg.",ab,AcAd,ab1,AfAg,P,,,2,2,4,6
+Hornpipe Etc.,942,B1,"ab, AcAd; Aa1Ae, AfAg.",ab,AcAd,Aa1Ae,AfAg,N,,,2,0,6,6
+Hornpipe Etc.,943,A,"ab, cd; ae, fg.",ab,cd,ae,fg,P,2,PN,7,1,0,1
+Hornpipe Etc.,943,B,"ab, cd; AaAe, AfAg.",ab,cd,AaAe,AfAg,N,,,4,0,4,4
+Hornpipe Etc.,944,A,"ab, cd; a1b1, c1e.",ab,cd,a1b1,c1e,P,2,PP,5,3,0,3
+Hornpipe Etc.,944,B,"ab, cAd; Aa1d, ef.",ab,cAd,Aa1d,ef,P,,,6,0,2,2
+Hornpipe Etc.,945,A,"ab, ac; ab1, de.",ab,ac,ab1,de,P,2,PN,5,3,0,3
+Hornpipe Etc.,945,B,"aAb2, bAb3; AaAb1, AdAe.",aAb2,bAb3,AaAb1,AdAe,N,,,2,0,6,6
+Hornpipe Etc.,946,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Hornpipe Etc.,946,B,"ab, cd; a1e, fAf.",ab,cd,a1e,fAf,P,,,5,2,1,3
+Hornpipe Etc.,947,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PP,6,2,0,2
+Hornpipe Etc.,947,B,"ab, cd; ab, cAf.",ab,cd,ab,cAf,P,,,4,3,1,4
+Hornpipe Etc.,948,A,"ab, a1c; a2b, de.",ab,a1c,a2b,de,H,5,HNPHS,5,3,0,3
+Hornpipe Etc.,948,B,"ab, cd; Aa2b, AdAe.",ab,cd,Aa2b,AdAe,N,,,4,1,3,4
+Hornpipe Etc.,948,C,"ab, Bc1Bd1; a1b, cAe.",ab,Bc1Bd1,a1b,cAe,P,,,3,2,3,5
+Hornpipe Etc.,948,D,"aa1, ab; aa2, CcAe.",aa1,ab,aa2,CcAe,H,,,2,4,2,6
+Hornpipe Etc.,948,E,"aa1, ab; cd, CcAe.",aa1,ab,cd,CcAe,S,,,4,2,2,4
+Hornpipe Etc.,949,A,"ab, cd; ab, c1d1.",ab,cd,ab,c1d1,P,2,PN,4,4,0,4
+Hornpipe Etc.,949,B,"aa1, AcAd; AaAb, Ac1Ad1.",aa1,AcAd,AaAb,Ac1Ad1,N,,,1,1,6,7
+Hornpipe Etc.,950,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NN,8,0,0,0
+Hornpipe Etc.,950,B,"ab, cd; ef, AgAh.",ab,cd,ef,AgAh,N,,,6,0,2,2
+Hornpipe Etc.,951,A,"ab, cc1; ab, de.",ab,cc1,ab,de,P,2,PH,5,3,0,3
+Hornpipe Etc.,951,B,"ab, a1c; a1Ab, AdAe.",ab,a1c,a1Ab,AdAe,H,,,3,2,3,5
+Hornpipe Etc.,952,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PS,5,3,0,3
+Hornpipe Etc.,952,B,"ab, a1b1; cd, eAe.",ab,a1b1,cd,eAe,S,,,5,2,1,3
+Hornpipe Etc.,953,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PN,6,2,0,2
+Hornpipe Etc.,953,B,"aAc, bAd; cd, AeAf.",aAc,bAd,cd,AeAf,N,,,4,0,4,4
+Hornpipe Etc.,954,A,"ab, a1b1; a2b, cd.",ab,a1b1,a2b,cd,H,2,HN,4,4,0,4
+Hornpipe Etc.,954,B,"aAb, bAb1; cAb, dAd.",aAb,bAb1,cAb,dAd,N,,,4,0,4,4
+Hornpipe Etc.,955,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PN,5,3,0,3
+Hornpipe Etc.,955,B,"ab, cd; AaAb, AcAe.",ab,cd,AaAb,AcAe,N,,,4,0,4,4
+"Long Dance, Set Dance, Etc.",956,A,"ab, a1b1; a2c, a3d.",ab,a1b1,a2c,a3d,D,2,DFHF,4,4,0,4
+"Long Dance, Set Dance, Etc.",956,Ax,", ; ed1, ff1.",,,ed1,ff1,F,,,3,5,0,5
+"Long Dance, Set Dance, Etc.",956,B,"ab, a1b1; a2c, dAa3.",ab,a1b1,a2c,dAa3,H,,,4,3,1,4
+"Long Dance, Set Dance, Etc.",956,Bx,", ; AeAd1, AfAf1.",,,AeAd1,AfAf1,F,,,0,4,4,8
+"Long Dance, Set Dance, Etc.",957,A,"ab, a1b1; a2c, a1d.",ab,a1b1,a2c,a1d,D,4,DSHSPN,4,4,0,4
+"Long Dance, Set Dance, Etc.",957,A1,"ab, a1b1; dd1, ef.",ab,a1b1,dd1,ef,S,,,6,2,0,2
+"Long Dance, Set Dance, Etc.",957,B,"ab, a1a1; a2Ac, Aa1Ad.",ab,a1a1,a2Ac,Aa1Ad,H,,,1,5,2,7
+"Long Dance, Set Dance, Etc.",957,B1,"AaAb, Aa1Ab1; AdAd1, AeAf.",AaAb,Aa1Ab1,AdAd1,AeAf,S,,,0,0,8,8
+"Long Dance, Set Dance, Etc.",957,C,"ab, cd; ab, eAf.",ab,cd,ab,eAf,P,,,5,2,1,3
+"Long Dance, Set Dance, Etc.",957,D,"ab, cCd; CaCb, CeAf.",ab,cCd,CaCb,CeAf,N,,,3,0,5,5
+"Long Dance, Set Dance, Etc.",958,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PNF,6,2,0,2
+"Long Dance, Set Dance, Etc.",958,B,"ab, cd; ef, gh.",ab,cd,ef,gh,N,,,8,0,0,0
+"Long Dance, Set Dance, Etc.",958,Bx,", ; AaAb, AeAf.",,,AaAb,AeAf,F,,,0,4,4,8
+"Long Dance, Set Dance, Etc.",959,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PNN,6,2,0,2
+"Long Dance, Set Dance, Etc.",959,B,"aa, bb1; cc, de.",aa,bb1,cc,de,N,,,5,3,0,3
+"Long Dance, Set Dance, Etc.",959,B1,"aa1, fAd; AaAb, AeAf.",aa1,fAd,AaAb,AeAf,N,,,2,1,5,6
+"Long Dance, Set Dance, Etc.",960,A,"ab, cd; af, gh.",ab,cd,af,gh,P,1,PN,7,1,0,1
+"Long Dance, Set Dance, Etc.",960,A1,"ab, cf; gh, ab.",ab,cf,gh,ab,N,,,6,2,0,2
+"Long Dance, Set Dance, Etc.",961,A,"aa1, bc; aa1, bd.",aa1,bc,aa1,bd,P,2,PFF,4,4,0,4
+"Long Dance, Set Dance, Etc.",961,B,"ab, cd; c1Ac, .",ab,cd,c1Ac,,F,,,4,3,1,4
+"Long Dance, Set Dance, Etc.",961,Bx,", ; AaAa1, ad.",,,AaAa1,AbAd,F,,,2,4,2,6
+"Long Dance, Set Dance, Etc.",962,A,"aa1, bc; ad, ef.",aa1,bc,ad,ef,P,2,PFH,6,2,0,2
+"Long Dance, Set Dance, Etc.",962,Bx,"AbAc, AbAc; , .",AbAc,AbAc,,,F,,,0,4,4,8
+"Long Dance, Set Dance, Etc.",962,B,"aa1, ab; aAd, AeAf.",aa1,ab,aAd,AeAf,H,,,2,3,3,6
+"Long Dance, Set Dance, Etc.",963,A,"ab, cd; ab, ef.",ab,cd,ab,ef,P,2,PNFF,6,2,0,2
+"Long Dance, Set Dance, Etc.",963,B,"ab, Ab1Ab2; cd, ef.",ab,Ab1Ab2,cd,ef,N,,,6,0,2,2
+"Long Dance, Set Dance, Etc.",963,Bx,", ; cd1, ef.",,,cd1,ef,F,,,4,4,0,4
+"Long Dance, Set Dance, Etc.",963,Bx1,", ; , cAf1.",,,,cAf1,F,,,1,6,1,7
+"Long Dance, Set Dance, Etc.",964,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PNF,5,3,0,3
+"Long Dance, Set Dance, Etc.",964,B,"ab, cd; ef, AcAd.",ab,cd,ef,AcAd,N,,,6,0,2,2
+"Long Dance, Set Dance, Etc.",964,Bx,", ; ef, Ac1Aa1.",,,ef,Ac1Aa1,F,,,2,4,2,6
+"Long Dance, Set Dance, Etc.",965,A,"aa1, ab; aa1, ab.",aa1,ab,aa1,ab,D,2,DP,2,6,0,6
+"Long Dance, Set Dance, Etc.",965,B,"ab, cd; ab, cd1.",ab,cd,ab,cd1,P,,,4,4,0,4
+"Long Dance, Set Dance, Etc.",966,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NFN,8,0,0,0
+"Long Dance, Set Dance, Etc.",966,B,"ab, ac; de, .",ab,ac,de,,F,,,5,3,0,3
+"Long Dance, Set Dance, Etc.",966,Bx,"AaAb, AcAd; AeAf, AgAh.",AaAb,AcAd,AeAf,AgAh,N,,,0,0,8,8
+"Long Dance, Set Dance, Etc.",967,A,"abc, def; , .",abc,def,,,N,2,NN,6,2,0,2
+"Long Dance, Set Dance, Etc.",967,B,"abc, AaAb1Af; AaAb1d, AdAeAf.",abc,AaAb1Af,AaAb1d,AdAeAf,N,,,4,0,8,12
+"Long Dance, Set Dance, Etc.",968,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PPFP,5,3,0,3
+"Long Dance, Set Dance, Etc.",968,A1,"ab, cd; ab, c1e1.",ab,cd,ab,c1e1,P,,,5,3,0,3
+"Long Dance, Set Dance, Etc.",968,B,"aa1, a2b; a2c, .",aa1,a2b,a2c,,F,,,3,5,0,5
+"Long Dance, Set Dance, Etc.",968,Bx,"AaAb, AcAd1; AaAb, Ac1Ae1.",AaAb,AcAd1,AaAb,Ac1Ae1,P,,,0,0,8,8
+"Long Dance, Set Dance, Etc.",969,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NNF,8,0,0,0
+"Long Dance, Set Dance, Etc.",969,B,"ab, cb; db1, eAf1.",ab,cb,db1,eAf1,N,,,5,2,1,3
+"Long Dance, Set Dance, Etc.",969,Bx,", fg; hAa1, Ab1Ah.",,fg,hAa1,Ab1Ah,F,,,3,2,3,5
+"Long Dance, Set Dance, Etc.",970,A,"ab, ac; ab, dc.",ab,ac,ab,dc,H,2,HH,4,4,0,4
+"Long Dance, Set Dance, Etc.",970,B,"ab, aAc; ab, cAc.",ab,aAc,ab,cAc,H,,,3,3,2,5
+"Long Dance, Set Dance, Etc.",971,A,"ab, a1c; ab1, cd.",ab,a1c,ab1,cd,H,2,HSS,4,4,0,4
+"Long Dance, Set Dance, Etc.",971,B,"ab, a1c; de, fg.",ab,a1c,de,fg,S,,,7,1,0,1
+"Long Dance, Set Dance, Etc.",971,B1,"ab, a1c; AaAb1, AcAd.",ab,a1c,AaAb1,AcAd,S,,,3,1,4,5
+"Long Dance, Set Dance, Etc.",972,A,"ab, cd; ab1, ef.",ab,cd,ab1,ef,P,2,PN,6,2,0,2
+"Long Dance, Set Dance, Etc.",972,B,"ab, cd; AaAb1, AeAf.",ab,cd,AaAb1,AeAf,N,,,4,0,4,4
+"Long Dance, Set Dance, Etc.",973,A,"abc, a1dec; a2ff1g, a1hijk.",abc,a1dec,a2ff1g,a1hijk,D,2,DD,11,5,0,5
+"Long Dance, Set Dance, Etc.",973,B,"AaAb1Ac, AaabAc; Aa2AfAf1Ag, Aa1AhAiAjAk.",AaAb1Ac,AaabAc,Aa2AfAf1Ag,Aa1AhAiAjAk,D,,,2,0,14,14
+"Long Dance, Set Dance, Etc.",974,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,1,NNN,8,0,0,0
+"Long Dance, Set Dance, Etc.",974,A1,"ab, cd; ef, gh1.",ab,cd,ef,gh1,N,2,,8,0,0,0
+"Long Dance, Set Dance, Etc.",974,B,"Ac1Aa1, Aa2Aa3; AaAb, AcAd1.",Ac1Aa1,Aa2Aa3,AaAb,AcAd1,N,,,0,0,8,8
+"Long Dance, Set Dance, Etc.",975,A,"ab, cd; ab, ce.",ab,cd,ab,ce,P,2,PHF,5,3,0,3
+"Long Dance, Set Dance, Etc.",975,B,"ab, ab1; ab2, Aa1Ab.",ab,ab1,ab2,Aa1Ab,H,,,2,4,2,6
+"Long Dance, Set Dance, Etc.",975,Bx,", ; AaAb, AcAe.",,,AaAb,AcAe,F,,,0,4,4,8
+"Long Dance, Set Dance, Etc.",976,A,"ab, ac; ab, ad.",ab,ac,ab,ad,D,2,DNF,4,4,0,4
+"Long Dance, Set Dance, Etc.",976,B,"ab, b1b2; cb3, b4b5.",ab,b1b2,cb3,b4b5,N,,,3,5,0,5
+"Long Dance, Set Dance, Etc.",976,Bx,", ; AaAb, AaAd.",,,AaAb,AaAd,F,,,0,4,4,8
+"Long Dance, Set Dance, Etc.",977,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NNN,8,0,0,0
+"Long Dance, Set Dance, Etc.",977,B,"ab, b1b2; b3b4, b5b6.",ab,b1b2,b3b4,b5b6,N,,,2,6,0,6
+"Long Dance, Set Dance, Etc.",977,Bx,"AaAb, AcAd; AeAf, AgAh.",AaAb,AcAd,AeAf,AgAh,N,,,0,0,8,8
+"Long Dance, Set Dance, Etc.",978,A,"ab, cd; ab, c1e.",ab,cd,ab,c1e,P,2,PHP,5,3,0,3
+"Long Dance, Set Dance, Etc.",978,B,"ab, a1b1; ac, AcAd.",ab,a1b1,ac,AcAd,H,,,3,3,2,5
+"Long Dance, Set Dance, Etc.",978,Bx,"AaAb, AcAd; AaAb, Ac1Ae.",AaAb,AcAd,AaAb,Ac1Ae,P,,,0,0,8,8
+"Long Dance, Set Dance, Etc.",979,A,"ab, cd; ae, c1e.",ab,cd,ae,c1e,P,2,PPN,5,3,0,3
+"Long Dance, Set Dance, Etc.",979,B,"ab, cd; ab1, eAe1.",ab,cd,ab1,eAe1,P,,,5,2,1,3
+"Long Dance, Set Dance, Etc.",979,Bx,"fg, hh1; ii1, c1Ae.",fg,hh1,ii1,c1Ae,N,,,5,2,1,3
+"Long Dance, Set Dance, Etc.",980,A,"ab, cd; ab1, de.",ab,cd,ab1,de,P,2,PHFP,5,3,0,3
+"Long Dance, Set Dance, Etc.",980,B,"ab, a1Ac1; ab1, cd.",ab,a1Ac1,ab1,cd,H,,,4,3,1,4
+"Long Dance, Set Dance, Etc.",980,Bx,"ee1, fAc1; , .",ee1,fAc1,,,F,,,3,4,1,5
+"Long Dance, Set Dance, Etc.",980,Bx1,"AaAb, AcAd; AaAb1, AdAe.",AaAb,AcAd,AaAb1,AdAe,P,,,0,0,8,8
+"Long Dance, Set Dance, Etc.",981,A,"ab, cd; c1d1, ef.",ab,cd,c1d1,ef,N,1,NFF,6,2,0,2
+"Long Dance, Set Dance, Etc.",981,Ax,", cd; c1d1, ef.",,cd,c1d1,ef,F,,,4,4,0,4
+"Long Dance, Set Dance, Etc.",981,Ax1,", cd; c1d1, .",,cd,c1d1,,F,,,2,6,0,6
+"Long Dance, Set Dance, Etc.",982,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,1,NNN,8,0,0,0
+"Long Dance, Set Dance, Etc.",982,Ax,"ef, gh; ab, cd.",ef,gh,ab,cd,N,,,0,8,0,8
+"Long Dance, Set Dance, Etc.",982,Ax,"ef, gh; ab, cd.",ef,gh,ab,cd,N,,,0,8,0,8
+"Long Dance, Set Dance, Etc.",983,A,"ab, cd; a1b1, cd1.",ab,cd,a1b1,cd1,P,2,PNF,4,4,0,4
+"Long Dance, Set Dance, Etc.",983,B,"ab, cAd1; dd1, ee1.",ab,cAd1,dd1,ee1,N,,,5,2,1,3
+"Long Dance, Set Dance, Etc.",983,Bx,"ab, cAd1; , .",ab,cAd1,,,F,,,3,4,1,5
+"Long Dance, Set Dance, Etc.",984,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,1,NFF,8,0,0,0
+"Long Dance, Set Dance, Etc.",984,Ax,"a1b1, cd; , .",a1b1,cd,,,F,,,4,4,0,4
+"Long Dance, Set Dance, Etc.",984,Ax1,"ab, ; , .",ab,,,,F,,,2,6,0,6
+"Long Dance, Set Dance, Etc.",985,A,"ab, cd; ef, cd1.",ab,cd,ef,cd1,N,2,NPN,6,2,0,2
+"Long Dance, Set Dance, Etc.",985,B,"aAb, bAd; a1Ab1, [b]Ad1.",aAb,bAd,a1Ab1,[b]Ad1,P,,,2,2,4,6
+"Long Dance, Set Dance, Etc.",985,B1,"a2Ab, b2c; de, Ac1Ad1.",a2Ab,b2c,de,Ac1Ad1,N,,,5,0,3,3
+Miscellaneous,986,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,2,PP,4,4,0,4
+Miscellaneous,986,B,"ab, AcAd; a1b1, AcAd.",ab,AcAd,a1b1,AcAd,P,,,2,2,4,6
+Miscellaneous,987,A,"ab, a1c; ab, cd.",ab,a1c,ab,cd,H,2,HSH,4,4,0,4
+Miscellaneous,987,B,"ab, ac; b1b2, AaAc.",ab,ac,b1b2,AaAc,S,,,3,3,2,5
+Miscellaneous,987,Bx,"AaAb, Aa1Ac; AaAb, AcAd.",AaAb,Aa1Ac,AaAb,AcAd,H,,,0,0,8,8
+Miscellaneous,988,A,"aa1, bc; aa1, bc.",aa1,bc,aa1,bc,P,2,PH,3,5,0,5
+Miscellaneous,988,B,"ab, ac; ab, de.",ab,ac,ab,de,H,,,5,3,0,3
+Miscellaneous,989,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,2,PSP,4,4,0,4
+Miscellaneous,989,B,"ab, ab; cA1, de.",ab,ab,cA1,de,S,,,5,2,1,3
+Miscellaneous,989,Bx,"d1f, gh; d1f, g1i.",d1f,gh,d1f,g1i,P,,,6,2,0,2
+Miscellaneous,990,A,"aa1, ab; aa1, b1c.",aa1,ab,aa1,b1c,H,3,HHH,3,5,0,5
+Miscellaneous,990,B,"ab, aAb; ab, Ab1Ac.",ab,aAb,ab,Ab1Ac,H,,,2,3,3,6
+Miscellaneous,990,C,"aa1, a2b; aa1, cAc.",aa1,a2b,aa1,cAc,H,,,3,4,1,5
+Miscellaneous,991,A,"aa, bc; a1d, ef.",aa,bc,a1d,ef,P,2,PN,6,2,0,2
+Miscellaneous,991,B,"ab, cAc; Aa1Ad, AeAf.",ab,cAc,Aa1Ad,AeAf,N,,,3,0,5,5
+Miscellaneous,992,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,2,NH,8,0,0,0
+Miscellaneous,992,B,"Aga, AgAh; Aga, bc.",Aga,AgAh,Aga,bc,H,,,3,1,4,5
+Miscellaneous,993,A,"aa1, ab; aa1, ac.",aa1,ab,aa1,ac,D,2,DD,3,5,0,5
+Miscellaneous,993,B,"ab, ac; ab, ac1.",ab,ac,ab,ac1,D,,,3,5,0,5
+Miscellaneous,994,A,"ab, cd; ea1, .",ab,cd,ea1,,F,2,FFF,5,3,0,3
+Miscellaneous,994,B,"ab, a1c; dAd, .",ab,a1c,dAd,,F,,,4,3,1,4
+Miscellaneous,994,Bx,", AcAd; AeAa1, .",,AcAd,AeAa1,,F,,,0,4,4,8
+Miscellaneous,995,A,"ab, cd; ef, gh.",ab,cd,ef,gh,N,3,NHS,8,0,0,0
+Miscellaneous,995,B,"ab, a1b1; ab2, Ag1Ah.",ab,a1b1,ab2,Ag1Ah,H,,,2,4,2,6
+Miscellaneous,995,C,"ab, a1b1; cd, AgAh.",ab,a1b1,cd,AgAh,S,,,4,2,2,4
+Miscellaneous,996,A,"ab, cd; ab, cd.",ab,cd,ab,cd,P,2,PH,4,4,0,4
+Miscellaneous,996,B,"ab, a1b1; ab2, cd.",ab,a1b1,ab2,cd,H,,,4,4,0,4
+Miscellaneous,997,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,3,DDD,3,5,0,5
+Miscellaneous,997,B,"aAb, aAc; aAb, aAc.",aAb,aAc,aAb,aAc,D,,,1,3,4,7
+Miscellaneous,997,C,"aAb, aAc; aAb, aAc.",aAb,aAc,aAb,aAc,D,,,1,3,4,7
+Miscellaneous,998,A,"ab, ab1; ab, cd.",ab,ab1,ab,cd,H,2,HS,4,4,0,4
+Miscellaneous,998,B,"aa1, ab; cd, AcAd.",aa1,ab,cd,AcAd,S,,,4,2,2,4
+Miscellaneous,999,A,"ab, ac; ab, ac.",ab,ac,ab,ac,D,2,DD,3,5,0,5
+Miscellaneous,999,B,"ab, a1c; ab, a2c.",ab,a1c,ab,a2c,D,,,3,5,0,5
+Miscellaneous,1000,A,"ab, cd; a1b1, ef.",ab,cd,a1b1,ef,P,2,PPN,6,2,0,2
+Miscellaneous,1000,B,"aAb, Ad1Ad2; aAb1, AeAf.",aAb,Ad1Ad2,aAb1,AeAf,P,,,1,1,6,7
+Miscellaneous,1000,B1,"aAb, Ad1Ad2; bAb1, AeAf.",aAb,Ad1Ad2,bAb1,AeAf,N,,,2,0,6,6
+Miscellaneous,1001,A,"ab, ac; ab, de.",ab,ac,ab,de,H,6,HSSSPN,5,3,0,3
+Miscellaneous,1001,B,"ab, a1b1; cd, AdAe.",ab,a1b1,cd,AdAe,S,,,4,2,2,4
+Miscellaneous,1001,C,"ab, ab1; cd, AdAe.",ab,ab1,cd,AdAe,S,,,4,2,2,4
+Miscellaneous,1001,D,"ab, a1b1; BcBd1, AdAe.",ab,a1b1,BcBd1,AdAe,S,,,2,2,4,6
+Miscellaneous,1001,E,"ab, cd; ab, AdAe.",ab,cd,ab,AdAe,P,,,4,2,2,4
+Miscellaneous,1001,F,"aa1, bb1; Bc1Bd1, AdAe.",aa1,bb1,Bc1Bd1,AdAe,N,,,2,2,4,6
