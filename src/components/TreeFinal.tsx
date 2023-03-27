@@ -2,6 +2,7 @@
 
 import * as d3 from "d3";
 import React, { useEffect, useState, useRef } from 'react';
+import CsvDialog from "./CsvDialog";
 
 const width = 2100;
 const dx = 14, dy = width / 9;
@@ -32,14 +33,28 @@ function compareTwoArrays(largerArray: string[], smallerArray: string[]): boolea
 export default function TreeFinal() {
     const svgRef = useRef(null);
     const divRef = useRef(null);
+    const infoRef = useRef(null);
 
+    let searchElement = [];
     let root;
+    let i = 0;
 
-    const processData = async (dataURI: string): {} => {
-        const response = await fetch(window.location.href + dataURI);
-        const nodes = await response.json();
+    const [info, setInfo] = useState({ 'parts': '', 'classifications': [""], 'count': 0 });
+    const [showDialog, setShowDialog] = useState(false);
 
-        const finalNodes: { "name": string, "children": {}[] } = {
+    document.body.style.backgroundColor = 'antiquewhite';
+
+    const drawGraph = async (processedCsv) => {
+        const nodes = await JSON.parse(processedCsv);
+        const info = nodes.splice(nodes.length - 1);
+        setInfo(info[0]); // Get info element
+
+        const data = await processData(nodes);
+        makeChart(data, 9);
+    }
+
+    const processData = async (nodes): {} => {
+        const finalNodes: { "name": string, "children": {}[] } = { // Initial node doesn't have to hold for B, C, D, ...
             "name": "a",
             "children": []
         };
@@ -112,17 +127,6 @@ export default function TreeFinal() {
         return finalNodes;
     }
 
-    const getChart = async (level) => {
-
-        processData("assets/data.json").then((data) => {
-            makeChart(data, level);
-        });
-    }
-
-    useEffect(() => {
-        getChart(9);
-    }, []);
-
     function makeChart(data, level) {
         root = d3.hierarchy(data);
 
@@ -138,6 +142,8 @@ export default function TreeFinal() {
             .attr("viewBox", [-margin.left, -margin.top, width, dx])
             .style("font", "14px sans-serif")
             .style("user-select", "none");
+
+        svg.selectAll("*").remove();
 
         // Sort structures in logical order
         root.sort((a: any, b: any) => {
@@ -183,10 +189,10 @@ export default function TreeFinal() {
 
         const gNode = svg.append("g")
             .attr("cursor", "pointer")
-            .attr("pointer-events", "all");
+            .attr("pointer-events", "all")
 
         const update = (source) => {
-            const duration = 200 * (9 - source.depth);
+            const duration = 100 * (9 - source.depth);
             const nodes = root.descendants().reverse();
             const links = root.links();
 
@@ -215,14 +221,20 @@ export default function TreeFinal() {
                 .attr("stroke-opacity", 0)
                 .on("click", (event, d) => {
                     if (d.depth !== 8) {
-                        d.children = d.children ? null : d._children;
+                        if (d.children) {
+                            d._children = d.children;
+                            d.children = null;
+                        } else {
+                            d.children = d._children;
+                        }
+
                         update(d);
                     } else {
                         window.open(
                             "https://www.irishtune.info/search.php?lookfor=words&term=" +
                             d.data.name.replace(/ /g, '+') +
                             "&type=any"
-                        , '_blank');
+                            , '_blank');
                     }
                 });
 
@@ -277,53 +289,188 @@ export default function TreeFinal() {
 
         // Set expandAll and contractAll handler here
         document.getElementById('expand').onclick = () => {
-            root.descendants().forEach((d, i) => {
-                d.children = d._children ? d._children : null;
-            });
+            const descendants = root.descendants();
+            const maxDepth = descendants[0].height;
 
-            update(root.descendants()[0]);
-        }
-
-        document.getElementById('contract').onclick = () => {
             root.descendants().forEach((d, i) => {
-                if (d.depth >= 2) {
-                    d.children = d.children ? null : d._children;
+                if (d.depth != maxDepth) {
+                    if (!d.children && d._children) {
+                        d.children = d._children;
+                    }
                 }
             });
 
             update(root.descendants()[0]);
         }
 
+        document.getElementById('contract').onclick = () => {
+            const descendants = root.descendants();
+
+            root.descendants().forEach((d, i) => {
+                if (d.depth > 0) {
+                    let pred = true;
+                    d.parent.children && d.parent.children.forEach((c) => {
+                        if (c.children) pred = false;
+                    });
+
+                    if (!d.children && d.parent.depth !== 0 && pred) {
+                        if (d.parent.children != null) {
+                            d.parent._children = d.parent.children
+                            d.parent.children = null;
+                        }
+                    }
+                }
+            });
+
+            update(root.descendants()[0]);
+        }
+
+        document.getElementById('search').onkeyup = (e) => {
+            if (e.key === 'Enter') {
+                if (searchElement.length) {
+                    console.log(searchElement)
+                    console.log(i)
+                    const boundingRect = searchElement[i].getBoundingClientRect();
+                    window.scrollTo(0, boundingRect.top + window.scrollY - 500);
+
+                    i = (i + 2) % searchElement.length;
+                }
+            }
+        }
+
+        document.getElementById('search').oninput = (e) => {
+            if (e.target.value.length === 0) {
+                if (searchElement.length) {
+                    searchElement.forEach((e) => {
+                        e.style.fontWeight = '';
+                        e.style.fontSize = '';
+                    })
+
+                    searchElement = [];
+                    i = 0;
+                }
+                return;
+            }
+
+            if (searchElement.length) {
+                searchElement.forEach((e) => {
+                    e.style.fontWeight = '';
+                    e.style.fontSize = '';
+                })
+
+                searchElement = [];
+                i = 0;
+            }
+
+            if (e.target.value.length >= 4 && !e.target.value.includes(',')) {
+                document.querySelectorAll('.node--leaf').forEach((query) => {
+                    for (let child of query.children) {
+                        if (child.innerHTML.includes(e.target.value)) {
+                            query.style.fontWeight = 'bold'
+                            query.style.fontSize = 'medium'
+                            searchElement = [...searchElement, query];
+                            continue;
+                        }
+                    }
+                })
+            }
+
+            if (e.target.value.endsWith(',')) {
+                const resultSet = new Set();
+                const resultLength = e.target.value.split(',').length;
+
+                root.descendants().forEach((d, i) => {
+                    if (d.data.name.split(',').length === resultLength) {
+                        if (d.data.name.startsWith(e.target.value)) {
+                            resultSet.add(d.data.name);
+                        }
+                    }
+                })
+
+                const resultsElement = document.getElementById('results');
+                resultsElement.style.display = "block";
+                for (const result of resultSet) {
+                    resultsElement.innerHTML += "<div>" + result + "</div>";
+                }
+            } else {
+                const resultsElement = document.getElementById('results');
+                resultsElement.innerHTML = "";
+                resultsElement.style.display = "contents";
+
+                document.querySelectorAll("text").forEach((query) => {
+                    if (query.textContent.toLowerCase().replace(/\s+/g, '') === e.target.value.toLowerCase().replace(/\s+/g, '')) {
+                        const boundingRect = query.getBoundingClientRect();
+                        window.scrollTo(0, boundingRect.top + window.scrollY - 500);
+
+                        query.style.fontWeight = 'bold'
+                        query.style.fontSize = 'large'
+
+                        searchElement = [...searchElement, query];
+                    }
+                })
+            }
+        }
+
         update(root);
     }
 
+    useEffect(() => {
+        if (infoRef.current) {
+            if (info.parts === "") return;
+            infoRef.current.innerHTML = "Part: " + info.parts + " | Classifications: " + info.classifications.join(", ") + " | Tune Count: " + info.count;
+        }
+    }, [info])
+
     return (
         <>
-            <div id='control-bar'>
-                TESTBAR
+            <div id='control-bar' style={{ position: "sticky", top: 0 }}>
+                <div ref={divRef} style={{
+                    zIndex: 3000,
+                    top: "2px",
+                    left: "2px",
+                    backgroundColor: "white",
+                    borderStyle: "groove",
+                    display: "flex"
+                }}>
+                    <button id='expand'>
+                        Expand Level
+                    </button>
+
+                    <button id='contract'>
+                        Collapse Level
+                    </button>
+
+                    <div style={{ display: 'flex' }}>
+                        <input type="text" id="search" placeholder="Search for structures or tunes" />
+                        <ul id="results" style={{
+                            display: 'contents',
+                            backgroundColor: 'white',
+                            borderStyle: 'groove',
+                            position: 'absolute',
+                            top: '33px',
+                            paddingRight: '16px',
+                            paddingLeft: '0px'
+                        }}></ul>
+                    </div>
+
+                    <button onClick={() => {
+                        setShowDialog(true);
+                    }}>
+                        Prepare Graph..
+                    </button>
+                    <div ref={infoRef} style={{ marginTop: '3px' }} />
+                </div>
             </div>
+
+            {showDialog && (
+                <CsvDialog drawGraph={drawGraph} setShowDialog={setShowDialog} />
+            )}
+
             <svg ref={svgRef} style={{
                 backgroundColor: 'antiquewhite',
                 zIndex: "-1",
-            }}></svg>
-            <div ref={divRef} style={{
-                position: "fixed",
-                zIndex: 3000,
-                top: "20px",
-                left: "20px",
-                backgroundColor: "white",
-                borderStyle: "groove",
             }}>
-                <button id='expand'>
-                    Expand All
-                </button>
-
-                <button id='contract'>
-                    Collapse All
-                </button>
-
-                <input type="text" id="search" placeholder="    Search for structures or tunes"/>
-            </div>
+            </svg>
         </>
     );
 }
