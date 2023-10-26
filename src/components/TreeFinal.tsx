@@ -3,6 +3,7 @@
 import * as d3 from "d3";
 import React, { useEffect, useState, useRef } from 'react';
 import CsvDialog from "./CsvDialog";
+import TuneModal from "./TuneModal";
 
 const width = 2100;
 const dx = 14, dy = width / 9;
@@ -38,13 +39,27 @@ export default function TreeFinal() {
     let searchElement = [];
     let root;
     let i = 0;
+    let sessionMapping;
+    let nameToIdMapping;
 
     const [info, setInfo] = useState({ 'parts': '', 'classifications': [""], 'count': 0 });
     const [showDialog, setShowDialog] = useState(false);
+    const [selectedSessionId, setSelectedSessionId] = useState(-1);
+    const [selectedTuneTitle, setSelectedTuneTitle] = useState("");
+    const [selectedTuneStructure, setSelectedTuneStructure] = useState([]);
 
     document.body.style.backgroundColor = 'antiquewhite';
 
-    const drawGraph = async (processedCsv) => {
+    const drawGraph = async (processedCsv, nameToIdJson) => {
+        sessionMapping = await fetch('/assets/sessionMapping.json', {
+            headers: {
+                'Content-Type': 'application/json',
+                'Accept': 'application/json'
+            }
+        })
+        sessionMapping = await sessionMapping.json();
+        nameToIdMapping = await JSON.parse(nameToIdJson);
+
         const nodes = await JSON.parse(processedCsv);
         const info = nodes.splice(nodes.length - 1);
         setInfo(info[0]); // Get info element
@@ -230,11 +245,9 @@ export default function TreeFinal() {
 
                         update(d);
                     } else {
-                        window.open(
-                            "https://www.irishtune.info/search.php?lookfor=words&term=" +
-                            d.data.name.replace(/ /g, '+') +
-                            "&type=any"
-                            , '_blank');
+                        setSelectedSessionId(sessionMapping[nameToIdMapping[d.data.name]]);
+                        setSelectedTuneTitle(d.data.name)
+                        setSelectedTuneStructure(d.parent.data.name.split(','));
                     }
                 });
 
@@ -304,8 +317,6 @@ export default function TreeFinal() {
         }
 
         document.getElementById('contract').onclick = () => {
-            const descendants = root.descendants();
-
             root.descendants().forEach((d, i) => {
                 if (d.depth > 0) {
                     let pred = true;
@@ -328,8 +339,6 @@ export default function TreeFinal() {
         document.getElementById('search').onkeyup = (e) => {
             if (e.key === 'Enter') {
                 if (searchElement.length) {
-                    console.log(searchElement)
-                    console.log(i)
                     const boundingRect = searchElement[i].getBoundingClientRect();
                     window.scrollTo(0, boundingRect.top + window.scrollY - 500);
 
@@ -348,7 +357,13 @@ export default function TreeFinal() {
 
                     searchElement = [];
                     i = 0;
+
                 }
+                console.log('!')
+
+                const resultsElement = document.getElementById('results');
+                resultsElement.innerHTML = "";
+                resultsElement.style.display = "contents";
                 return;
             }
 
@@ -441,7 +456,7 @@ export default function TreeFinal() {
                     </button>
 
                     <div style={{ display: 'flex' }}>
-                        <input type="text" id="search" placeholder="Search for structures or tunes" />
+                        <input type="text" id="search" placeholder="Search for structures or tunes" autoComplete="off"/>
                         <ul id="results" style={{
                             display: 'contents',
                             backgroundColor: 'white',
@@ -471,6 +486,15 @@ export default function TreeFinal() {
                 zIndex: "-1",
             }}>
             </svg>
+
+            {selectedSessionId >= 0 && (
+                <TuneModal sessionId={selectedSessionId}
+                    setSelectedSessionId={setSelectedSessionId}
+                    tuneTitle={selectedTuneTitle}
+                    setSelectedTuneTitle={setSelectedTuneTitle}
+                    structure={selectedTuneStructure}
+                />
+            )}
         </>
     );
 }

@@ -1,4 +1,4 @@
-import React from 'react';
+import React, {useState} from 'react';
 import { loadPyodide } from "pyodide";
 
 async function processCsv(idToStructureCsv: File, idToNameCsv: File, parts: string, classifications: string) {
@@ -43,6 +43,7 @@ classificationsDict = {
 }
 
 dictList = []
+nameToIdDict = {}
 idToStructureCsv = csv.reader(io.StringIO(structure_csv, newline=''), delimiter=',', quotechar='"')
 idToNameCsv = csv.reader(io.StringIO(name_csv, newline=''), delimiter=',', quotechar='"')
 
@@ -65,28 +66,35 @@ for row in idToStructureCsv:
       counter = counter + 1
 
 for row in idToNameCsv:
+    nameToIdDict[row[3]] = row[1]
+
     for dict in dictList:
       if dict['name'] == row[1]:
         dict['name'] = row[3]
 dictList.append({'parts': parts, 'classifications': classifications, 'count': counter})
 output = json.dumps(dictList)
+output2 = json.dumps(nameToIdDict)
         `;
 
     pyodide.globals.set('structure_csv', idToStructureURL)
     pyodide.globals.set('name_csv', idToNameURL)
     await pyodide.runPythonAsync(script);
     const json_output = pyodide.globals.get('output');
-    return json_output;
+    const json_output2 = pyodide.globals.get('output2');
+    return [json_output, json_output2];
 }
 
+let idToStructureFile, idToNameFile;
+
 export default function CsvDialog({ drawGraph, setShowDialog }) {
-    let idToStructureFile, idToNameFile;
     let parts, classifications;
+
+    const [filesSelected, setFilesSelected] = useState(idToStructureFile != null && idToNameFile != null);
 
     return (
         <>
             <div style={{ width: '100%', height: '100%', position: 'fixed', zIndex: '2', backgroundColor: 'antiquewhite' }}>
-                <div style={{ display: 'grid' }}>
+                <div style={{ display: 'grid', justifyContent: 'left', gridTemplateColumns: '1000px' }}>
                     <input type="text" id="parts" placeholder="Parts, e.g. A, AB, CDE" onInput={(e: React.ChangeEvent<HTMLInputElement>) => {
                         parts = e.target.value;
                     }} />
@@ -95,22 +103,25 @@ export default function CsvDialog({ drawGraph, setShowDialog }) {
                         classifications = e.target.value;
                     }} />
 
+                    {!filesSelected && (
+                        <>
+                            <label htmlFor='idToStructure' style={{ justifySelf: 'left' }}>CSV mapping tune IDs to their structures | Example: Detail1.csv</label>
+                            <input type='file' id='idToStructure' accept=".csv" onChange={async (e) => {
+                                idToStructureFile = e.target.files[0];
+                            }} />
+                            <label htmlFor='idToName' style={{ justifySelf: 'left' }}>CSV mapping tune IDs to their names | Example: oneill.csv (https://www.irishtune.info/public/oneill.htm)</label>
+                            <input type='file' id='idToName' accept=".csv" onChange={async (e) => {
+                                idToNameFile = e.target.files[0];
+                            }} />
+                        </>
+                    )}
 
-                    <label htmlFor='idToStructure' style={{ justifySelf: 'left' }}>CSV mapping tune IDs to their structures</label>
-                    <input type='file' id='idToStructure' accept=".csv" onChange={async (e) => {
-                        idToStructureFile = e.target.files[0];
-                    }} />
-
-                    <label htmlFor='idToName' style={{ justifySelf: 'left' }}>CSV mapping tune IDs to their names</label>
-                    <input type='file' id='idToName' accept=".csv" onChange={async (e) => {
-                        idToNameFile = e.target.files[0];
-                    }} />
 
                     <button onClick={async () => {
-                        const result = await processCsv(idToStructureFile, idToNameFile, parts, classifications);
-                        console.log(result)
-                        drawGraph(result);
+                        const [result, nameToIdJson] = await processCsv(idToStructureFile, idToNameFile, parts, classifications);
+                        drawGraph(result, nameToIdJson);
                         setShowDialog(false);
+                        setFilesSelected(true);
                     }}>
                         Create Graph
                     </button>
