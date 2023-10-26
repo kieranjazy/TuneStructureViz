@@ -73,7 +73,8 @@ export default function TuneModal({ sessionId, tuneTitle, setSelectedSessionId, 
                     visualObj: visualObject,
                     millisecondsPerMeasure: 2000,
                     options: {
-                        pan: [-0.3, 0.3]
+                        pan: [-0.3, 0.3],
+                        soundFontVolumeMultiplier: 0.45
                     }
                 }).then(function (results) {
                     synth.prime().then((res) => {
